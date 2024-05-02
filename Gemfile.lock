@@ -272,9 +272,23 @@ PLATFORMS
   x64-mingw-ucrt
 
 DEPENDENCIES
+  activesupport (~> 7.1)
+  bigdecimal (~> 3.1)
+  dnsruby (~> 1.72)
+  drb (~> 2.2)
+  faraday (~> 2.9)
+  faraday-net_http (~> 3.1)
   github-pages (~> 231)
+  i18n (~> 1.14)
   jekyll-include-cache
-  minimal-mistakes-jekyll
+  listen (~> 3.9)
+  minimal-mistakes-jekyll (~> 4.25)
+  minitest (~> 5.22)
+  net-http (~> 0.4.1)
+  nokogiri (~> 1.16)
+  public_suffix (~> 5.0)
+  simpleidn (~> 0.2.2)
+  uri (~> 0.13.0)
   webrick (~> 1.8)
 
 BUNDLED WITH
