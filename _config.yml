@@ -21,11 +21,10 @@
 title: Shadows of Intrigue
 email: adam.brown.x.ridley@gmail.com
 description: This is a description.
-twitter_username: 
 github_username:  RidleyB
 theme: minimal-mistakes-jekyll
-domain: shadows-of-intrigue.wiki
-url: https://shadows-of-intrigue.wiki
+domain: ridleyb.github.io
+url: https://ridleyb.github.io
 
 plugins:
    - jekyll-include-cache
@@ -38,14 +37,14 @@ plugins:
 # Excluded items can be processed by explicitly listing the directories or
 # their entries' file path in the `include:` list.
 #
-# exclude:
-#   - .sass-cache/
-#   - .jekyll-cache/
-#   - gemfiles/
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules/
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+exclude:
+   - .sass-cache/
+   - .jekyll-cache/
+   - gemfiles/
+   - Gemfile
+   - Gemfile.lock
+   - node_modules/
+   - vendor/bundle/
+   - vendor/cache/
+   - vendor/gems/
+   - vendor/ruby/
