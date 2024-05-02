@@ -280,7 +280,7 @@ DEPENDENCIES
   faraday-net_http (~> 3.1)
   github-pages (~> 231)
   i18n (~> 1.14)
-  jekyll-include-cache
+  jekyll-include-cache (~> 0.2.1)
   listen (~> 3.9)
   minimal-mistakes-jekyll (~> 4.25)
   minitest (~> 5.22)
