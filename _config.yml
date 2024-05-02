@@ -22,7 +22,7 @@ title: Shadows of Intrigue
 email: adam.brown.x.ridley@gmail.com
 description: This is a description.
 github_username:  RidleyB
-theme: minimal-mistakes-jekyll
+remote_theme: "mmistakes/minimal-mistakes@4.25.1"
 domain: ridleyb.github.io
 url: https://ridleyb.github.io
 
