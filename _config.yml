@@ -27,7 +27,7 @@ domain: shadowsofintrigue.wiki
 url: https://shadowsofintrigue.wiki
 
 # Build settings
-theme: minima
+theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-feed
 
