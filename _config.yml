@@ -23,13 +23,12 @@ email: adam.brown.x.ridley@gmail.com
 description: This is a description.
 twitter_username: 
 github_username:  RidleyB
-domain: shadowsofintrigue.wiki
-url: https://shadowsofintrigue.wiki
-
-# Build settings
 theme: minimal-mistakes-jekyll
+domain: shadows-of-intrigue.wiki
+url: https://shadows-of-intrigue.wiki
+
 plugins:
-  - jekyll-feed
+   - jekyll-include-cache
 
 # Exclude from processing.
 # The following items will not be processed, by default.
