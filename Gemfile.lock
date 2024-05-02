@@ -271,7 +271,7 @@ PLATFORMS
   x64-mingw-ucrt
 
 DEPENDENCIES
-  github-pages
+  github-pages (~> 231)
   jekyll-include-cache
   minimal-mistakes-jekyll
 
