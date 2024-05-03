@@ -1,6 +1,6 @@
 ---
 title:  "Sen, the Celestial City"
-layout: single
+layout: splash
 classes: wide
 header:
    overlay_image: /assets/images/sen-splash-1.jpg
