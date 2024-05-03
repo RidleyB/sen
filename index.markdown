@@ -8,7 +8,7 @@ header:
 author_profile: true
 ---
 
-*Amidst the streets of the celestial city of Sen, a metropolis brimming with diverse cultures and innovation, the stage is set for a tale of political intrigue and high-stakes maneuvering. A thrilling tale revolving around the illustrious *Viola Santini*, the matriarch of a grand aristocratic household. In this story, you will find yourself embroiled in a world where political influence is wielded as deftly as a sword, and every word spoken can carry the weight of a dynasty.*
+*Amidst the streets of the celestial city of Sen, a metropolis brimming with diverse cultures and innovation, the stage is set for a tale of political intrigue and high-stakes maneuvering. A thrilling tale revolving around the illustrious **Viola Santini**, the matriarch of a grand aristocratic household. In this story, you will find yourself embroiled in a world where political influence is wielded as deftly as a sword, and every word spoken can carry the weight of a dynasty.*
 
 *As you navigate the intricate web that defines Sen's aristocracy, you will encounter a cast of characters as colorful and diverse as the city itself; cunning nobles, shrewd merchants, ambitious upstarts, all vying to carve out their own little kingdoms in the city. And behind the facade of wealth and privilege, secrets lie hidden, waiting to be uncovered by those with the tenacity to seek them out.*
 
