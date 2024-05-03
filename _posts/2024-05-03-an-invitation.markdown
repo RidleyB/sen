@@ -1,3 +1,8 @@
+---
+title:  "An Invitation"
+date:   2024-05-03
+---
+
 *Esteemed Guests,*
 
 *You are formally invited to join the us for an evening of elegance,

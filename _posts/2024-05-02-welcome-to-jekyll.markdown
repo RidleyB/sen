@@ -1,6 +1,6 @@
 ---
 title:  "Welcome to Jekyll!"
-date:   2024-05-02 12:48:25 -0400
+date:   2024-05-02
 categories: jekyll update
 ---
 
