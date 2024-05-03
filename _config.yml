@@ -56,7 +56,11 @@ defaults:
       type: posts
     values:
       layout: single
+      classes:
+         - landing
+         - dark theme
       author_profile: true
+      toc: true
       read_time: true
       comments: true
       share: true
