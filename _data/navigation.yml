@@ -1,3 +1,5 @@
 main:
    - title: "Lore"
-   - url: /docs/_lore/
+   url: /docs/_lore/
+   - title: "Player Content"
+   url: /docs/_content/
