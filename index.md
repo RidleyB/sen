@@ -1,11 +1,10 @@
 ---
 title:  "Sen, the Celestial City"
-title_separator: "|"
 layout: splash
 header:
    overlay_image: /assets/images/sen-splash-1.jpg
    overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-author_profile: true
+excerpt: A planned story taking place in the Celestial city of Sen (Run in 5e)
 ---
 
 Amidst the streets of the celestial city of Sen, a metropolis brimming with diverse cultures and innovation, the stage is set for a tale of political intrigue and high-stakes maneuvering. A thrilling tale revolving around the illustrious **Viola Santini**, the matriarch of a grand aristocratic household. In this story, you will find yourself embroiled in a world where political influence is wielded as deftly as a sword, and every word spoken can carry the weight of a dynasty.
