@@ -1,5 +1,5 @@
 ---
-title:  "Sen, the Celestial City"
+title:  "Shadows of Intrigue"
 layout: splash
 header:
    overlay_image: /assets/images/sen-splash-1.jpg
