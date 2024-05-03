@@ -21,7 +21,7 @@ elite.*
 
 *In addition to the festivities, the we have arranged for a special
 address by Viola Santini herself, matriarch of our esteemed family. Join
-us as Viola shares her insights on the pressing challenges facing our
+us as she shares her insights on the pressing challenges facing our
 community and outlines the Santini family's commitment to safeguarding
 the prosperity and security of Sen for generations to come.*
 
