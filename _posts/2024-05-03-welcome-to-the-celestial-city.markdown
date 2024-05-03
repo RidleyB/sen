@@ -1,3 +1,8 @@
+---
+title:  "Welcome to the Celestial City"
+date:   2024-05-03
+---
+
 ### **Setting**
 
 At the heart of the known universe lies Sen, a city built at the center
