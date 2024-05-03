@@ -19,7 +19,6 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Shadows of Intrigue
-title_separator: "|"
 logo: "/assets/images/sen-logo-256.png"
 email: adam.brown.x.ridley@gmail.com
 description: This is a description.
@@ -62,7 +61,7 @@ defaults:
       layout: single
       author_profile: true
       toc: true
-      read_time: true
       comments: true
       share: true
       related: true
+      title_separator: "|"
