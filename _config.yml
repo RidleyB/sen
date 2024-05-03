@@ -29,7 +29,7 @@ plugins:
 
 author:
   name             : *gmname # *gmname is a YAML reference pointing to the &anchor earlier
-  avatar           : "/assets/images/author.png"
+  avatar           : "/assets/images/author.jpg"
   bio              : "Just a guy."
   location         : "The Celestial City"
 
