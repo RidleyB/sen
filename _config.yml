@@ -22,16 +22,16 @@ github_username:  RidleyB
 domain: ridleyb.github.io
 url: https://ridleyb.github.io
 
-search: true
+#search: true
 
 plugins:
   - jekyll-include-cache
 
-author:
-  name             : *gmname # *gmname is a YAML reference pointing to the &anchor earlier
-  avatar           : "/assets/images/author.jpg"
-  bio              : "Just a guy."
-  location         : "The Celestial City"
+#author:
+#  name             : *gmname # *gmname is a YAML reference pointing to the &anchor earlier
+#  avatar           : "/assets/images/author.jpg"
+#  bio              : "Just a guy."
+#  location         : "The Celestial City"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
