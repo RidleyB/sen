@@ -25,11 +25,6 @@ baseurl: "/shadows-of-intrigue"
 search: true
 
 plugins:
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-feed
-  - jemoji
   - jekyll-include-cache
 
 author:
