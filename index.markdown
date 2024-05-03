@@ -1,6 +1,4 @@
 ---
-layout: home
-header:
-   image: /assets/images/sen-splash-1.jpg
+layout: splash
 author_profile: true
 ---
