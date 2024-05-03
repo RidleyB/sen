@@ -20,5 +20,5 @@ Through fated circumstance, you find yourself attending a grand gala at the Sant
 > I plan on running the story over a few months- no set date on when it will start, this is just to get you excited and to start thinking about a character that might fit the setting for a story surrounding a powerful aristocratic family. **Note:** While Sen and the Violet Lady have appeared previously in the Oster campaign, I can assure those who did not take part that that story has no bearing on this one; during the course of that campaign Sen was primarily shrouded in mystery, and the Violet Lady was portrayed very differently to how she is in this story. As of writing this, I have no intention of linking the two stories; I’m merely re-using concepts and ideas I’ve already established in my own writing. If anyone has any concerns about any content relating to the previous campaign I ran, reach out to me and we can discuss.
 
 # More Coming Soon...
-- {% link _posts/2024-05-03-an-invitation.md %}
+- [An Invitation]({% link _posts/2024-05-03-an-invitation.md %})
 - Check back soon for new content!
