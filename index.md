@@ -21,4 +21,5 @@ Through fated circumstance, you find yourself attending a grand gala at the Sant
 
 # More Coming Soon...
 - [An Invitation](/sen/2024/05/03/an-invitation)
+- [Test](/2024/05/03/an-invitation)
 - Check back soon for new content!
