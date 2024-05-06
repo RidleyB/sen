@@ -30,8 +30,6 @@ gem "nokogiri", "~> 1.16"
 
 gem "minimal-mistakes-jekyll", "~> 4.25"
 
-gem "github-pages", "~> 231"
-
 gem "jekyll-include-cache", "~> 0.2.1"
 
 gem "webrick", "~> 1.8"
