@@ -18,6 +18,53 @@ Through fated circumstance, you find yourself attending a grand gala at the Sant
 
 > I plan on running the story over a few months- no set date on when it will start, this is just to get you excited and to start thinking about a character that might fit the setting for a story surrounding a powerful aristocratic family. **Note:** While Sen and the Violet Lady have appeared previously in the Oster campaign, I can assure those who did not take part that that story has no bearing on this one; during the course of that campaign Sen was primarily shrouded in mystery, and the Violet Lady was portrayed very differently to how she is in this story. As of writing this, I have no intention of linking the two stories; I’m merely re-using concepts and ideas I’ve already established in my own writing. If anyone has any concerns about any content relating to the previous campaign I ran, reach out to me and we can discuss.
 
+**I recommend beginning your journey through the wiki in the Campaign
+section (\[\[Campaign\|here\]\]). It gives an overview of setting, cast
+of characters, and sets the tone for the story. You've been warned if
+you start elsewhere!**
+
+# **Campaign** \[\[Campaign\|(Link)\]\]
+
+The current story, along with a brief timeline of events.
+
+# **Rules & Restrictions** \[\[Rules & Restrictions\|(Link)\]\]
+
+An overview of any restricted content, along with houserules we'll be
+playing with.
+
+# **Factions**
+
+-   \[\[The Order of the Open Hand\|**The Order of the Open Hand**\]\] -
+    The religious order following Anzu, Bridge Between Worlds.
+-   \[\[Order of the Open Hand: Paladin Branch\|**The Paladins of
+    Sen**\]\] - An order of Paladins under the Open Hand.
+-   \[\[The Collegium Arcanum\|**The Collegium Arcanum**\]\] - A
+    collective of mages and scholars furthering the progress of magic
+    and science throughout Sen.
+-   \[\[The Santini Family\|**The Santini Family**\]\] - As one of the
+    oldest and most influential families in Sen, the Santinis have
+    established a diverse portfolio of enterprises. They maintain
+    relationships with each of their neighboring families, intricately
+    meshing themselves into their affairs.
+-   \[\[The Montaigne Family\|**The Montaigne Family**\]\] - Hailing
+    from a long line of scholars and intellectuals, the Montaignes are
+    revered for their contributions to academia and education.
+-   \[\[The Del Vecchio Family\|**The Del Vecchio Family**\]\] -
+    Renowned for their mastery of finance and commerce, the Del Vecchios
+    dominate the city's banking sector and investment enterprises.
+-   \[\[The Reinhardt Family\|**The Reinhardt Family**\]\] - Known for
+    their expertise in engineering and architecture, the Reinhardts have
+    built their reputation on constructing grand structures and
+    technological marvels within Sen.
+-   \[\[The Blanchard Family\|**The Blanchard Family**\]\] - A family
+    with deep roots in the arts and culture, the Blanchards excel in
+    entertainment, hospitality, and fine arts.
+
+# **Lore**
+
+-   \[\[World History\|**World History**\]\] - A recount of Sen's world
+    history and how it came to be.
+
 # More Coming Soon...
 - [An Invitation](https://ridleyb.github.io/the-celestial-city/2024/05/03/an-invitation.html)
 - Check back soon for new content!
