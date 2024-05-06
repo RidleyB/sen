@@ -1,5 +1,6 @@
 ---
 title:  "Shadows of Intrigue"
+date: 2024-05-03
 layout: splash
 header:
    overlay_image: /assets/images/sen-splash-1.jpg
