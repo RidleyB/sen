@@ -21,8 +21,9 @@ mermaid: true
 
 permalink: pretty
 
-domain: ridleyb.github.io
-url: https://ridleyb.github.io
+domain: ridleyb.github.io/sen
+url: https://ridleyb.github.io/sen
+baseurl: /sen
 #search: true
 
 plugins:
