@@ -23,46 +23,45 @@ section (\[\[Campaign\|here\]\]). It gives an overview of setting, cast
 of characters, and sets the tone for the story. You've been warned if
 you start elsewhere!**
 
-# **Campaign** \[\[Campaign\|(Link)\]\]
+# **Campaign** [(Link)]({% post_url 2024-05-06-campaign-overview %})
 
 The current story, along with a brief timeline of events.
 
-# **Rules & Restrictions** \[\[Rules & Restrictions\|(Link)\]\]
+# **Rules & Restrictions** [(Link)]({% post_url xxxx-xx-xx-name %})
 
 An overview of any restricted content, along with houserules we'll be
 playing with.
 
 # **Factions**
 
--   \[\[The Order of the Open Hand\|**The Order of the Open Hand**\]\] -
+-   [**The Order of the Open Hand**]({% post_url xxxx-xx-xx-name %}) -
     The religious order following Anzu, Bridge Between Worlds.
--   \[\[Order of the Open Hand: Paladin Branch\|**The Paladins of
-    Sen**\]\] - An order of Paladins under the Open Hand.
--   \[\[The Collegium Arcanum\|**The Collegium Arcanum**\]\] - A
+-   [**Order of the Open Hand: Paladin Branch**]({% post_url xxxx-xx-xx-name %}) - An order of Paladins under the Open Hand.
+-   [**The Collegium Arcanum**]({% post_url xxxx-xx-xx-name %}) - A
     collective of mages and scholars furthering the progress of magic
     and science throughout Sen.
--   \[\[The Santini Family\|**The Santini Family**\]\] - As one of the
+-   [The Santini Family]({% post_url xxxx-xx-xx-name %}) - As one of the
     oldest and most influential families in Sen, the Santinis have
     established a diverse portfolio of enterprises. They maintain
     relationships with each of their neighboring families, intricately
     meshing themselves into their affairs.
--   \[\[The Montaigne Family\|**The Montaigne Family**\]\] - Hailing
+-   [The Montaigne Family]({% post_url xxxx-xx-xx-name %}) - Hailing
     from a long line of scholars and intellectuals, the Montaignes are
     revered for their contributions to academia and education.
--   \[\[The Del Vecchio Family\|**The Del Vecchio Family**\]\] -
+-   [The Del Vecchio Family]({% post_url xxxx-xx-xx-name %}) -
     Renowned for their mastery of finance and commerce, the Del Vecchios
     dominate the city's banking sector and investment enterprises.
--   \[\[The Reinhardt Family\|**The Reinhardt Family**\]\] - Known for
+-   [The Reinhardt Family]({% post_url xxxx-xx-xx-name %}) - Known for
     their expertise in engineering and architecture, the Reinhardts have
     built their reputation on constructing grand structures and
     technological marvels within Sen.
--   \[\[The Blanchard Family\|**The Blanchard Family**\]\] - A family
+-   [The Blanchard Family]({% post_url xxxx-xx-xx-name %}) - A family
     with deep roots in the arts and culture, the Blanchards excel in
     entertainment, hospitality, and fine arts.
 
 # **Lore**
 
--   \[\[World History\|**World History**\]\] - A recount of Sen's world
+-   [World History]({% post_url xxxx-xx-xx-name %}) - A recount of Sen's world
     history and how it came to be.
 
 # More Coming Soon...
