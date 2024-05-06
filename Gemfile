@@ -35,3 +35,5 @@ gem "jekyll-include-cache", "~> 0.2.1"
 gem "webrick", "~> 1.8"
 
 gem "mermaid", "~> 0.0.1"
+
+gem "jekyll", "~> 4.3"
