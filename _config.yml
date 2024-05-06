@@ -64,4 +64,3 @@ defaults:
       comments: true
       share: false
       related: true
-      mermaid: true
