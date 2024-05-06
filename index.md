@@ -27,41 +27,41 @@ you start elsewhere!**
 
 The current story, along with a brief timeline of events.
 
-# **Rules & Restrictions** [(Link)]({% post_url xxxx-xx-xx-name %})
+# **Rules & Restrictions** [(Link)]({% post_url 0000-00-00-name %})
 
 An overview of any restricted content, along with houserules we'll be
 playing with.
 
 # **Factions**
 
--   [**The Order of the Open Hand**]({% post_url xxxx-xx-xx-name %}) -
+-   [**The Order of the Open Hand**]({% post_url 0000-00-00-name %}) -
     The religious order following Anzu, Bridge Between Worlds.
--   [**Order of the Open Hand: Paladin Branch**]({% post_url xxxx-xx-xx-name %}) - An order of Paladins under the Open Hand.
--   [**The Collegium Arcanum**]({% post_url xxxx-xx-xx-name %}) - A
+-   [**Order of the Open Hand: Paladin Branch**]({% post_url 0000-00-00-name %}) - An order of Paladins under the Open Hand.
+-   [**The Collegium Arcanum**]({% post_url 0000-00-00-name %}) - A
     collective of mages and scholars furthering the progress of magic
     and science throughout Sen.
--   [The Santini Family]({% post_url xxxx-xx-xx-name %}) - As one of the
+-   [The Santini Family]({% post_url 0000-00-00-name %}) - As one of the
     oldest and most influential families in Sen, the Santinis have
     established a diverse portfolio of enterprises. They maintain
     relationships with each of their neighboring families, intricately
     meshing themselves into their affairs.
--   [The Montaigne Family]({% post_url xxxx-xx-xx-name %}) - Hailing
+-   [The Montaigne Family]({% post_url 0000-00-00-name %}) - Hailing
     from a long line of scholars and intellectuals, the Montaignes are
     revered for their contributions to academia and education.
--   [The Del Vecchio Family]({% post_url xxxx-xx-xx-name %}) -
+-   [The Del Vecchio Family]({% post_url 0000-00-00-name %}) -
     Renowned for their mastery of finance and commerce, the Del Vecchios
     dominate the city's banking sector and investment enterprises.
--   [The Reinhardt Family]({% post_url xxxx-xx-xx-name %}) - Known for
+-   [The Reinhardt Family]({% post_url 0000-00-00-name %}) - Known for
     their expertise in engineering and architecture, the Reinhardts have
     built their reputation on constructing grand structures and
     technological marvels within Sen.
--   [The Blanchard Family]({% post_url xxxx-xx-xx-name %}) - A family
+-   [The Blanchard Family]({% post_url 0000-00-00-name %}) - A family
     with deep roots in the arts and culture, the Blanchards excel in
     entertainment, hospitality, and fine arts.
 
 # **Lore**
 
--   [World History]({% post_url xxxx-xx-xx-name %}) - A recount of Sen's world
+-   [World History]({% post_url 0000-00-00-name %}) - A recount of Sen's world
     history and how it came to be.
 
 # More Coming Soon...
