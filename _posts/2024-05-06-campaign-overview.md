@@ -1,6 +1,6 @@
 ---
-title:  "Campaign Overview"
-date:   2024-05-06
+title: "Campaign Overview"
+date: 2024-05-06
 ---
 
 # Setting
