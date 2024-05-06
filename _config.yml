@@ -56,7 +56,7 @@ exclude:
 
 defaults:
   - scope:
-      path: "sen/"
+      path: ""
       type: posts
     values:
       layout: single
