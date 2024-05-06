@@ -23,7 +23,7 @@ section (\[\[Campaign\|here\]\]). It gives an overview of setting, cast
 of characters, and sets the tone for the story. You've been warned if
 you start elsewhere!**
 
-# Campaign | [Link]({% post_url 2024-05-06-campaign-overview %})
+# Campaign | [Link]({% post_url /_posts/2024-05-06-campaign-overview %})
 
 The current story, along with a brief timeline of events.
 
