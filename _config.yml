@@ -19,10 +19,10 @@ description: A planned 5e story taking place in the Celestial city of Sen.
 github_username:  RidleyB
 mermaid: true
 
+permalink: pretty
 
-domain: ridleyb.github.io/the-celestial-city
-url: https://ridleyb.github.io/the-celestial-city
-
+domain: ridleyb.github.io
+url: https://ridleyb.github.io
 #search: true
 
 plugins:
