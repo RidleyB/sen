@@ -19,10 +19,9 @@ description: A planned 5e story taking place in the Celestial city of Sen.
 github_username:  RidleyB
 mermaid: true
 
-permalink: pretty
-
-domain: ridleyb.github.io
-url: https://ridleyb.github.io
+domain: ridleyb.github.io/sen
+url: https://ridleyb.github.io/sen
+baseurl: /sen
 #search: true
 
 plugins:
@@ -57,7 +56,7 @@ exclude:
 
 defaults:
   - scope:
-      path: ""
+      path: "sen/"
       type: posts
     values:
       layout: single
