@@ -1,6 +1,6 @@
 ---
 title:  "Shadows of Intrigue"
-permalink: /sen/
+permalink: /
 date: 2024-05-03
 layout: splash
 header:
