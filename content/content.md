@@ -1,3 +1,3 @@
 ---
-permalink: /sen/content/
+permalink: /content/
 ---

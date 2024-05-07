@@ -1,3 +1,3 @@
 ---
-permalink: /sen/lore/
+permalink: /lore/
 ---
