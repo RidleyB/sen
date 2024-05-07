@@ -1,6 +1,7 @@
 ---
 title:  "An Invitation"
 date:   2024-05-03
+category: content
 ---
 
 *Esteemed Guests,*

@@ -1,6 +1,7 @@
 ---
 title: "Campaign Overview"
 date: 2024-05-06
+category: post
 ---
 
 # Setting
@@ -15,34 +16,34 @@ Our story surrounds the prestigious Santini family, and the other political fami
 
 # *Main Characters*
 
-The [Santini Family]({% post_url 2024-01-01-name %} family is large and filled with gifted and skilled individuals, nearly all singular in their talents. At its head is Viola Santini, matriarch and head of all the family's operations. In the absence of their late father, Salvatore Russo, their children have stepped up to each manage their own sections of the Santini dynasty..
+The [Santini Family](/sen/factions/the-santini-family) family is large and filled with gifted and skilled individuals, nearly all singular in their talents. At its head is Viola Santini, matriarch and head of all the family's operations. In the absence of their late father, Salvatore Russo, their children have stepped up to each manage their own sections of the Santini dynasty..
 
-*Viola  Santini* | [Link]({% post_url 2024-01-01-name %}
+*Viola  Santini* | [Link](/sen/factions/the-santini-family)
 Viola Santini, the revered matriarch of the Santini family, commands respect and adoration in equal measure. Known for her grace, wisdom, and unwavering devotion to her family, she is a formidable presence in city of Sen.
 
-*Salvatore Russo* | [Link]({% post_url 2024-01-01-name %}
+*Salvatore Russo* | [Link](/sen/factions/the-santini-family)
 Salvatore commanded a prominent presence in Sen's aristocracy until his passing nearly a decade ago. He was a respected figure in Sen's social circles, known for his contributions to the city's cultural endeavors.
 
-*Francesca Santini* | [Link]({% post_url 2024-01-01-name %}
+*Francesca Santini* | [Link](/sen/factions/the-santini-family)
 The eldest child of Viola Santini. Skilled in both combat and diplomacy, Francesca is a formidable presence in both the boardroom and the battlefield. She manages the family's businesses and serves as a lead enforcer in the Santini boroughs.
 
-*Giovanna Santini* | [Link]({% post_url 2024-01-01-name %}
+*Giovanna Santini* | [Link](/sen/factions/the-santini-family)
 Second eldest child of Viola Santini. Gifted with a sharp mind for numbers and negotiation, Giovanna oversees the family's finances and investments, skillfully managing their wealth. Her ambitious nature and keen business acumen drive her pursuit of wealth and power within Sen's aristocracy.
 
-*Alessia Santini* | [Link]({% post_url 2024-01-01-name %}
+*Alessia Santini* | [Link](/sen/factions/the-santini-family)
 Third eldest child of Viola Santini. Alessia is the epitome of grace and charm, often seen at the most exclusive gatherings. While she appears to live a life of luxury and leisure, Alessia is highly adept at networking and handling the family's social connections.
 
-*Luciano Santini* | [Link]({% post_url 2024-01-01-name %}
+*Luciano Santini* | [Link](/sen/factions/the-santini-family)
 Fourth eldest child of Viola Santini. The only son of La Madre, Luciano is often regarded as the black sheep of the family. He is disinterested and ineffectual when it comes to family affairs, lacking ambition and the necessary skills to involve himself in the family's enterprises.
 
-*Caterina Santini* | [Link]({% post_url 2024-01-01-name %}
+*Caterina Santini* | [Link](/sen/factions/the-santini-family)
 Fifth eldest child of Viola Santini. The youngest daughter of the Santini family, Caterina is known for her ability to handle herself in delicate situations with finesse and grace. She is new to the political scene, emerging with her newlywed husband Fabrizio de Luca.
 
-Among the Santinis are a number of neighboring families, all players in the political scene, vying for power amongst the boroughs of Sen. Each family will play a role in the story, some large and some small. The [Reinhardts]({% post_url 2024-01-01-name %}, the [Del Vecchios]({% post_url 2024-01-01-name %}, the [Blanchards]({% post_url 2024-01-01-name %}, and the [Montaignes]({% post_url 2024-01-01-name %} will all be in attendance at the grand gala, spreading their influence and socializing with the city's elite. Each family has their own involvement with the Santinis and their own agendas they're trying to push. 
+Among the Santinis are a number of neighboring families, all players in the political scene, vying for power amongst the boroughs of Sen. Each family will play a role in the story, some large and some small. The [Reinhardts](/sen/factions/the-santini-family), the [Del Vecchios](/sen/factions/the-santini-family), the [Blanchards](/sen/factions/the-santini-family), and the [Montaignes](/sen/factions/the-santini-family) will all be in attendance at the grand gala, spreading their influence and socializing with the city's elite. Each family has their own involvement with the Santinis and their own agendas they're trying to push. 
 
 # Threat
 
-In addition to navigating the complexities of their internal dynamics, the Santini family must also contend with external threats that lurk in the shadows. Chief among these is the enigmatic [Violet Lady]({% post_url 2024-01-01-name %}, a shadowy figure whose motives and origins remain shrouded in mystery. Recent events have seen a surge in attacks throughout the city, with warehouses containing valuable magical materials being targeted with alarming frequency. Reports have also surfaced of necromantic disturbances affecting the interests of not only the Santini family but also their allies in the Blanchard and Del Vecchio clans. Furthermore, whispers of cultist activity have spread like wildfire, though no arrests have been made, leaving the city's residents to speculate on the true nature of these dark forces at work.
+In addition to navigating the complexities of their internal dynamics, the Santini family must also contend with external threats that lurk in the shadows. Chief among these is the enigmatic [Violet Lady](/sen/factions/the-santini-family), a shadowy figure whose motives and origins remain shrouded in mystery. Recent events have seen a surge in attacks throughout the city, with warehouses containing valuable magical materials being targeted with alarming frequency. Reports have also surfaced of necromantic disturbances affecting the interests of not only the Santini family but also their allies in the Blanchard and Del Vecchio clans. Furthermore, whispers of cultist activity have spread like wildfire, though no arrests have been made, leaving the city's residents to speculate on the true nature of these dark forces at work.
 
 Despite the escalating threat posed by the Violet Lady and her nefarious activities, the response from the great families of Sen has been notably muted. While rumors and whispers of the Violet Lady's actions circulate throughout the city, the great families have thus far been slow to act; this lackluster response has left many residents of Sen feeling vulnerable and exposed, as they look to the Santini family and their allies for leadership and guidance in these troubled times.
 

@@ -8,6 +8,7 @@
 remote_theme: "mmistakes/minimal-mistakes@master"
 theme_version: "4.25.1"
 minimal_mistakes_skin: "dark"
+theme: minimal-mistakes-jekyll
 
 locale: "en-US"
 title: Shadows of Intrigue
@@ -19,9 +20,8 @@ description: A planned 5e story taking place in the Celestial city of Sen.
 github_username:  RidleyB
 mermaid: true
 
-domain: ridleyb.github.io/sen
-url: https://ridleyb.github.io/sen
-baseurl: /sen
+domain: ridleyb.github.io
+url: https://ridleyb.github.io
 #search: true
 
 plugins:
@@ -42,6 +42,24 @@ plugins:
 # their entries' file path in the `include:` list.
 #
 
+collections_dir: content
+collections:
+   factions:
+      output: true
+      permalink: sen/:collection/:title
+   lore:
+      output: true
+      permalink: sen/:collection/:title
+   characters:
+      output: true
+      permalink: sen/:collection/:title
+   content:   
+      output: true
+      permalink: sen/:collection/:title
+
+include:
+- .htaccess
+
 exclude:
    - .sass-cache/
    - .jekyll-cache/
@@ -57,9 +75,19 @@ exclude:
 defaults:
   - scope:
       path: ""
-      type: posts
+      type: content
     values:
       layout: single
+      author_profile: false
+      comments: true
+      share: false
+      related: true
+
+  - scope:
+      path: ""
+      type: characters
+    values:
+      layout: 
       author_profile: false
       comments: true
       share: false
