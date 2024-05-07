@@ -8,7 +8,7 @@
 remote_theme: "mmistakes/minimal-mistakes@master"
 theme_version: "4.25.1"
 minimal_mistakes_skin: "dark"
-# theme: minimal-mistakes-jekyll
+theme: minimal-mistakes-jekyll
 
 locale: "en-US"
 title: Shadows of Intrigue
@@ -22,7 +22,6 @@ mermaid: true
 
 domain: ridleyb.github.io
 url: https://ridleyb.github.io
-baseurl: /sen/
 #search: true
 
 plugins:
@@ -47,16 +46,19 @@ collections_dir: content
 collections:
    factions:
       output: true
-      permalink: :collection/:title
+      permalink: sen/:collection/:title
+
    lore:
       output: true
-      permalink: :collection/:title
+      permalink: sen/:collection/:title
+
    characters:
       output: true
-      permalink: :collection/:title
+      permalink: sen/:collection/:title
+
    content:   
       output: true
-      permalink: :collection/:title
+      permalink: sen/:collection/:title
 
 include:
 - .htaccess
@@ -76,20 +78,9 @@ exclude:
 defaults:
   - scope:
       path: ""
-      type: content
     values:
       layout: single
       author_profile: false
-      comments: true
-      share: false
-      related: true
-
-  - scope:
-      path: ""
-      type: characters
-    values:
-      layout: 
-      author_profile: false
-      comments: true
+      comments: false
       share: false
       related: true

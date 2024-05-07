@@ -1,5 +1,9 @@
 main:
-   - title: "Lore"
-   - url: /docs/_lore/
-   - title: "Player Content"
-   - url: /docs/_content/
+    - title: Content
+      url: /sen/content/
+    - title: Factions
+      url: /sen/factions/
+    - title: Characters
+      url: /sen/characters/
+    - title: Lore
+      url: /sen/lore/
