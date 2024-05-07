@@ -46,16 +46,16 @@ collections_dir: content
 collections:
    factions:
       output: true
-      permalink: sen/:collection/:title
+      permalink: :collection/:title
    lore:
       output: true
-      permalink: sen/:collection/:title
+      permalink: :collection/:title
    characters:
       output: true
-      permalink: sen/:collection/:title
+      permalink: :collection/:title
    content:   
       output: true
-      permalink: sen/:collection/:title
+      permalink: :collection/:title
 
 include:
 - .htaccess
