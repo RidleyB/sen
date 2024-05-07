@@ -40,3 +40,5 @@ gem "jekyll-sitemap", "~> 1.4"
 gem "jekyll-include-cache", "~> 0.2.1"
 
 gem "minimal-mistakes-jekyll"
+
+gem "github-pages", "~> 231"
