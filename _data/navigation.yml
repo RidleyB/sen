@@ -1,9 +1,9 @@
 main:
     - title: Content
-      url: /sen/content/
+      url: /content/
     - title: Factions
-      url: /sen/factions/
+      url: /factions/
     - title: Characters
-      url: /sen/characters/
+      url: /characters/
     - title: Lore
-      url: /sen/lore/
+      url: /lore/
