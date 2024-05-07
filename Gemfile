@@ -42,3 +42,5 @@ gem "jekyll-include-cache", "~> 0.2.1"
 gem "minimal-mistakes-jekyll"
 
 gem "github-pages", "~> 231"
+
+gem "webrick", "~> 1.8"
