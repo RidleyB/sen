@@ -40,25 +40,27 @@ Our story surrounds five of these great families; the prestigious Santini family
 
 ---
 
+<a href="https://google.com"> Google </a>
+
 ![image]({{ santini_icon_path }}){: .align-center}
 
 # Main Characters
 
 The [Santini Family](/factions/the-santini-family) family is large and filled with gifted and skilled individuals, nearly all singular in their talents. At its head is Viola Santini, matriarch and head of all the family's operations. In the absence of their late father, Salvatore Russo, their children have stepped up to each manage their own sections of the Santini dynasty:
 
-> ## [Viola Santini](/characters/viola-santini)
+> ## [Viola Santini](/sen/characters/viola-santini)
 > Viola Santini, the revered matriarch of the Santini family, commands respect and adoration in equal measure. Known for her grace, wisdom, and unwavering devotion to her family, she is a formidable presence in city of Sen.
-> ## [Salvatore Russo](/characters/salvatore-russo)
+> ## [Salvatore Russo](/sen/characters/salvatore-russo)
 > Salvatore commanded a prominent presence in Sen's aristocracy until his passing nearly a decade ago. He was a respected figure in Sen's social circles, known for his contributions to the city's cultural endeavors.
-> ## [Francesca Santini](/characters/francesca-santini)
+> ## [Francesca Santini](/sen/characters/francesca-santini)
 > The eldest child of Viola Santini. Skilled in both combat and diplomacy, Francesca is a formidable presence in both the boardroom and the battlefield. She manages the family's businesses and serves as a lead enforcer in the Santini boroughs.
-> ## [Giovanna Santini](/characters/giovanna-santini)
+> ## [Giovanna Santini](/sen/characters/giovanna-santini)
 > Second eldest child of Viola Santini. Gifted with a sharp mind for numbers and negotiation, Giovanna oversees the family's finances and investments, skillfully managing their wealth. Her ambitious nature and keen business acumen drive her pursuit of wealth and power within Sen's aristocracy.
-> ## [Alessia Santini](/characters/alessia-santini)
+> ## [Alessia Santini](/sen/characters/alessia-santini)
 > Middle child of Viola Santini. Alessia is the epitome of grace and charm, often seen at the most exclusive gatherings. While she appears to live a life of luxury and leisure, Alessia is highly adept at networking and handling the family's social connections.
-> ## [Luciano Santini](/characters/luciano-santini)
+> ## [Luciano Santini](/sen/characters/luciano-santini)
 > Second youngest child of Viola Santini. The only son of Viola, Luciano is often regarded as the black sheep of the family. He is disinterested and ineffectual when it comes to family affairs, lacking ambition and the necessary skills to involve himself in the family's enterprises.
-> ## [Caterina Santini](/characters/caterina-santini)
+> ## [Caterina Santini](/sen/characters/caterina-santini)
 > Youngest child of Viola Santini. The youngest daughter of the Santini family, Caterina is known for her ability to handle herself in delicate situations with finesse and grace. She is new to the political scene, emerging with her newlywed husband Fabrizio de Luca.
 
 Among the [Santinis](/factions/santini-family) are a number of neighboring families, all players in the political scene, vying for power amongst the boroughs of Sen. Each family will play a role in the story, some large and some small. The [Blanchards](/factions/blanchard-family), the [Del Vecchios](/factions/del-vecchio-family), the [Montaignes](/factions/montaigne-family), and the [Reinhardts](/factions/reinhardt-family) will all be in attendance at the grand gala, spreading their influence and socializing with the city's elite. Each family has their own involvement with the Santinis, and their own agendas they're pushing for.

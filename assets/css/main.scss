@@ -12,6 +12,11 @@ search: false
   color: $muted-text-color;
 }
 
+.href:before
+{
+  content: "{{ site.baseurl }}";
+}
+
 .todo {
   margin-bottom: 12px;
   color: yellow;
