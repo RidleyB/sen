@@ -15,7 +15,7 @@ h1 {
 {% assign families = site.families | split : ", " %}
 ---
 {% for family in families %}
-{% assign icon_path = site.url | append: site.baseurl | append: "/assets/images/logos/" | append: family | append: "-half.png" %}
+{% assign icon_path = "/assets/images/logos/" | append: family | append: "-half.png" %}
 {% if family contains "Other" %}
 {% assign icon_path = "/assets/images/logos/other-half.png" %}
 # ![image]({{ icon_path }}) Other Characters ![image]({{ icon_path }})
