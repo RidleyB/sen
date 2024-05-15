@@ -17,6 +17,8 @@ sidebar:
     nav: main
 ---
 
+{{ site.url }}
+
 {% comment %}
 
 | Name | Relation | Age | Given Surname | Link|
