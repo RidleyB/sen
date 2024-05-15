@@ -20,7 +20,7 @@ function hidePopup(id) {
 {% if include.label %}
 <a href="{{ include.post.url }}">{{ include.label }}</a>
 {% else %}
-<a href="{{ site.baseurl }}{{ include.post.url }}">{{ include.post.title }}</a>
+<a href="{{ site.url }}{{ include.post.url }}">{{ include.post.title }}</a>
 {% endif %}
 {% else %}
 {% if include.label %}
