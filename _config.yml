@@ -67,23 +67,23 @@ collections_dir: content
 collections:
    factions:
       output: true
-      permalink: :collection/:title
+      permalink: /:collection/:title
 
    lore:
       output: true
-      permalink: :collection/:title
+      permalink: /:collection/:title
 
    characters:
       output: true
-      permalink: :collection/:title
+      permalink: /:collection/:title
 
    content:   
       output: true
-      permalink: :collection/:title
+      permalink: /:collection/:title
 
    other:   
       output: true
-      permalink: :collection/:title
+      permalink: /:collection/:title
 
 include:
 - .htaccess
