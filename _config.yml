@@ -6,7 +6,6 @@
 # feature for the data you need to update frequently.
 
 minimal_mistakes_skin: "dark"
-theme: minimal-mistakes-jekyll
 
 locale: "en-US"
 title: Shadows of Intrigue
