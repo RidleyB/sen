@@ -8,6 +8,8 @@
 minimal_mistakes_skin: "dark"
 
 locale: "en-US"
+url: "https://ridleyb.github.io"
+baseurl: "/sen"
 title: Shadows of Intrigue
 title_separator: "|"
 name: &gmname "Adam Brown"
