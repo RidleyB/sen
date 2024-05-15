@@ -44,3 +44,9 @@ gem "minimal-mistakes-jekyll"
 gem "github-pages", "~> 231"
 
 gem "webrick", "~> 1.8"
+
+gem "kramdown", "~> 2.4"
+
+gem "staticman", "~> 0.0.1"
+
+gem "psych", "~> 5.1"

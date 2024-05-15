@@ -1,0 +1,42 @@
+﻿{% if include.sub %}
+  {% assign sublevel = include.sub %}
+{% else %}
+  {% assign sublevel = 0 %}
+{% endif %}
+
+{% if include.maxlevel %}
+  {% assign maxlevel = include.maxlevel %}
+{% else %}
+  {% assign maxlevel = 999 %}
+{% endif %}
+
+{% for post in site.documents %}
+  {% if post.title == include.char %}  
+―›{% include character-popup.html inc=character-wide.html label="[Link]" link="true" post=post %}<br>
+  {% assign partners = post.partners %}
+  {% endif %}
+{% endfor %}
+
+{% for post in site.documents %}
+  {% for partner in partners %}
+    {% if post.title == partner.name and sublevel != maxlevel %}  
+―›{% include character-popup.html inc=character-wide.html label="[Link]" link="true" post=post %}<br>
+    {% endif %}
+  {% endfor %}
+{% endfor %}
+
+{% for subpost in site.documents %}
+{% if subpost.title == include.char %}  
+{% for r in subpost.children %}
+{% assign sublevel = sublevel | plus: 1 %}
+{% unless sublevel > maxlevel %}
+{% include character-relation-info.html char=r.name data=subpost.char_data sub=sublevel maxlevel=maxlevel type=r.type %}
+{% endunless %}
+{% assign sublevel = sublevel | minus: 1 %}
+{% endfor %}
+
+{% endif %}
+{% endfor %}
+
+{% if sublevel == 0 %}
+{% endif %}

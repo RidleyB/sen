@@ -1,0 +1,26 @@
+{% if include.data %}
+
+{% if include.title %}
+  <h3>{{ include.title }}</h3>
+  <div class="page__subtitle"></div>
+{% endif %}
+
+<table>
+  <tr>
+    {% for data in include.data %}
+    <th>{{ data.element_title }}</th>
+    {% endfor %}
+  </tr>
+  <tr>
+    {% for data in include.data %}
+      <td>
+        {% if data.element == "" %}
+          <div>-</div>
+        {% else %}
+          {{ data.element }}
+        {% endif %}
+      </td>
+    {% endfor %}
+  </tr>
+</table>
+{% endif %}

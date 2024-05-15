@@ -1,0 +1,27 @@
+﻿{% if include.sub %}
+  {% assign sublevel = include.sub %}
+{% else %}
+  {% assign sublevel = 0 %}
+{% endif %}
+
+{% if include.maxlevel %}
+  {% assign maxlevel = include.maxlevel %}
+{% else %}
+  {% assign maxlevel = 999 %}
+{% endif %}
+
+{% for post in site.documents %}
+{% if post.title == include.char %}  
+
+<a href="{{ post.url }}"></a><br>
+
+{% for r in post.related %}
+{% assign sublevel = sublevel | plus: 1 %}
+{% unless sublevel == maxlevel %}
+{% include character-relation-link.html char=r.relative %}
+{% endunless %}
+{% assign sublevel = sublevel | minus: 1 %}
+{% endfor %}
+
+{% endif %}
+{% endfor %}

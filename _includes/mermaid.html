@@ -1,10 +1,19 @@
-<script src="https://unpkg.com/mermaid@8.9.3/dist/mermaid.min.js"></script>
+<html lang="en">
+   <head>
+	 <script src="https://unpkg.com/mermaid@8.9.3/dist/mermaid.min.js"></script>
+
+    </head>
 <script>
-  $(document).ready(function () {
-    mermaid.initialize({
-      startOnLoad:true,
-      theme: "default",
-    });
-    window.mermaid.init(undefined, document.querySelectorAll('.language-mermaid'));
-  });
+var config = {
+    startOnLoad:true,
+    theme: 'dark',
+    flowchart:{
+            useMaxWidth:false,
+            htmlLabels:true
+        }
+};
+mermaid.initialize(config);
+window.mermaid.init(undefined, document.querySelectorAll('.language-mermaid'));
 </script>
+
+</html>

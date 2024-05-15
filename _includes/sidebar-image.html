@@ -1,0 +1,12 @@
+{% if page.sidebar_image %}
+  {% if include.image %}
+    <img src="{{ site.url | append: site.baseurl | append: site.path_logo | append: family | append: ".png" }}" alt="image" class="center">
+  {% else %}
+    {% assign families = site.families | split : ", " %}
+    {% for family in families %}
+      {% if family == page.family.sort %}
+        <img src="{{ site.url | append: site.baseurl | append: site.path_logo | append: family | append: ".png" }}" alt="image" class="center">
+      {% endif %}
+    {% endfor %}
+  {% endif %}
+{% endif %}

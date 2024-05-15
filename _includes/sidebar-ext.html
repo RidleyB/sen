@@ -1,0 +1,24 @@
+{% if page.sidebar_image %}
+  {% include sidebar-image.html %}
+{% endif %}
+
+{% if page.sidebar_title %}
+  {% include sidebar-title.html %}
+{% endif %}
+
+{% if page.sidebar_excerpt %}
+  {% include sidebar-excerpt.html %}
+{% endif %}
+
+{% if page.char_data %}
+  {% include character.html title="Description" data=page.char_data %}
+{% endif %}
+
+{% if page.children or page.parents or page.siblings or page.partners %}
+  {% include character-family.html %}
+{% endif %}
+
+{% if page.char_data or page.children or page.parents or page.siblings or page.partners %}
+  <h3>Navigation</h3>
+  <div class="page__subtitle"></div>
+{% endif %}

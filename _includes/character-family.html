@@ -1,0 +1,116 @@
+{% capture children_rows %}
+  {% for c in page.children %}
+    <tr>
+    {% if c.name %}
+      <td>{{ c.name }}</td>
+    {% endif %}
+    
+    {% if c.type %}
+      <td>{{ c.type }}</td>
+    {% endif %}    
+    
+    {% for post in site.documents %}
+      {% if post.title == c.name %}
+        <td><a href="{{ post.url }}">-></a></td>
+      {% endif %}
+    {% endfor %}
+    </tr>
+  {% endfor %}
+{% endcapture %}
+
+{% capture partner_rows %}
+  {% for s in page.partners %}
+    <tr>
+      {% if s.name %}
+        <td>{{ s.name }}</td>
+      {% endif %}
+      
+      {% if s.type %}
+        <td>{{ s.type }}</td>
+      {% endif %}  
+    
+      {% for post in site.documents %}
+        {% if post.title == s.name %}
+          <td><a href="{{ post.url }}">-></a></td>
+        {% endif %}
+      {% endfor %}
+    </tr>
+  {% endfor %}
+{% endcapture %}
+
+{% capture parent_rows %}
+  {% for s in page.parents %}
+    <tr>
+      {% if s.name %}
+        <td>{{ s.name }}</td>
+      {% endif %}
+      
+      {% if s.type %}
+        <td>{{ s.type }}</td>
+      {% endif %}  
+    
+      {% for post in site.documents %}
+        {% if post.title == s.name %}
+          <td><a href="{{ post.url }}">-></a></td>
+        {% endif %}
+      {% endfor %}
+    </tr>
+  {% endfor %}
+{% endcapture %}
+
+{% capture sibling_rows %}
+  {% for s in page.siblings %}
+    <tr>
+      <td>{{ s.name }}</td>
+      <td>{{ s.type }}</td>
+      {% for post in site.documents %}
+        {% if post.title == s.name %}
+          <td><a href="{{ post.url }}">-></a></td>
+        {% endif %}
+      {% endfor %}
+    </tr>
+  {% endfor %}
+{% endcapture %}
+
+{% comment %}==============================={% endcomment %}
+
+<h3>Family</h3>
+<div class="page__subtitle"></div>
+
+{% if page.parents or page.siblings %}
+  <h3 style="font-size:80%;">Parents & Siblings</h3>
+  <table>
+    <tr>
+      <th>Relative</th>
+      <th>Relation</th>
+      <th>Link</th>
+    </tr>
+
+    {% if page.parents %}
+      {{ parent_rows }}
+    {% endif %}
+
+    {% if page.siblings %}
+      {{ sibling_rows }}
+    {% endif %}
+  </table>
+{% endif %}
+
+{% if page.partners or page.children %}
+  <h3 style="font-size:80%;">Partner & Children</h3>
+  <table>
+    <tr>
+      <th>Relative</th>
+      <th>Relation</th>
+      <th>Link</th>
+    </tr>
+  
+    {% if page.partners %}
+      {{ partner_rows }}
+    {% endif %}
+    
+    {% if page.children %}
+      {{ children_rows }}
+    {% endif %}
+  </table>
+{% endif %}

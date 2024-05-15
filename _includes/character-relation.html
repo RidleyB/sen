@@ -1,0 +1,57 @@
+﻿{% if include.sub %}
+  {% assign sublevel = include.sub %}
+{% else %}
+  {% assign sublevel = 0 %}
+{% endif %}
+
+{% if include.maxlevel %}
+  {% assign maxlevel = include.maxlevel %}
+{% else %}
+  {% assign maxlevel = 999 %}
+{% endif %}
+
+{% for post in site.documents %}
+{% if post.title == include.char %}  
+{% capture color %}{% if sublevel > 1 %}#aaa{% endif %}{% endcapture %}
+
+{% if sublevel == 0 %}
+  <div>{{ post.title }}</div>
+  {% if post.partners %}
+    {% for partner in post.partners %}
+    <div style="color: {{ color }}; margin-left: {{ sublevel | plus : 1 | times: 25 }}px;">︱― {{ partner.name }}<sup> {{ partner.type }}</sup>
+    </div>
+    {% endfor %}
+  {% endif %}
+
+{% else %}
+    <div style="color: {{ color }}; margin-left: {{ sublevel | times: 25 }}px;">
+  ︱― {{ include.char }}
+
+    {% if include.type %}
+      {% if sublevel == 1 %}
+        <sup> {{ include.type }}</sup>
+      {% endif %}
+    {% endif %}
+  </div>
+
+  {% if post.partners and sublevel != maxlevel %}
+    {% for partner in post.partners %}
+      <div style="color: #aaa; margin-left: {{ sublevel | plus : 1 | times: 25 }}px;">
+      ︱― {{ partner.name }}
+      </div>
+    {% endfor %}
+  {% endif %}
+
+{% endif %}
+
+
+{% for r in post.children %}
+
+{% assign sublevel = sublevel | plus: 1 %}
+{% unless sublevel > maxlevel %}
+{% include character-relation.html char=r.name sub=sublevel maxlevel=maxlevel type=r.type %}
+{% endunless %}
+{% assign sublevel = sublevel | minus: 1 %}
+{% endfor %}
+{% endif %}
+{% endfor %}

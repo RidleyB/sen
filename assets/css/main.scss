@@ -1,0 +1,130 @@
+---
+---
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: "default" }}";
+@import "minimal-mistakes";
+
+.info_text{
+  color: $muted-text-color;
+}
+
+.todo {
+  margin-bottom: 12px;
+  color: yellow;
+}
+
+.todo:before {
+  content: "TODO: ";
+}
+
+.tab {
+  margin-left: 25px;
+}
+
+/* Toggle this class when clicking on the popup container (hide and show the popup) */
+.info_text .show {
+  visibility: visible;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.page__subtitle{
+    border-bottom: 1px solid $light-gray;
+    font-size: $type-size-6;
+    color: $muted-text-color;
+    padding-bottom: -10%;
+}
+
+.input-color {
+    position: relative;
+}
+
+.input-color input {
+    padding-left: 20px;
+}
+
+.input-color .color-box {
+    width: 16px;
+    height: 16px;
+    display: inline-block;
+    background-color: #ccc;
+    position: relative;
+    left: 0px;
+    top: 2px;
+}
+
+/* Popup container */
+.popup 
+{
+  position: relative;
+  display: inline-block;
+  cursor: pointer;
+}
+
+/* The actual popup (appears on top) */
+.popup .popuptext 
+{
+  opacity: 0;
+  visibility: hidden;
+  background-color: #31394a;
+  color: #fff;
+  text-align: center;
+  border-radius: 6px;
+  padding: 0px 0;
+  position: absolute;
+  z-index: 1;
+  top: 125%;
+  left: 50%;
+  margin-left: -80px;
+}
+
+/* Popup arrow */
+.popup .popuptext::after 
+{
+  content: "";
+  position: absolute;
+  bottom: 100%;
+  left: 50%;
+  margin-left: -5px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: #31394a transparent transparent transparent;
+  transform: rotate(180deg);
+}
+
+/* Toggle this class when clicking on the popup container (hide and show the popup) */
+.popup .show {
+  visibility: visible;
+  -webkit-animation: fadeIn 1s;
+  animation: fadeIn 1s;
+}
+
+.popup .hide {
+  -webkit-animation: fadeOut 1s;
+  animation: fadeOut 1s;
+}
+
+@-webkit-keyframes fadeIn {
+  from {opacity: 0;}
+  to {opacity: 1;}
+}
+
+@keyframes fadeIn {
+  from {opacity: 0;}
+  to {opacity:1 ;}
+}
+
+@-webkit-keyframes fadeOut {
+  from {opacity: 1;}
+  to {opacity: 0;}
+}
+
+@keyframes fadeOut {
+  from {opacity: 1;}
+  to {opacity:0 ;}
+}

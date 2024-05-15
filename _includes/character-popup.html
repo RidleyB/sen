@@ -1,0 +1,33 @@
+<script>
+// When the user clicks on <div>, open the popup
+function showPopup(id) {
+  var popup = document.getElementById(id);
+  popup.classList.toggle("hide", false);
+  popup.classList.toggle("show", true);
+}
+
+function hidePopup(id) {
+  var popup = document.getElementById(id);
+  popup.classList.toggle("show", false);
+  popup.classList.toggle("hide", true);
+}
+</script>
+
+{% capture popupShowMethod %}showPopup('{{ include.post.title }}'){% endcapture %}
+{% capture popupHideMethod %}hidePopup('{{ include.post.title }}'){% endcapture %}
+<div class="popup" onmouseover="{{ popupShowMethod }}" onmouseout="{{ popupHideMethod }}">
+{% if include.link == "true" %}
+{% if include.label %}
+<a href="{{ include.post.url }}">{{ include.label }}</a>
+{% else %}
+<a href="{{ include.post.url }}">{{ include.post.title }}</a>
+{% endif %}
+{% else %}
+{% if include.label %}
+<a>{{ include.label }}</a>
+{% else %}
+<a>{{ include.post.title }}</a>
+{% endif %}
+{% endif %}
+<span class="popuptext" id="{{ include.post.title }}">{% include character-wide.html data=include.post.char_data title=include.post.title %}</span>
+</div>

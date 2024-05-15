@@ -1,0 +1,18 @@
+{% if include.data and include.data[0].element != "" %}
+
+{% if include.title %}
+  <h3>{{ include.title }}</h3>
+  <div class="page__subtitle"></div>
+{% endif %}
+
+<table>
+  {% for data in include.data %}
+    {% if data.element_title and data.element and data.element != "" %}
+      <tr>
+        <td><b>{{ data.element_title }}: </b></td>
+        <td>{{ data.element }}</td>
+      </tr>
+    {% endif %}
+  {% endfor %}
+</table>
+{% endif %}
