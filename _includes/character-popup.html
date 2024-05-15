@@ -18,9 +18,9 @@ function hidePopup(id) {
 <div class="popup" onmouseover="{{ popupShowMethod }}" onmouseout="{{ popupHideMethod }}">
 {% if include.link == "true" %}
 {% if include.label %}
-<a href="{{ site.url }}{{ include.post.url }}">{{ include.label }}</a>
+<a href="{{ include.post.url }}">{{ include.label }}</a>
 {% else %}
-<a href="{{ site.url }}{{ include.post.url }}">{{ include.post.title }}</a>
+<a href="{{ include.post.url }}">{{ include.post.title }}</a>
 {% endif %}
 {% else %}
 {% if include.label %}

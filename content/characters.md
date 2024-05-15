@@ -17,18 +17,17 @@ h1 {
 {% for family in families %}
 {% assign icon_path = site.url | append: site.baseurl | append: "/assets/images/logos/" | append: family | append: "-half.png" %}
 {% if family contains "Other" %}
-{% assign icon_path = site.url | append: site.baseurl | append: "/assets/images/logos/other-half.png" %}
-# ![image]({{ icon_path }}) Other Characters ![image]({{ icon_path }}) {{ icon_path }}
+{% assign icon_path = "/assets/images/logos/other-half.png" %}
+# ![image]({{ icon_path }}) Other Characters ![image]({{ icon_path }})
 {: .text-center}
 {% assign icon_path = site.url | append: site.baseurl | append: "/assets/images/logos/" | append: family | append: "-half.png" %}
 {% else %}
-# ![image]({{ icon_path }}) The {{ family }} Family ![image]({{ icon_path }}) {{ icon_path }}
+# ![image]({{ icon_path }}) The {{ family }} Family ![image]({{ icon_path }})
 {: .text-center}
 ---
 {% endif %}
 {% for post in site.documents %}
 {% if post.category contains "characters" and post.family.sort contains family %}
-{{ post.url }}
 [{{ post.title }}]({{ post.url }})<br><em>{{ post.excerpt }}</em>
 {% endif %}
 {% endfor %}

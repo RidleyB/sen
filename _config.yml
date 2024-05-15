@@ -8,7 +8,6 @@
 minimal_mistakes_skin: "dark"
 
 locale: "en-US"
-url: https://ridleyb.github.io/sen/
 title: Shadows of Intrigue
 title_separator: "|"
 name: &gmname "Adam Brown"
@@ -67,23 +66,23 @@ collections_dir: content
 collections:
    factions:
       output: true
-      permalink: /:collection/:title
+      permalink: /sen/:collection/:title
 
    lore:
       output: true
-      permalink: /:collection/:title
+      permalink: /sen/:collection/:title
 
    characters:
       output: true
-      permalink: /:collection/:title
+      permalink: /sen/:collection/:title
 
    content:   
       output: true
-      permalink: /:collection/:title
+      permalink: /sen/:collection/:title
 
    other:   
       output: true
-      permalink: /:collection/:title
+      permalink: /sen/:collection/:title
 
 include:
 - .htaccess
