@@ -1,4 +1,5 @@
 ---
+title: An Invitation
 excerpt: "You are formally invited to join the us for an evening of elegance,
 entertainment, and enlightenment at their esteemed estate in Sen..."
 ---

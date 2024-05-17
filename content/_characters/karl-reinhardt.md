@@ -1,7 +1,7 @@
 ---
 title: Karl Reinhardt
 
-family:
+faction:
   sort: Reinhardt
   given: Reinhardt
 
@@ -34,7 +34,4 @@ char_data:
     element: ""
 
 excerpt: "Karl is a skilled diplomat, driven by desires to uphold his family's legacy in Sen. His failed marriage with Francesca Santini left him cold-hearted, though he conceals his true feelings especially in diplomatic dealings with the Santini family."
-
-sidebar:
-  nav: main
 ---

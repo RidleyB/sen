@@ -1,7 +1,7 @@
 ---
 title: Luciano Santini
 
-family:
+faction:
   sort: Santini
   given: Santini
 
@@ -38,7 +38,4 @@ char_data:
     element: "Brown"
 
 excerpt: "The only son of Viola, Luciano is often regarded as the black sheep of the family. He is disinterested and ineffectual when it comes to family affairs, lacking ambition and the necessary skills to involve himself in the family's enterprises."
-
-sidebar:
-  nav: main
 ---

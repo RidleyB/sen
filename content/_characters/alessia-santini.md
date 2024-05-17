@@ -1,6 +1,6 @@
 ---
 title: Alessia Santini
-family: 
+faction: 
   sort: Santini
   given: Santini
 
@@ -45,7 +45,4 @@ char_data:
     element: "Blue"
 
 excerpt: "Alessia is the epitome of grace and charm, often seen at the most exclusive gatherings. While she appears to live a life of luxury and leisure, Alessia is highly adept at networking and handling the family's social connections."
-
-sidebar:
-  nav: main
 ---

@@ -1,7 +1,7 @@
 ---
 title: Leonardo Santini
 
-family:
+faction:
   sort: Santini
   given: Santini
 
@@ -28,7 +28,4 @@ char_data:
     element: ""
 
 excerpt: "Still in his formative years, little Leo exhibits glimpses of the typical Santini charisma that will shape his future role in the family. With his grandmother's legacy and his mother's aspirations guiding his path, his future is surely bright."
-
-sidebar:
-  nav: main
 ---

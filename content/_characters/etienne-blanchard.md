@@ -1,7 +1,7 @@
 ---
 title: Etienne Blanchard
 
-family:
+faction:
   sort: Blanchard
   given: Blanchard
 
@@ -40,7 +40,4 @@ char_data:
     element: ""
 
 excerpt: "The husband of Giovanna Santini, and aid to her family's financial endeavors. He dutifully following his wife's lead in handling their affairs, and the pair are quite happy."
-
-sidebar:
-  nav: main
 ---

@@ -1,7 +1,7 @@
 ---
 title: Michel Blanchard
 
-family:
+faction:
   sort: Blanchard
   given: Blanchard
 
@@ -32,7 +32,4 @@ char_data:
     element: ""
 
 excerpt: "Younger brother to Isabelle Santini. The son of Philippe and Sophie Blanchard."
-
-sidebar:
-  nav: main
 ---

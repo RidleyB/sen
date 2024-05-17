@@ -1,7 +1,7 @@
 ---
 title: Riccardo Santini
 
-family:
+faction:
   sort: Santini
   given: Santini
 
@@ -32,7 +32,4 @@ char_data:
     element: ""
 
 excerpt: "Eldest son to Paolo and Isabelle Santini. Currently a child 10 years of age."
-
-sidebar:
-  nav: main
 ---

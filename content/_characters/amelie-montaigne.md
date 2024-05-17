@@ -1,7 +1,7 @@
 ---
 title: Amelie Montaigne
 
-family:
+faction:
   sort: Montaigne
   given: Montaigne
 
@@ -28,7 +28,4 @@ char_data:
     element: ""
 
 excerpt: "Henri's eldest daughter, known for her beauty and intelligence. She is deeply involved in philanthropic efforts within the city and is highly regarded by the populace."
-
-sidebar:
-  nav: main
 ---

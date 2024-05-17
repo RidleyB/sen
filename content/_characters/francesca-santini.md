@@ -1,7 +1,7 @@
 ---
 title: Francesca Santini
 
-family:
+faction:
   sort: Santini
   given: Santini
 
@@ -38,7 +38,4 @@ char_data:
     element: "Hazel, flecks of blue"
 
 excerpt: "Skilled in both combat and diplomacy, Francesca is a formidable presence in both the boardroom and the battlefield. She manages the family's businesses and serves as a lead enforcer in the Santini boroughs."
-
-sidebar:
-  nav: main
 ---

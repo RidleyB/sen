@@ -1,10 +1,8 @@
 ---
 title:  "The Collegium Arcanum"
-toc: true
-sidebar:
-  - title: ""
-    image: /assets/images/logos/sen.png
-    nav: main
+
+faction:
+  sort: Collegium
 ---
 
 The Collegium Arcanum, also known simply as the Collegium, stands as a bastion of magical knowledge and scholarly pursuit within Sen. Comprised of mages, scholars, and all manner of arcane practitioners, the Collegium is dedicated to upholding the standards of magical education and research throughout the city.

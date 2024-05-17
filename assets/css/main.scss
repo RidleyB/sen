@@ -137,3 +137,22 @@ search: false
   from {opacity: 1;}
   to {opacity:0 ;}
 }
+
+.peekbox {
+  margin-left:25px;
+}
+
+.peekbox_fade {
+  content: "";
+  position: relative;
+  bottom: 4em;
+  height: 4em;
+  pointer-events: none;
+  background-image: linear-gradient(to bottom, rgba(255,255,255,0), #252a34 100%);
+  width: 100%;
+  transition: .5s ease;
+}
+
+.peekbox:hover .peekbox_fade{
+  bottom: 0em;
+}

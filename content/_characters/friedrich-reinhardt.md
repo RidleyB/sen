@@ -1,7 +1,7 @@
 ---
 title: Friedrich Reinhardt
 
-family:
+faction:
   sort: Reinhardt
   given: Reinhardt
 
@@ -38,7 +38,4 @@ char_data:
     element: ""
 
 excerpt: "Head of the Reinhardt family, a seasoned politician with a talent for manipulation and intrigue. He has a reputation for ruthlessness in achieving his family's goals."
-
-sidebar:
-  nav: main
 ---

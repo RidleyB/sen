@@ -1,7 +1,7 @@
 ---
 title: Priscilla Del Vecchio
 
-family:
+faction:
   sort: Del Vecchio
   given: Bianchi
 
@@ -32,7 +32,4 @@ char_data:
     element: ""
 
 excerpt: "Father to Alessandro and Marco Del Vecchio. Jailed for crimes of corruption and theft."
-
-sidebar:
-  nav: main
 ---

@@ -1,7 +1,7 @@
 ---
 title: Nina Reinhardt
 
-family:
+faction:
   sort: Reinhardt
   given: Bianchi
 
@@ -32,7 +32,4 @@ char_data:
     element: ""
 
 excerpt: "A recent addition to the Reinhardts, Nina is the second wife to Friedrich, scion of their house. Together they begat Phineas, the new heir to the Reinhardt dynasty."
-
-sidebar:
-    nav: main
 ---

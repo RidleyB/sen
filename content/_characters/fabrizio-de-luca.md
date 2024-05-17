@@ -1,7 +1,7 @@
 ---
 title: Fabrizio De Luca
 
-family:
+faction:
   sort: Santini
   given: De Luca
 

@@ -1,23 +1,9 @@
 ---
 title:  The Santini Family
-disable_title: true
 
-family: 
+faction: 
   sort: Santini
-
-sidebar_ext:
-  before_nav: true
-sidebar_title: true
-sidebar_image: true
-
-toc: true
-toc_sticky: true
-sidebar:
-  - title: ""
-    nav: main
 ---
-
-{{ site.url }}
 
 {% comment %}
 

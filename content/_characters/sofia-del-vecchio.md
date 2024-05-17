@@ -1,7 +1,7 @@
 ---
 title: Sofia Del Vecchio
 
-family:
+faction:
   sort: Del Vecchio
   given: Santini
 
@@ -44,10 +44,4 @@ char_data:
     element: ""
 
 excerpt: "Second daughter of Enzo and Lucia Santini. Sofia was married to Marco Del Vecchio, brother to the head of the Del Vecchio family. Together the two handle more minor affairs of both families."
-
-sidebar:
-    nav: main
-
-
-
 ---

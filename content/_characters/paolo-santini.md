@@ -1,7 +1,7 @@
 ---
 title: Paolo Santini
 
-family:
+faction:
   sort: Santini
   given: Santini
 
@@ -44,7 +44,4 @@ char_data:
     element: ""
 
 excerpt: "Brother and trusted advisor to Viola, Paolo's sage counsel helps Viola navigate the political scene of Sen on more than one occasion. She relies on his level-headed approach to decision-making, while keeping him at an arm's length of true leadership."
-
-sidebar:
-    nav: main
 ---

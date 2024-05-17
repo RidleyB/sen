@@ -1,21 +1,8 @@
 ---
 title: The Blanchard Family
-disable_title: true
 
-family: 
+faction: 
   sort: Blanchard
-
-sidebar_ext:
-  before_nav: true
-sidebar_title: true
-sidebar_image: true
-
-toc: true
-toc_sticky: true
-toc_sticky: true
-sidebar:
-  - title: ""
-    nav: main
 ---
 
 {% comment %}

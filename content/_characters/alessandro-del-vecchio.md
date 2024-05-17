@@ -1,7 +1,7 @@
 ---
 title: Alessandro Del Vecchio
 
-family:
+faction:
   sort: Del Vecchio
   given: Del Vecchio
 
@@ -40,7 +40,4 @@ char_data:
     element: ""
 
 excerpt: "Head of the Del Vecchio family, known for his sharp business acumen and ambitious nature. He seeks to expand his family's influence within Sen's political landscape."
-
-sidebar:
-  nav: main
 ---

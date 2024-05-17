@@ -1,6 +1,6 @@
 ---
 title: Aurelie Del Vecchio
-family: 
+faction: 
   sort: Del Vecchio
   given: Montaigne
 
@@ -35,7 +35,4 @@ char_data:
     element: ""
 
 excerpt: "Wife of Alessandro Del Vecchio, and mother to Gabriella. Sister to Henri Montaigne."
-
-sidebar:
-  nav: main
 ---

@@ -1,7 +1,7 @@
 ---
 title: Albrecht Reinhardt
 
-family:
+faction:
   sort: Reinhardt
   given: Reinhardt
 
@@ -34,7 +34,4 @@ char_data:
     element: ""
 
 excerpt: "Brother to Friedrich Reinhardt, husband to Camille, and father to Fritz."
-
-sidebar:
-  nav: main
 ---

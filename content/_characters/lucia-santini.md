@@ -1,7 +1,7 @@
 ---
 title: Lucia Santini
 
-family:
+faction:
   sort: Santini
   given: Santini
 
@@ -34,7 +34,4 @@ char_data:
     element: ""
 
 excerpt: "Lucia Santini was the epitome of grace and elegance, a beloved figure in Sen's social circles and a devoted mother to her children. She was known for her generosity and kindness, always ready to lend a helping hand to those in need."
-
-sidebar:
-  nav: main
 ---

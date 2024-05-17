@@ -1,7 +1,7 @@
 ---
 title: Sophie Blanchard
 
-family:
+faction:
   sort: Blanchard
   given: Muller
 
@@ -30,7 +30,4 @@ char_data:
     element: ""
 
 excerpt: "Wife of Philippe Blanchard, and mother to Isabelle and Michel."
-
-sidebar:
-  nav: main
 ---

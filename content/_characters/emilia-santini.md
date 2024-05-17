@@ -1,7 +1,7 @@
 ---
 title: Emilia Santini
 
-family:
+faction:
   sort: Santini
   given: Santini
 
@@ -28,7 +28,4 @@ char_data:
     element: ""
 
 excerpt: "The energetic and unruly child of Giovanna and Etienne, Emilia is filled with boundless energy and a mischievous nature that often gets her into trouble. She currently abhors high-society, preferring the outdoors to the confines of a stateroom."
-
-sidebar:
-  nav: main
 ---

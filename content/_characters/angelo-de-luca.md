@@ -1,7 +1,7 @@
 ---
 title: Angelo De Luca
 
-family:
+faction:
   sort: Other
   given: De Luca
 
@@ -30,7 +30,4 @@ char_data:
     element: ""
 
 excerpt: "One of the four  De Luca brothers."
-
-sidebar:
-  nav: main
 ---

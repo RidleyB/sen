@@ -49,6 +49,10 @@ sidebar:
     children:
       - title: World History
         url: /lore/world-history
+      - title: Races
+        url: /lore/races
+      - title: Deities
+        url: /lore/deities
   - title: TODO
     url: /todo/
     children:

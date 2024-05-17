@@ -11,7 +11,7 @@
     
     {% for post in site.documents %}
       {% if post.title == c.name %}
-        <td><a href="{{ post.url }}">-></a></td>
+        <td><a href="/sen{{ post.url }}">-></a></td>
       {% endif %}
     {% endfor %}
     </tr>
@@ -31,7 +31,7 @@
     
       {% for post in site.documents %}
         {% if post.title == s.name %}
-          <td><a href="{{ post.url }}">-></a></td>
+          <td><a href="/sen{{ post.url }}">-></a></td>
         {% endif %}
       {% endfor %}
     </tr>
@@ -51,7 +51,7 @@
     
       {% for post in site.documents %}
         {% if post.title == s.name %}
-          <td><a href="{{ post.url }}">-></a></td>
+          <td><a href="/sen{{ post.url }}">-></a></td>
         {% endif %}
       {% endfor %}
     </tr>
@@ -65,7 +65,7 @@
       <td>{{ s.type }}</td>
       {% for post in site.documents %}
         {% if post.title == s.name %}
-          <td><a href="{{ post.url }}">-></a></td>
+          <td><a href="/sen{{ post.url }}">-></a></td>
         {% endif %}
       {% endfor %}
     </tr>

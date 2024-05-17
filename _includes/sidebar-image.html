@@ -1,11 +1,11 @@
-{% if page.sidebar_image %}
+{% if page.sidebar_ext.image %}
   {% if include.image %}
-    <img src="{{ site.url | append: site.baseurl | append: site.path_logo | append: family | append: ".png" }}" alt="image" class="center">
+    <img src="{{ include.image }}" alt="image" class="center">
   {% else %}
-    {% assign families = site.families | split : ", " %}
-    {% for family in families %}
-      {% if family == page.family.sort %}
-        <img src="{{ site.url | append: site.baseurl | append: site.path_logo | append: family | append: ".png" }}" alt="image" class="center">
+  {% assign all_factions = site.all_factions | split : ", " %}
+    {% for faction in all_factions %}
+      {% if faction == page.faction.sort %}
+        <img src="{{ site.url | append: site.baseurl | append: site.path_logo | append: faction | append: ".png" }}" alt="image" class="center">
       {% endif %}
     {% endfor %}
   {% endif %}

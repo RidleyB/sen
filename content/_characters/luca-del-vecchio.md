@@ -1,7 +1,7 @@
 ---
 title: Luca Del Vecchio
 
-family:
+faction:
   sort: Del Vecchio
   given: Del Vecchio
 
@@ -32,7 +32,4 @@ char_data:
     element: ""
 
 excerpt: "Son of Marco and Sofia Del Vecchio. Savvy in business and trade. Manages the investments and deals with outside business partners under supervision of his father."
-
-sidebar:
-  nav: main
 ---

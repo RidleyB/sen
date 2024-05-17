@@ -1,7 +1,7 @@
 ---
 title: Marco Del Vecchio
 
-family:
+faction:
   sort: Del Vecchio
   given: Del Vecchio
 
@@ -42,7 +42,4 @@ char_data:
     element: ""
 
 excerpt: "Brother of Alessandro Del Vecchio and second in line. Married to Sofia, the two the handle minor affairs of both families and are in charge of their dealings with one another."
-
-sidebar:
-  nav: main
 ---

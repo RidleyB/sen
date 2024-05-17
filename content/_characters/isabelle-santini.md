@@ -1,7 +1,7 @@
 ---
 title: Isabelle Santini
 
-family:
+faction:
   sort: Santini
   given: Blanchard
 
@@ -38,7 +38,4 @@ char_data:
     element: ""
 
 excerpt: "Philippe Montaigne's daughter and wife to Paolo Santini, a skilled mage and arcanist. She is deeply involved in magical research and experimentation, seeking to push the boundaries of magical knowledge."
-
-sidebar:
-  nav: main
 ---

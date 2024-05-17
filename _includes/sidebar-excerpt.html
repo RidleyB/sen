@@ -1,3 +1,4 @@
+{% if sidebar_ext.excerpt %}
 {% assign families = site.families | split : ", " %}
 {% for family in families %}
   {% if family == page.family.sort %}
@@ -17,3 +18,4 @@
   <div class="page__subtitle"></div>
 {% endif %}
 <div style="font-size:80%;"><em>{{ page.excerpt }}</em></div>
+{% endif %}

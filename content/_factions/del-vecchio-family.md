@@ -1,20 +1,8 @@
 ---
 title:  The Del Vecchio Family
-disable_title: true
 
-family: 
+faction: 
   sort: Del Vecchio
-
-sidebar_ext:
-  before_nav: true
-sidebar_title: true
-sidebar_image: true
-
-toc: true
-toc_sticky: true
-sidebar:
-  - title: ""
-    nav: main
 ---
 
 {% comment %}

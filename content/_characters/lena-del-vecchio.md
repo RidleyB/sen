@@ -1,7 +1,7 @@
 ---
 title: Lena Del Vecchio
 
-family:
+faction:
   sort: Del Vecchio
   given: Del Vecchio
 
@@ -36,7 +36,4 @@ char_data:
     element: ""
 
 excerpt: "Daughter of Marco and Sofia Del Vecchio. Skilled in diplomacy and negotiation. Acts as a liaison with rival families and foreign powers."
-
-sidebar:
-  nav: main
 ---

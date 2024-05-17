@@ -1,7 +1,7 @@
 ---
 title: Lucille Santini
 
-family:
+faction:
   sort: Santini
   given: Santini
 
@@ -32,7 +32,4 @@ char_data:
     element: ""
 
 excerpt: "At a tender age of six, Lucille bears a striking resemblance to her mother, particularly in her artistic inclinations. While her mother struggles to maintain her identity in the confines of the Santini family, Lucille breathes new life in that hope."
-
-sidebar:
-  nav: main
 ---

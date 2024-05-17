@@ -1,7 +1,7 @@
 ---
 title: Phineas Reinhardt
 
-family:
+faction:
   sort: Reinhardt
   given: Reinhardt
 
@@ -32,10 +32,4 @@ char_data:
     element: ""
 
 excerpt: "The youngest son and prospective heir of Friedrich Reinhardt. After the death of his first wife and the failed marriage of Karl, Friedrich was worried about his family's lineage."
-
-sidebar:
-    nav: main
-
-
-
 ---

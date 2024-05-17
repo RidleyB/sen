@@ -1,7 +1,7 @@
 ---
 title: Viola Santini
 
-family:
+faction:
   sort: Santini
   given: Santini
 
@@ -50,9 +50,6 @@ char_data:
     element: "Blue"
 
 excerpt: "Viola Santini, the revered matriarch of the Santini family, commands respect and adoration in equal measure. Known for her grace, wisdom, and unwavering devotion to her family, she is a formidable presence in city of Sen."
-
-sidebar:
-  nav: main
 ---
 
 {% include character-relation.html %}

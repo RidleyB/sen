@@ -1,0 +1,6 @@
+{% if include.post %}
+<h1 id="{{ include.post.title | slugify }}">{{ include.post.title }}</h1>
+<div class="peekbox">{{ include.post.excerpt | markdownify }}
+<a href="{{ "/sen" | append: post.url }}">Read more...</a>
+<div class="peekbox_fade"></div></div>
+{% endif %}

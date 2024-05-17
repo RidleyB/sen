@@ -3,25 +3,23 @@ permalink: /todo
 title: TODO
 disable_title: true
 sidebar_ext:
+  title: true
   before_nav: true
-sidebar_title: true
-sidebar_image: true
 sidebar:
-    nav: main
+    nav: sidebar
 ---
 
 {% for post in site.documents %}
 {% if post.content contains "todo" %}
-<h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+<h3><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
 {% assign content = post.content | inspect %}
 {% assign array = content | split: "\n" %}
+{% assign index = 0 %}
 {% for line in array %}
-{% if line contains "todo" %}
-<ul>
-{% assign format = line | split: ";" | split: "&" %}
-- {{ format[4] }}
-</ul>
-{% endif %}
+  {% if line contains "todo" %}
+    {% assign index = index | plus: 1 %}
+  {% endif %}
 {% endfor %} 
+{{ index }}{% if index > 1 %} TODO's {% else %} TODO {% endif %}on this page.
 {% endif %}
 {% endfor %}

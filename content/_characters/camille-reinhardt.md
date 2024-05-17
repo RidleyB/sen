@@ -1,7 +1,7 @@
 ---
 title: Camille Reinhardt
 
-family:
+faction:
   sort: Reinhardt
   given: Reinhardt
 
@@ -36,7 +36,4 @@ char_data:
     element: ""
 
 excerpt: "Wife of Albrecht Reinhardt, and mother to Fritz."
-
-sidebar:
-  nav: main
 ---

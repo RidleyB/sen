@@ -1,7 +1,7 @@
 ---
 title: Giulia Montaigne
 
-family:
+faction:
   sort: Montaigne
   given: Santini
 
@@ -30,7 +30,4 @@ char_data:
     element: ""
 
 excerpt: "Wife to Henri Montaigne and mother to Amelie. Giulia is a cousin of Viola."
-
-sidebar:
-  nav: main
 ---

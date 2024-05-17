@@ -1,7 +1,7 @@
 ---
 title: Enzo Santini
 
-family:
+faction:
   sort: Santini
   given: Santini
 
@@ -34,7 +34,4 @@ char_data:
     element: ""
 
 excerpt: "Ezno Santini was a respected figure in Sen's political and social circles, known for his keen intellect and unwavering dedication to his family. He was a shrewd strategist and a skilled negotiator. "
-
-sidebar:
-  nav: main
 ---

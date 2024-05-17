@@ -1,7 +1,7 @@
 ---
 title: Henri Montaigne
 
-family:
+faction:
   sort: Montaigne
   given: Montaigne
 
@@ -36,7 +36,4 @@ char_data:
     element: ""
 
 excerpt: "Patriarch of the Montaigne family, renowned for his charm and charisma. He is a skilled orator and often serves as a mediator between rival factions within Sen's political elite."
-
-sidebar:
-  nav: main
 ---

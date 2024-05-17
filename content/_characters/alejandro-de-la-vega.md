@@ -1,7 +1,7 @@
 ---
 title: Alejandro de la Vega
 
-family:
+faction:
   sort: Santini
   given: de la Vega
 
@@ -30,7 +30,4 @@ char_data:
     element: ""
 
 excerpt: "Husband of Alessia Santini and a paladin of the Order of the Open Hand, sworn to protect the city of Sen and uphold its principles of justice and compassion. His dedication to his duty, his wife, and young boy is unwavering."
-
-sidebar:
-  nav: main
 ---

@@ -1,7 +1,7 @@
 ---
 title: Giovanna Santini
 
-family:
+faction:
   sort: Santini
   given: Santini
 
@@ -46,9 +46,4 @@ char_data:
     element: "Hazel"
 
 excerpt: "Gifted with a sharp mind for numbers and negotiation, Giovanna oversees the family's finances and investments, skillfully managing their wealth. Her ambitious nature and keen business acumen drive her pursuit of wealth and power within Sen's aristocracy."
-
-sidebar:
-  nav: main
 ---
-
-Text goes here.

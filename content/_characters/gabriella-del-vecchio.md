@@ -1,7 +1,7 @@
 ---
 title: Gabriella Del Vecchio
 
-family:
+faction:
   sort: Del Vecchio
   given: Del Vecchio
 
@@ -28,7 +28,4 @@ char_data:
     element: ""
 
 excerpt: "Alessandro's daughter, a skilled diplomat and negotiator who plays a key role in her family's political maneuverings."
-
-sidebar:
-  nav: main
 ---

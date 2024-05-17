@@ -1,7 +1,7 @@
 ---
 title: Philippe Blanchard
 
-family:
+faction:
   sort: Blanchard
   given: Blanchard
 
@@ -32,10 +32,4 @@ char_data:
     element: ""
 
 excerpt: "Patriarch of the Blanchard family, a renowned scholar and intellectual. He is respected for his wisdom and foresight in matters of governance."
-
-sidebar:
-    nav: main
-
-
-
 ---

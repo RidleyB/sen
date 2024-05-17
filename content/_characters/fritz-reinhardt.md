@@ -1,7 +1,7 @@
 ---
 title: Fritz Reinhardt
 
-family:
+faction:
   sort: Reinhardt
   given: Reinhardt
 
@@ -32,7 +32,4 @@ char_data:
     element: ""
 
 excerpt: "The betrothed of Elena Del Vecchio. Despite the prestige of the union, this pairing is shrouded in controversy due to past events involving Francesca Santini and Karl Reinhardt."
-
-sidebar:
-  nav: main
 ---

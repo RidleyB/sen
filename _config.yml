@@ -66,25 +66,33 @@ style: compressed # https://sass-lang.com/documentation/file.SASS_REFERENCE.html
 
 collections_dir: content
 collections:
-   factions:
-      output: true
-      permalink: :collection/:title
+  factions:
+    output: true
+    permalink: :collection/:title
 
-   lore:
-      output: true
-      permalink: :collection/:title
+  lore:
+    output: true
+    permalink: :collection/:title
 
-   characters:
-      output: true
-      permalink: :collection/:title
+  characters:
+    output: true
+    permalink: :collection/:title
 
-   content:   
-      output: true
-      permalink: :collection/:title
+  content:   
+    output: true
+    permalink: :collection/:title
 
-   other:   
-      output: true
-      permalink: :collection/:title
+  other:   
+    output: true
+    permalink: :collection/:title
+
+  races:   
+    output: true
+    permalink: :collection/:title
+
+  deities:   
+    output: true
+    permalink: :collection/:title
 
 include:
 - .htaccess
@@ -105,7 +113,7 @@ exclude:
 
 # custom global variables
 
-families: "Blanchard, Del Vecchio, Montaigne, Reinhardt, Santini, Other"
+all_factions: "Blanchard, Del Vecchio, Montaigne, Reinhardt, Santini, Collegium, Commerce, Church, Open Hand, Sacred Eye, Other, Automachus"
 path_logo: /assets/images/logos/
 
 defaults:
@@ -113,15 +121,9 @@ defaults:
       path: ""
     values:
       layout: single
-      author_profile: false
-      comments: false
-      share: false
-      related: true
-      disable_pagination: false
-      disable_title: false
+      disable_title: true
+      disable_pagination: true
       excerpt_separator: <!--more-->
-      related: false
-      dead: false
       sidebar:
         nav: sidebar
 
@@ -129,8 +131,6 @@ defaults:
       path: "content/_content"
     values:
       category: content
-      disable_pagination: false
-      disable_title: false
       excerpt_separator: <!--more-->
       header:
         overlay_image: /assets/images/sen-splash-2.jpg
@@ -142,11 +142,11 @@ defaults:
   - scope:
       path: "content/_characters"
     values:
-      disable_pagination: false
-      disable_title: true
-      sidebar_excerpt: true
       sidebar_ext:
         before_nav: true
+        image: true
+        excerpt: true
+        title: true
       category: characters
       toc: true
       toc_sticky: true
@@ -160,5 +160,47 @@ defaults:
         - element_title: "Hair"
         - element_title: "Skin"
         - element_title: "Eyes"
-      related: false
       dead: false
+
+  - scope:
+      path: "content/_factions"
+    values:
+      sidebar_ext:
+        before_nav: true
+        image: true
+        excerpt: true
+        title: true
+      category: factions
+      toc: true
+      toc_sticky: true
+      sidebar:
+        nav: sidebar
+
+  - scope:
+      path: "content/_lore"
+    values:
+      sidebar_ext:
+        before_nav: true
+        excerpt: true
+        title: true
+      category: lore
+      toc: true
+      toc_sticky: true
+      sidebar:
+        nav: sidebar
+
+  - scope:
+      path: "content/_races"
+    values:
+      category: races
+
+  - scope:
+      path: "content/_deities"
+    values:
+      sidebar_ext:
+        before_nav: true
+        title: true
+        image: true
+      category: deities
+      toc: true
+      toc_sitcky: true
