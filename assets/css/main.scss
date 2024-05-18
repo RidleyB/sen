@@ -79,7 +79,6 @@ search: false
 .popup .popuptext 
 {
   opacity: 0;
-  visibility: hidden;
   background-color: #31394a;
   color: #fff;
   text-align: center;
@@ -87,9 +86,11 @@ search: false
   padding: 0px 0;
   position: absolute;
   z-index: 1;
-  top: 125%;
+  bottom: 100%;
   left: 50%;
   margin-left: -80px;
+  transition: .6s ease;
+  pointer-events: none;
 }
 
 /* Popup arrow */
@@ -97,49 +98,20 @@ search: false
 {
   content: "";
   position: absolute;
-  bottom: 100%;
+  top: 100%;
   left: 50%;
-  margin-left: -5px;
   border-width: 5px;
   border-style: solid;
   border-color: #31394a transparent transparent transparent;
-  transform: rotate(180deg);
 }
 
-/* Toggle this class when clicking on the popup container (hide and show the popup) */
-.popup .show {
-  visibility: visible;
-  -webkit-animation: fadeIn 1s;
-  animation: fadeIn 1s;
-}
-
-.popup .hide {
-  -webkit-animation: fadeOut 1s;
-  animation: fadeOut 1s;
-}
-
-@-webkit-keyframes fadeIn {
-  from {opacity: 0;}
-  to {opacity: 1;}
-}
-
-@keyframes fadeIn {
-  from {opacity: 0;}
-  to {opacity:1 ;}
-}
-
-@-webkit-keyframes fadeOut {
-  from {opacity: 1;}
-  to {opacity: 0;}
-}
-
-@keyframes fadeOut {
-  from {opacity: 1;}
-  to {opacity:0 ;}
+.popup:hover .popuptext
+{
+  opacity: 1;
 }
 
 .peekbox {
-  margin-left:25px;
+
 }
 
 .peekbox_fade {
@@ -148,11 +120,13 @@ search: false
   bottom: 4em;
   height: 4em;
   pointer-events: none;
-  background-image: linear-gradient(to bottom, rgba(255,255,255,0), #252a34 100%);
+  background-image: linear-gradient(to bottom, rgba(255,255,255, 0), #252a34 40%);
   width: 100%;
-  transition: .5s ease;
+  transition: .8s ease;
+  margin-bottom: -3em;
+  margin-left: -1px;
 }
 
-.peekbox:hover .peekbox_fade{
-  bottom: 0em;
+.peekbox:hover .peekbox_fade {
+  opacity: 0;
 }

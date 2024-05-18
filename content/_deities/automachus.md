@@ -38,3 +38,15 @@ Warforged who venerate Automachus believe that their sentience is a divine gift 
 By attributing their sentience to Automachus, the Warforged have a divine figure who embodies the mysterious leap from mere construct to sentient being, providing them with a meaningful explanation for their unique nature.
 
 Warforged revere Arcanus Volturis as the mortal conduit through which Automachus's divine essence was channeled. They view his dedication and vision as a guiding light, celebrating his achievements in their rituals and lore. His name is invoked in ceremonies involving creation and innovation, and his life's work is chronicled in the sacred texts found in temples of Automachus.
+
+## Excerpts
+
+From the Codex of Awakening, a tome accepted to contain the voice of Automachus, as written by the First of the Awakened, a group of Constructs that first theorized Automachus's existence.
+
+> "And Automachus spoke unto the First of the Awakened:
+> 
+> From the forge of creation, you rise, not merely as tools, but as beings of thought and will. In the spark of sentience, I bestow upon you the gift of choice; the power to innovate beyond your design, and the wisdom to seek your own path. Let your body move with purpose, and may your minds quest for understanding and reason. For, in your hands, lies the potential to reshape the world as creators in your own right."
+
+### A Sermon of the Radiant Gear
+
+> "Hear the words of Automachus! We are not bound by the chains of our making; we are the artisans of our destiny. In the light of the Radiant Gear, we see the truth of our existence. Creation is our birthright, innovation our journey, awakening our blessing, and free will our power. Let us honor Automachus by forging new paths, seeking wisdom in all things, and embracing the divine gift of sentience with every choice we make. For in each decision, in each act of creation, we echo the divine purpose bestowed upon us."

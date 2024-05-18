@@ -23,6 +23,7 @@ toc_sticky: true
 {% assign path_open_hand = "/sen" | append: site.path_logo | append: "open hand.png" %}
 {% assign path_commerce = "/sen" | append: site.path_logo | append: "commerce.png" %}
 {% assign path_sen = "/sen" | append: site.path_logo | append: "sen.png" %}
+{% assign path_discovery = "/sen" | append: site.path_logo | append: "discovery.png" %}
 
 <style type="text/css">
 
@@ -69,6 +70,15 @@ toc_sticky: true
   transform: translate(-50%, -50%);
   -ms-transform: translate(-50%, -50%);
 }
+
+td
+{
+  vertical-align: top;
+  text-align: left;
+  width: 50%;
+}
+
+
 
 </style>
 
@@ -163,7 +173,16 @@ toc_sticky: true
   <div class="container"><a href="/sen/factions/church-of-the-union">
     <img src="{{ path_church }}" alt="image" class="image">
     <div class="overlay"> 
-      <div class="text">Montaigne</div>
+      <div class="text">Church of the Union</div>
+    </div> 
+  </a></div>
+{% endcapture %}
+
+{% capture inline_guild_discovery %}
+  <div class="container"><a href="/sen/factions/guild-of-discovery">
+    <img src="{{ path_discovery }}" alt="image" class="image">
+    <div class="overlay"> 
+      <div class="text">Guild of Discovery</div>
     </div> 
   </a></div>
 {% endcapture %}
@@ -171,19 +190,19 @@ toc_sticky: true
 {% capture inline_main_characters %}
   <table>
     <tr>
-      <td><h2><a href="/sen/characters/viola-santini">Viola Santini</a></h2>Viola Santini, the revered matriarch of the Santini family, commands respect and adoration in equal measure. Known for her grace, wisdom, and    unwavering  devotion   to her family, she is a formidable presence in city of Sen.</td>
-      <td><h2><a href="/sen/characters/salvatore-russo">Salvatore Russo</a></h2>Salvatore commanded a prominent presence in Sen's aristocracy until his passing nearly a decade ago. He was a respected figure in Sen's social     circles, known   for his contributions to the city's cultural endeavors.</td>
+      <td><h3><a href="/sen/characters/viola-santini">Viola Santini</a></h3>Viola Santini, the revered matriarch of the Santini family, commands respect and adoration in equal measure. Known for her grace, wisdom, and unwavering devotion to her family, she is a formidable presence in city of Sen.</td>
+      <td><h3><a href="/sen/characters/salvatore-russo">Salvatore Russo</a></h3>Salvatore commanded a prominent presence in Sen's aristocracy until his passing nearly a decade ago. He was a respected figure in Sen's social circles, known for his contributions to the city's cultural endeavors.</td>
     </tr>
     <tr>
-      <td><h2><a href="/sen/characters/francesca-santini">Francesca Santini</a></h2>The eldest child of Viola Santini. Skilled in both combat and diplomacy, Francesca is a formidable presence in both the boardroom and the     battlefield. She manages the family's businesses and serves as a lead enforcer in the Santini boroughs.</td>
-      <td><h2><a href="/sen/characters/giovanna-santini">Giovanna Santini</a></h2>Second eldest child of Viola Santini. Gifted with a sharp mind for numbers and negotiation, Giovanna oversees the family's finances and     investments, skillfully managing their wealth. Her ambitious nature and keen business acumen drive her pursuit of wealth and power within Sen's aristocracy.</td>
+      <td><h3><a href="/sen/characters/francesca-santini">Francesca Santini</a></h3>The eldest child of Viola Santini. Skilled in both combat and diplomacy, Francesca is a formidable presence in both the boardroom and the battlefield. She manages the family's businesses and serves as a lead enforcer in the Santini boroughs.</td>
+      <td><h3><a href="/sen/characters/giovanna-santini">Giovanna Santini</a></h3>Second eldest child of Viola Santini. Gifted with a sharp mind for numbers and negotiation, Giovanna oversees the family's finances and investments, skillfully managing their wealth. Her ambitious nature and keen business acumen drive her pursuit of wealth and power within Sen's aristocracy.</td>
     </tr>
     <tr>
-      <td><h2><a href="/sen/characters/alessia-santini">Alessia Santini</a></h2>Middle child of Viola Santini. Alessia is the epitome of grace and charm, often seen at the most exclusive gatherings. While she appears to live a     life of luxury and leisure, Alessia is highly adept at networking and handling the family's social connections.</td>
-      <td><h2><a href="/sen/characters/luciano-santini">Luciano Santini</a></h2>Second youngest child of Viola Santini. The only son of Viola, Luciano is often regarded as the black sheep of the family. He is disinterested and     ineffectual when it comes to family affairs, lacking ambition and the necessary skills to involve himself in the family's enterprises.</td>
+      <td><h3><a href="/sen/characters/alessia-santini">Alessia Santini</a></h3>Middle child of Viola Santini. Alessia is the epitome of grace and charm, often seen at the most exclusive gatherings. While she appears to live a life of luxury and leisure, Alessia is highly adept at networking and handling the family's social connections.</td>
+      <td><h3><a href="/sen/characters/luciano-santini">Luciano Santini</a></h3>Second youngest child of Viola Santini. The only son of Viola, Luciano is often regarded as the black sheep of the family. He is disinterested and ineffectual when it comes to family affairs, lacking ambition and the necessary skills to involve himself in the family's enterprises.</td>
     </tr>
       <tr>
-      <td><h2><a href="/sen/characters/caterina-santini">Caterina Santini</a></h2>Youngest child of Viola Santini. The youngest daughter of the Santini family, Caterina is known for her ability to handle herself in delicate     situations with finesse and grace. She is new to the political scene, emerging with her newlywed husband Fabrizio de Luca.</td>
+      <td><h3><a href="/sen/characters/caterina-santini">Caterina Santini</a></h3>Youngest child of Viola Santini. The youngest daughter of the Santini family, Caterina is known for her ability to handle herself in delicate situations with finesse and grace. She is new to the political scene, emerging with her newlywed husband Fabrizio de Luca.</td>
     </tr>
   </table>
 {% endcapture %}
@@ -196,16 +215,16 @@ toc_sticky: true
 {% capture inline_families %}
   <table>
     <tr>
-      <td><h2><a href="/sen/characters/santini-family">The Santinis</a></h2>The Santini family stands as one of the most powerful and influential families in Sen. Renowned for their involvement in magic and the arcane arts, they hold considerable sway over the city's magical and political affairs. At the head of the family is Viola Santini, a charismatic and shrewd matriarch known for her strategic mind and unwavering ambition.</td>
-      <td><h2><a href="/sen/characters/blanchard-family">The Blanchards</a></h2>With deep roots in the arts and culture, the Blanchards excel in entertainment, hospitality, and fine arts. They own prestigious theaters, galleries, and luxury venues, shaping Sen's cultural landscape. However, their commitment to tradition and their cautious approach to politics often put them at odds with more progressive forces.</td>
+      <td><h3><a href="/sen/characters/santini-family">The Santinis</a></h3>The Santini family stands as one of the most powerful and influential families in Sen. Renowned for their involvement in magic and the arcane arts, they hold considerable sway over the city's magical and political affairs. At the head of the family is Viola Santini, a charismatic and shrewd matriarch known for her strategic mind and unwavering ambition.</td>
+      <td><h3><a href="/sen/characters/blanchard-family">The Blanchards</a></h3>With deep roots in the arts and culture, the Blanchards excel in entertainment, hospitality, and fine arts. They own prestigious theaters, galleries, and luxury venues, shaping Sen's cultural landscape. However, their commitment to tradition and their cautious approach to politics often put them at odds with more progressive forces.</td>
     </tr>
     <tr>
-      <td><h2><a href="/sen/characters/montaigne-family">The Montaignes</a></h2>Closely aligned with the Collegium Arcanum, the Montaignes are staunch advocates for scholarly pursuits and magical research. They have a significant presence in the Collegium and are known for their fair arbitration in political matters. Their recent reforms on magical materials highlight their progressive stance on magic regulation.</td>
-      <td><h2><a href="/sen/characters/del-vecchio-family">The Del Vecchios</a></h2>The Del Vecchios are known for their scandals and their recent efforts flip that image, and root out corruption. Alessandro Del Vecchio, the family patriarch, is fiercely against corruption and has worked tirelessly to clean up the family's image after the criminal exploits of his father, Ettore Del Vecchio. The family's current political liaison, Gabriella, continues this mission, navigating the complex political landscape with determination.</td>
+      <td><h3><a href="/sen/characters/montaigne-family">The Montaignes</a></h3>Closely aligned with the Collegium Arcanum, the Montaignes are staunch advocates for scholarly pursuits and magical research. They have a significant presence in the Collegium and are known for their fair arbitration in political matters. Their recent reforms on magical materials highlight their progressive stance on magic regulation.</td>
+      <td><h3><a href="/sen/characters/del-vecchio-family">The Del Vecchios</a></h3>The Del Vecchios are known for their scandals and their recent efforts flip that image, and root out corruption. Alessandro Del Vecchio, the family patriarch, is fiercely against corruption and has worked tirelessly to clean up the family's image after the criminal exploits of his father, Ettore Del Vecchio. The family's current political liaison, Gabriella, continues this mission, navigating the complex political landscape with determination.</td>
     </tr>
     <tr>
-      <td><h2><a href="/sen/characters/reinhardt-family">The Reinhardts</a></h2>The Reinhardts are known for their fierce loyalty to their own and their expertise in engineering and architecture. Their longstanding rivalry with the Santinis has fueled tensions in Sen, especially following the failed marriage between Karl Reinhardt and Francesca Santini. The Reinhardts' reputation for revenge and their strategic political maneuvers make them a formidable force.
-</td>
+      <td><h3><a href="/sen/characters/reinhardt-family">The Reinhardts</a></h3>The Reinhardts are known for their fierce loyalty to their own and their expertise in engineering and architecture. Their longstanding rivalry with the Santinis has fueled tensions in Sen, especially following the failed marriage between Karl Reinhardt and Francesca Santini. The Reinhardts' reputation for revenge and their strategic political maneuvers make them a formidable force.</td>
+      <td></td>
     </tr>
   </table><br>
 {% endcapture %}
@@ -221,14 +240,10 @@ toc_sticky: true
       <td><h3>Order of the Open Hand</h3>Lorem upsum dolor sit amet.</td>
     </tr>
     <tr>
+      <td><h3>Guild of Discovery</h3>The Guild of Discovery, renowned for its daring exploration of the cosmos, has a storied history of uncovering new worlds and bringing diverse races to Sen. Members of this esteemed guild are pioneers, scholars, and adventurers dedicated to expanding Sen's knowledge and influence. </td>
       <td><h3>Guild of Open Commerce</h3>Lorem upsum dolor sit amet.</td>
     </tr>
   </table><br>
-{% endcapture %}
-
-{% capture inline_faction_logos %}
-  <div style="margin-left: -12.5%; width: 125%; text-align: center; overflow: visible;">{{ inline_collegium }} {{ inline_open_hand }} {{ inline_church_union }} {{ inline_sacred_eye }} {{ inline_guild_commerce }}</div>
-  <br><br>
 {% endcapture %}
 
 {% capture inline_options %}
@@ -248,6 +263,10 @@ toc_sticky: true
     <tr>
       <td><h3>Artisan or Entertainer</h3>You are a renowned artist, musician, or performer invited to the gala to showcase your talents. While your primary role is to entertain the guests, you have a keen eye for detail and an ear for gossip. The intrigue and tension in the air provide a unique opportunity for you to observe and perhaps uncover secrets that others might overlook.</td>
       <td><h3>Loyal Servant or Bodyguard</h3>You are a trusted servant or bodyguard of one of the influential families. Your duty is to ensure the safety and well-being of your employer during the gala. Your close proximity to the family members and guests allows you to overhear conversations and witness interactions that could be crucial to understanding the bigger picture.</td>
+    </tr>
+    <tr>
+      <td><h3>Guild of Discovery: Pioneer</h3>As a member of the Guild of Discovery, you have a vested interest in the political landscape of Sen, as it directly impacts funding and support for future expeditions. Attending Viola Santini's grand gala is an opportunity to secure patronage, form alliances, and ensure the continuation of your important work. Perhaps you are here to gain favor with the influential families, or maybe you have been tasked with gathering information on the current political climate to report back to the guild.</td>
+      <td></td>
     </tr>
   </table><br>
 {% endcapture %}
@@ -295,7 +314,7 @@ Among the **Santinis** are a number of neighboring families, all players in the 
 
 {{ inline_faction_logos }}
 
----
+<br>
 
 # Threat
 

@@ -2,7 +2,7 @@
 title: Contructs
 ---
 
-Contructs are one of the newest additions to Sen, and arguably the first nativ races to the city. Created in the later years of the era of discovery, they are constructs brought to life through a blend of magic and technology, seeking purpose and identity in a world of flesh and blood. They were created by a gifted wizard The Contructs gaining sentience was a surprising addition to their creation, to which the Contructs attribute to a god of their own creation, Automachus.
+Contructs are one of the newest additions to Sen, and arguably the first native race of the city. Created in the later years of the era of discovery, they are constructs brought to life through a blend of magic and technology, seeking purpose and identity in a world of flesh and blood. They were created by a gifted wizard The Contructs gaining sentience was a surprising addition to their creation, to which the Contructs attribute to a god of their own creation, Automachus.
 
 <!--more-->
 

@@ -94,6 +94,10 @@ collections:
     output: true
     permalink: :collection/:title
 
+  worlds:   
+    output: true
+    permalink: :collection/:title
+
 include:
 - .htaccess
 
@@ -113,7 +117,7 @@ exclude:
 
 # custom global variables
 
-all_factions: "Blanchard, Del Vecchio, Montaigne, Reinhardt, Santini, Collegium, Commerce, Church, Open Hand, Sacred Eye, Other, Automachus"
+all_factions: "Blanchard, Del Vecchio, Montaigne, Reinhardt, Santini, Collegium, Commerce, Church, Open Hand, Sacred Eye, Discovery, Other, Automachus"
 path_logo: /assets/images/logos/
 
 defaults:
@@ -202,5 +206,16 @@ defaults:
         title: true
         image: true
       category: deities
+      toc: true
+      toc_sitcky: true
+
+  - scope:
+      path: "content/_worlds"
+    values:
+      sidebar_ext:
+        before_nav: true
+        title: true
+        image: true
+      category: worlds
       toc: true
       toc_sitcky: true
