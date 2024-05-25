@@ -64,8 +64,3 @@ sidebar:
         url: /factions/order-of-the-open-hand
       - title: Order of the Sacred Eye
         url: /factions/order-of-the-sacred-eye
-  - title: TODO
-    url: /devposts/todo
-    children:
-      - title: TODO
-        url: /devposts/todo
