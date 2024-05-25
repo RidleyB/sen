@@ -5,6 +5,10 @@ faction:
   sort: discovery
 
 blurb: "The Guild of Discovery is a legendary organization renowned for its daring explorers and groundbreaking missions. Established during the era of discovery, the guild's primary objective was to open more gateways to Sen by exploring the cosmos in search of new worlds with sentient life. Their efforts greatly expanded Sen's cultural and racial diversity, making the city the vibrant melting pot it is today."
+
+header:
+  overlay_image: /assets/images/discovery-1.jpg
+  overlay_filter: 0.5
 ---
 
 <h1 id="overview" style="visibility: hidden; margin: 0px; padding: 0px;">Overview</h1>

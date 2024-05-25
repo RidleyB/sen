@@ -5,9 +5,10 @@ faction:
   sort: commerce
 
 blurb: "The Guild of Open Commerce stands as a formidable collective of merchants and traders, serving as the bedrock of Sen's financial systems. With a mandate to promote fair trade practices, regulate commerce, and offer support to its members, the Guild plays a pivotal role in maintaining the city's economic stability. Its influence extends across various sectors, shaping the flow of goods and resources within Sen and beyond."
+header:
+  overlay_image: /assets/images/commerce-1.jpg
+  overlay_filter: 0.5
 ---
-
-<h1 id="overview" style="visibility: hidden; margin: 0px; padding: 0px;">Overview</h1>
 
 {{ page.blurb }}
 

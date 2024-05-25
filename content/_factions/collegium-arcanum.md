@@ -5,7 +5,21 @@ faction:
   sort: collegium
 
 blurb: "The Collegium Arcanum is the premier institution for magical education and research in Sen. Known colloquially as the Collegium, it stands as a bastion of arcane knowledge and scholarly pursuit. Comprised of mages, scholars, and a diverse array of arcane practitioners, the Collegium is dedicated to advancing the magical arts and sciences. It plays a crucial role in training the next generation of wizards, sorcerers, and other magic users, and holds significant influence over the city's policies regarding magical regulation and practice. "
+
+header:
+  overlay_image: /assets/images/collegium-2.png
+  overlay_filter: 0.5
 ---
+
+{% assign path_img1 = site.url | append: site.baseurl | append: "/assets/images/collegium-1.jpg" %}
+
+{% capture inline_img1 %}
+  <figure class="align-right">
+    <img src="{{ path_img1 }}" alt="image" class="image" style="width: 282px;height: 405px;">
+  </figure> 
+{% endcapture %}
+
+{% comment %} ============================================== {% endcomment %}
 
 <h1 id="overview" style="visibility: hidden; margin: 0px; padding: 0px;">Overview</h1>
 
@@ -31,6 +45,9 @@ Within the Collegium Arcanum, mages can achieve various titles and ranks based o
 - **Novice**: Novices are newly admitted members of the Collegium, undergoing a period of training and study to familiarize themselves with the fundamental principles of magic.
 
 ## History
+
+{{ inline_img1 }}
+
 ### Founding and Early Years
 The Collegium Arcanum was established centuries ago by a coalition of powerful mages who sought to create a centralized institution for the study and advancement of magic. The founding members recognized the need for a structured approach to magical education and research, one that would ensure the safe and ethical use of arcane power. Over time, the Collegium grew in both size and reputation, attracting some of the most brilliant magical minds from across the realm.
 

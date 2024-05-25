@@ -5,6 +5,10 @@ faction:
   sort: sacred-eye
 
 blurb: "The Order of the Sacred Eye is an elite group of inquisitors dedicated to rooting out threats to Sen and its people from within the city's gates. Known for their relentless pursuit of justice, the members of the Order operate both openly and covertly across all aspects of city society. While they often work in the shadows as spies and agents, they also maintain a public presence to uphold their reputation and ensure public trust. The Order played a crucial role in the investigation that led to the downfall of Ettore Del Vecchio, showcasing their effectiveness and dedication to Sen's security."
+
+header:
+  overlay_image: /assets/images/sacred-eye-1.png
+  overlay_filter: 0.5
 ---
 
 <h1 id="overview" style="visibility: hidden; margin: 0px; padding: 0px;">Overview</h1>

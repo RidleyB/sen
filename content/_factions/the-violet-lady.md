@@ -4,6 +4,9 @@ faction:
   sort: tvl
 
 blurb: "The Violet Lady is a mysterious and elusive figure who has become synonymous with criminal and cult activity in the Celestial City of Sen. Her presence is shrouded in secrecy, and she operates from the shadows, leaving behind only traces of her influence and the fear that follows in her wake. Despite extensive efforts by law enforcement and various factions within Sen, the true identity of the Violet Lady remains unknown, making her one of the most enigmatic and dangerous threats the city has ever faced."
+
+header:
+  overlay_image: /assets/images/tvl-1.jpg
 ---
 
 <h1 id="overview" style="visibility: hidden; margin: 0px; padding: 0px;">Overview</h1>

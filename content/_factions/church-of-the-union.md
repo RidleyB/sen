@@ -4,8 +4,11 @@ title: Church of the Union
 faction: 
   sort: church
 
-blurb: "The Church of the Union serves as the spiritual and moral compass of Sen, dedicated to fostering unity among the city's diverse inhabitants, promoting peace, and providing support to those in need. Guided by the teachings of Anzu and other ancient pantheon of the Tayir, the Church emphasizes compassion, cooperation, and the importance of maintaining harmony in a bustling, multifaceted metropolis. The Church's enforcers, known as the Lord's Hands, uphold these principles, ensuring the sanctity of Sen's interdimensional gateways and playing a crucial role in the city's governance and spiritual life.
-"
+blurb: "The Church of the Union serves as the spiritual and moral compass of Sen, dedicated to fostering unity among the city's diverse inhabitants, promoting peace, and providing support to those in need. Guided by the teachings of Anzu and other ancient pantheon of the Tayir, the Church emphasizes compassion, cooperation, and the importance of maintaining harmony in a bustling, multifaceted metropolis. The Church's enforcers, known as the Lord's Hands, uphold these principles, ensuring the sanctity of Sen's interdimensional gateways and playing a crucial role in the city's governance and spiritual life."
+
+header:
+  overlay_image: /assets/images/church-1.png
+  overlay_filter: 0.5
 ---
 
 <h1 id="overview" style="visibility: hidden; margin: 0px; padding: 0px;">Overview</h1>

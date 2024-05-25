@@ -2,6 +2,10 @@
 title: An Invitation
 excerpt: "You are formally invited to join the us for an evening of elegance,
 entertainment, and enlightenment at their esteemed estate in Sen..."
+
+header:
+  overlay_image: /assets/images/party-1.jpg
+  overlay_filter: 0.5
 ---
 
 *Esteemed Guests,*

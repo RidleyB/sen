@@ -5,6 +5,10 @@ faction:
   sort: open-hand
 
 blurb: "The Order of the Open Hand is a distinguished order of paladins dedicated to the defense of the city of Sen and the protection of its citizens. Renowned for their exceptional combat prowess and unwavering commitment to justice, the Order serves as both a military force and a guardian of peace within the city. Their members are trained in the arts of war and equipped with weapons infused with divine power, standing as a formidable bulwark against both external and internal threats. The Order often collaborates with other factions to uphold the stability and security of Sen."
+
+header:
+  overlay_image: /assets/images/open-hand-1.jpg
+  overlay_filter: 0.5
 ---
 
 <h1 id="overview" style="visibility: hidden; margin: 0px; padding: 0px;">Overview</h1>
