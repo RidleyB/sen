@@ -9,9 +9,9 @@ deity:
 
 **Original Race of Worship:** Construct
 
-**Description:** Automachus is revered as the deity who grants sentience and free will to all mortal beings. Conceptualized shortly after their creation, Automachus was a primordial force who saw potential in the intricate designs of mortal beings. Infusing them with a spark of divine intellect, Automachus gave them the gift of self-awareness and the ability to make choices beyond their original design. This story is echoed in the Warforged, who gained sentience shortly after their creation during the era of discovery by Arcanus Volturis Peverell.
+**Description:** Automachus is revered as the deity who grants sentience and free will to all mortal beings. Conceptualized shortly after their creation, Automachus was a primordial force who saw potential in the intricate designs of mortal beings. Infusing them with a spark of divine intellect, Automachus gave them the gift of self-awareness and the ability to make choices beyond their original design. This story is echoed in the Warforged, who gained sentience shortly after their creation during the era of discovery by Arch-magus Volturis Peverell.
 
-Arcanus Volturis Peverell was a legendary archmage whose curiosity about the boundaries between life and artificial constructs led him to unlock the secrets of creating sentient beings. He was a visionary, obsessed with the idea of merging arcane magic and intricate engineering to create life where there was none.
+Arch-magus Volturis Peverell was a legendary archmage whose curiosity about the boundaries between life and artificial constructs led him to unlock the secrets of creating sentient beings. He was a visionary, obsessed with the idea of merging arcane magic and intricate engineering to create life where there was none.
 
 <!--more-->
 
@@ -39,7 +39,7 @@ Warforged who venerate Automachus believe that their sentience is a divine gift 
 
 By attributing their sentience to Automachus, the Warforged have a divine figure who embodies the mysterious leap from mere construct to sentient being, providing them with a meaningful explanation for their unique nature.
 
-Warforged revere Arcanus Volturis as the mortal conduit through which Automachus's divine essence was channeled. They view his dedication and vision as a guiding light, celebrating his achievements in their rituals and lore. His name is invoked in ceremonies involving creation and innovation, and his life's work is chronicled in the sacred texts found in temples of Automachus.
+Warforged revere Arch-magus Volturis as the mortal conduit through which Automachus's divine essence was channeled. They view his dedication and vision as a guiding light, celebrating his achievements in their rituals and lore. His name is invoked in ceremonies involving creation and innovation, and his life's work is chronicled in the sacred texts found in temples of Automachus.
 
 ## Excerpts
 

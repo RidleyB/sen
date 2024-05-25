@@ -16,7 +16,7 @@ blurb: "The Judiciary Council of Sen serves as the impartial arbiter of justice 
 
 ## History
 ### Establishment
-The Judiciary Council of Sen was established during a period of political upheaval, when the city's leaders recognized the need for a centralized judiciary body to adjudicate criminal cases and resolve legal disputes. Drawing inspiration from the teachings of Fos'uhl, a deity revered for its wisdom and sense of justice, the Council was founded with the mandate to ensure the fair and equitable administration of law throughout Sen.
+The Judiciary Council of Sen was established during a period of political upheaval, when the city's leaders recognized the need for a centralized judiciary body to adjudicate criminal cases and resolve legal disputes. Drawing inspiration from the teachings of Uora, a deity revered for its wisdom and sense of justice, the Council was founded with the mandate to ensure the fair and equitable administration of law throughout Sen.
 
 ### Evolution and Expansion
 Over the centuries, the Judiciary Council evolved in response to the changing needs of Sen's growing population and complex legal landscape. Its jurisdiction expanded to encompass a wide range of criminal offenses, from petty theft to high treason, and its members became renowned for their expertise in matters of jurisprudence and legal scholarship. Through periods of prosperity and turmoil, the Council remained steadfast in its commitment to upholding the rule of law and safeguarding the rights of all citizens.

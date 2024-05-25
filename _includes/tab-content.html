@@ -5,6 +5,12 @@
 {% endif %}
 
 <div style="margin-left: {{ level }}px;">
-{% if include.title %}<h2 id="{{ include.title | slugify }}">{{ include.title }}</h2>{% endif %}
+{% if include.title %}
+{% if include.titleLevel %}
+<h{{ include.titleLevel }} id="{{ include.title | slugify }}">{{ include.title }}</h{{ include.titleLevel }}>
+{% else %}
+<h2 id="{{ include.title | slugify }}">{{ include.title }}</h2>
+{% endif %}
+{% endif %}
 {% if include.content %}{{ include.content }}{% endif %}
 </div>

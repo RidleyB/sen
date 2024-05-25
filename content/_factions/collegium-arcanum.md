@@ -18,7 +18,7 @@ blurb: "The Collegium Arcanum is the premier institution for magical education a
 ### Titles and Ranks
 Within the Collegium Arcanum, mages can achieve various titles and ranks based on their expertise, contributions, and achievements in the field of arcane study. These titles serve to recognize and honor their dedication to the pursuit of magical knowledge and the advancement of the arcane arts.
 
-- **Arcanus**: Arcanus is the highest title that can be bestowed upon a mage within the Collegium Arcanum. Those who attain this rank are revered as masters of the arcane arts, possessing unparalleled knowledge and skill in the practice of magic. They serve as leaders and advisors within the Collegium, guiding its policies and shaping its direction for future generations of mages.
+- **Arch-magus**: Arch-magus is the highest title that can be bestowed upon a mage within the Collegium Arcanum. Those who attain this rank are revered as masters of the arcane arts, possessing unparalleled knowledge and skill in the practice of magic. They serve as leaders and advisors within the Collegium, guiding its policies and shaping its direction for future generations of mages.
 
 - **Magister**: Magisters are esteemed scholars and researchers who have made significant contributions to the field of magical study. They are often called upon to mentor younger mages and oversee research projects within the Collegium.
 

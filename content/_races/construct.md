@@ -9,8 +9,8 @@ world: sen
 
 <!--more-->
 
-## Arcanus Peverell
-Arcanus Solomon Peverell was a legendary archmage whose curiosity about the boundaries between life and artificial constructs led him to unlock the secrets of creating sentient beings. He was a visionary, obsessed with the idea of merging arcane magic and intricate engineering to create life where there was none.
+## Arch-magus Peverell
+Arch-magus Solomon Peverell was a legendary archmage whose curiosity about the boundaries between life and artificial constructs led him to unlock the secrets of creating sentient beings. He was a visionary, obsessed with the idea of merging arcane magic and intricate engineering to create life where there was none.
 
 ### Origins and Early Work
 

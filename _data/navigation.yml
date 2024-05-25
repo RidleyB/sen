@@ -3,8 +3,6 @@ main:
     url: /content/
   - title: Factions
     url: /factions/
-  - title: Characters
-    url: /characters/
   - title: Lore
     url: /lore/
 
@@ -42,6 +40,8 @@ sidebar:
         url: /factions/guild-of-discovery
       - title: Judiciary Council of Sen
         url: /factions/judiciary-council-of-sen
+      - title: The Violet Lady
+        url: /factions/the-violet-lady
   - title: "Factions: Families"
     url: /factions/
     children:
