@@ -14,7 +14,7 @@ blurb: "The Violet Lady is a mysterious and elusive figure who has become synony
 
 ## Recent Criminal Activity
 
-### The Black Market Heist
+### The Open Market Heist
 
 In one of the most audacious criminal acts in recent history, the Violet Lady orchestrated a heist at the central market in the inner ring of Sen. Disguised operatives infiltrated the market, neutralizing security and making off with a cache of rare and powerful magical artifacts. The artifacts included ancient relics and enchanted items, some of which were believed to be capable of significant magical power. The heist has left the authorities scrambling to track down the stolen items and prevent their misuse. After the heist, violet petals were scattered through the streets, raining down from the building-tops.
 
