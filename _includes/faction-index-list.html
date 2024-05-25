@@ -22,7 +22,7 @@ blockquote
 {% assign icon_path = site.url | append: site.baseurl | append: site.path_logo | append: post.faction.sort | append: ".png" %}
 {% if post.faction.sort %}
 <figure style="display: block;">
-<img src="{{ icon_path }}" title="{{ post.faction.sort }}" alt="image" class="image" style="width: 128px;height: 128px; float: right;">
+<img src="{{ icon_path | downcase }}" title="{{ post.faction.sort }}" alt="image" class="image" style="width: 128px;height: 128px; float: right;">
 </figure>
 {% endif %}
 {% if post.blurb %}{{ post.blurb }}
