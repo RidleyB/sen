@@ -274,4 +274,4 @@ Get started on learning the lore of the land and dive into the Shadows of Intrig
 - The many races of Sen --> [Link](/sen/lore/races)
 - The worlds connected through Sennite Gateways --> [Link](/sen/lore/worlds)
 - The diverse religious beliefs of Sen --> [Link](/sen/lore/deities)
-- An account of the world's history --> [Link](/sen/lore/world-history)
+- An account of the world's history --> [Link](/sen/lore/history)
