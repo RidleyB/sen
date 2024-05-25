@@ -4,7 +4,7 @@ title: Worlds
 
 {% capture sen %}
   {% for post in site.documents %}
-    {% if post.title contains "Sen" %}
+    {% if post.title contains "Sen" and post.category == "worlds" %}
 <div>{% include collapsible.html post=post %}</div>
     {% endif %}
   {% endfor %}

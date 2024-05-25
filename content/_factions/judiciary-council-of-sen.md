@@ -2,7 +2,7 @@
 title: Judiciary Council of Sen
 
 faction: 
-  sort: jcs
+  sort: "jcs"
 
 blurb: "The Judiciary Council of Sen serves as the impartial arbiter of justice within the city, entrusted with the solemn duty of trying criminal cases and upholding the rule of law. Comprised of dedicated judges, lawyers, and legal scholars, the Council operates independently of any factional influence, ensuring that justice is administered fairly and without bias. Guided by the principles of Fos'uhl, the god of duality, reasoning, and magic, the members of the Judiciary Council are committed to upholding the highest standards of integrity, impartiality, and ethical conduct in all legal proceedings.
 "
