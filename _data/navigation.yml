@@ -12,13 +12,26 @@ sidebar:
   - title: General
     url: /content/
     children:
+      - title: An Invitation
+        url: /content/an-invitation
       - title: Campaign Overview
         url: /content/campaign-overview
       - title: Rules and Restrictions
         url: /content/rules-and-restrictions
-      - title: An Invitation
-        url: /content/an-invitation
-  - title: City
+  - title: Lore
+    url: /lore/
+    children:
+      - title: Calendar
+        url: /lore/calendar
+      - title: Deities
+        url: /lore/deities
+      - title: History
+        url: /lore/world-history
+      - title: Races
+        url: /lore/races
+      - title: Worlds
+        url: /lore/worlds
+  - title: "Factions: City"
     url: /factions/
     children:
       - title: Collegium Arcanum
@@ -27,7 +40,9 @@ sidebar:
         url: /factions/guild-of-open-commerce
       - title: Guild of Discovery
         url: /factions/guild-of-discovery
-  - title: Families
+      - title: Judiciary Council of Sen
+        url: /factions/judiciary-council-of-sen
+  - title: "Factions: Families"
     url: /factions/
     children:
       - title: Blanchard Family
@@ -40,30 +55,17 @@ sidebar:
         url: /factions/reinhardt-family
       - title: Santini Family
         url: /factions/santini-family
-  - title: Religion
+  - title: "Factions: Church"
     url: /factions/
     children:
       - title: Church of the Union
         url: /factions/church-of-the-union
       - title: Order of the Open Hand
-        url: /factions/order-open-hand
+        url: /factions/order-of-the-open-hand
       - title: Order of the Sacred Eye
-        url: /factions/order-sacred-eye
-  - title: Lore
-    url: /lore/
-    children:
-      - title: History
-        url: /lore/world-history
-      - title: Races
-        url: /lore/races
-      - title: Deities
-        url: /lore/deities
-      - title: Worlds
-        url: /lore/worlds
-      - title: Calendar
-        url: /lore/calendar
+        url: /factions/order-of-the-sacred-eye
   - title: TODO
-    url: /todo/
+    url: /devposts/todo
     children:
       - title: TODO
-        url: /todo
+        url: /devposts/todo

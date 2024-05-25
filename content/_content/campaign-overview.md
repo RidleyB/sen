@@ -16,60 +16,16 @@ toc_sticky: true
 {% assign path_blanchard = "/sen" | append: site.path_logo | append: "blanchard.png" %}
 {% assign path_reinhardt = "/sen" | append: site.path_logo | append: "reinhardt.png" %}
 {% assign path_montaigne = "/sen" | append: site.path_logo | append: "montaigne.png" %}
-{% assign path_del_vecchio = "/sen" | append: site.path_logo | append: "del vecchio.png" %}
+{% assign path_del_vecchio = "/sen" | append: site.path_logo | append: "del-vecchio.png" %}
 {% assign path_collegium = "/sen" | append: site.path_logo | append: "collegium.png" %}
 {% assign path_church = "/sen" | append: site.path_logo | append: "church.png" %}
-{% assign path_sacred_eye = "/sen" | append: site.path_logo | append: "sacred eye.png" %}
-{% assign path_open_hand = "/sen" | append: site.path_logo | append: "open hand.png" %}
+{% assign path_sacred_eye = "/sen" | append: site.path_logo | append: "sacred-eye.png" %}
+{% assign path_open_hand = "/sen" | append: site.path_logo | append: "open-hand.png" %}
 {% assign path_commerce = "/sen" | append: site.path_logo | append: "commerce.png" %}
 {% assign path_sen = "/sen" | append: site.path_logo | append: "sen.png" %}
 {% assign path_discovery = "/sen" | append: site.path_logo | append: "discovery.png" %}
 
 <style type="text/css">
-
-.container {
-  display: inline;
-  position: relative;
-  width: 100%;
-}
-
-.image {
-  display: inline;
-  width: 19.5%;
-  height: 19.5%;
-  transition: .5s ease;
-}
-
-.overlay {
-  position: absolute;
-  top: 0;
-  bottom: 0;
-  left: 0;
-  right: 0;
-  height: 100%;
-  width: 100%;
-  opacity: 0;
-  transition: .5s ease;
-}
-
-.container:hover .image {
-  scale: 125%;
-}
-
-.container:hover .overlay {
-  opacity: 1;
-}
-
-.text {
-  color: white;
-  font-size: 20px;
-  position: absolute;
-  width: 100%;
-  top: 500%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  -ms-transform: translate(-50%, -50%);
-}
 
 td
 {
@@ -77,8 +33,6 @@ td
   text-align: left;
   width: 50%;
 }
-
-
 
 </style>
 
@@ -89,141 +43,101 @@ td
 {% endcapture %}
 
 {% capture inline_santini %}
-  <div class="container"><a href="/sen/factions/santini-family">
-    <img src="{{ path_santini }}" alt="image" class="image">
-    <div class="overlay">
-      <div class="text">Santini</div>
-    </div>
-  </a></div>
+  <figure class="align-right">
+    <img src="{{ path_santini }}" alt="image" class="image" style="width: 128px; height: 128px;">
+  </figure> 
 {% endcapture %}
 
 {% capture inline_reinhardt %}
-  <div class="container"><a href="/sen/factions/reinhardt-family">
-    <img src="{{ path_reinhardt }}" alt="image" class="image">
-    <div class="overlay"> 
-      <div class="text">Reinhardt</div>
-    </div> 
-  </a></div>
+  <figure class="align-right">
+    <img src="{{ path_reinhardt }}" alt="image" class="image" style="width: 128px; height: 128px;">
+  </figure> 
 {% endcapture %}
 
 {% capture inline_blanchard %}
-  <div class="container"><a href="/sen/factions/blanchard-family">
-    <img src="{{ path_blanchard }}" alt="image" class="image">
-    <div class="overlay"> 
-      <div class="text">Blanchard</div>
-    </div> 
-  </a></div>
+  <figure class="align-right">
+    <img src="{{ path_blanchard }}" alt="image" class="image" style="width: 128px; height: 128px;">
+  </figure> 
 {% endcapture %}
 
 {% capture inline_del_vecchio %}
-  <div class="container"><a href="/sen/factions/del-vecchio-family">
-    <img src="{{ path_del_vecchio }}" alt="image" class="image">
-    <div class="overlay"> 
-      <div class="text">Del Vecchio</div>
-    </div> 
-  </a></div>
+  <figure class="align-right">
+    <img src="{{ path_del_vecchio }}" alt="image" class="image" style="width: 128px; height: 128px;">
+  </figure> 
 {% endcapture %}
 
 {% capture inline_montaigne %}
-  <div class="container"><a href="/sen/factions/montaigne-family">
-    <img src="{{ path_montaigne }}" alt="image" class="image">
-    <div class="overlay"> 
-      <div class="text">Montaigne</div>
-    </div> 
-  </a></div>
+  <figure class="align-right">
+    <img src="{{ path_montaigne }}" alt="image" class="image" style="width: 128px; height: 128px;">
+  </figure> 
 {% endcapture %}
 
 {% capture inline_collegium %}
-  <div class="container"><a href="/sen/factions/collegium-arcanum">
-    <img src="{{ path_collegium }}" alt="image" class="image">
-    <div class="overlay"> 
-      <div class="text">Collegium Arcanum</div>
-    </div> 
-  </a></div>
+  <figure class="align-right">
+    <img src="{{ path_collegium }}" alt="image" class="image" style="width: 128px; height: 128px;">
+  </figure> 
 {% endcapture %}
 
 {% capture inline_open_hand %}
-  <div class="container"><a href="/sen/factions/order-open-hand">
-    <img src="{{ path_open_hand }}" alt="image" class="image">
-    <div class="overlay"> 
-      <div class="text">Order of the Open Hand</div>
-    </div> 
-  </a></div>
+  <figure class="align-right">
+    <img src="{{ path_open_hand }}" alt="image" class="image" style="width: 128px; height: 128px;">
+  </figure> 
 {% endcapture %}
 
 {% capture inline_sacred_eye %}
-  <div class="container"><a href="/sen/factions/order-sacred-eye">
-    <img src="{{ path_sacred_eye }}" alt="image" class="image">
-    <div class="overlay"> 
-      <div class="text">Order of the Sacred Eye</div>
-    </div> 
-  </a></div>
+  <figure class="align-right">
+    <img src="{{ path_sacred_eye }}" alt="image" class="image" style="width: 128px; height: 128px;">
+  </figure> 
 {% endcapture %}
 
 {% capture inline_guild_commerce %}
-  <div class="container"><a href="/sen/factions/guild-of-open-commerce">
-    <img src="{{ path_commerce }}" alt="image" class="image">
-    <div class="overlay"> 
-      <div class="text">Guild of Open Commerce</div>
-    </div> 
-  </a></div>
+  <figure class="align-right">
+    <img src="{{ path_commerce }}" alt="image" class="image" style="width: 128px; height: 128px;">
+  </figure> 
 {% endcapture %}
 
 {% capture inline_church_union %}
-  <div class="container"><a href="/sen/factions/church-of-the-union">
-    <img src="{{ path_church }}" alt="image" class="image">
-    <div class="overlay"> 
-      <div class="text">Church of the Union</div>
-    </div> 
-  </a></div>
+  <figure class="align-right">
+    <img src="{{ path_church }}" alt="image" class="image" style="width: 128px; height: 128px;">
+  </figure> 
 {% endcapture %}
 
 {% capture inline_guild_discovery %}
-  <div class="container"><a href="/sen/factions/guild-of-discovery">
-    <img src="{{ path_discovery }}" alt="image" class="image">
-    <div class="overlay"> 
-      <div class="text">Guild of Discovery</div>
-    </div> 
-  </a></div>
+  <figure class="align-right">
+    <img src="{{ path_discovery }}" alt="image" class="image" style="width: 128px; height: 128px;">
+  </figure> 
 {% endcapture %}
 
 {% capture inline_main_characters %}
   <table>
     <tr>
-      <td><h3><a href="/sen/characters/viola-santini">Viola Santini</a></h3>Viola Santini, the revered matriarch of the Santini family, commands respect and adoration in equal measure. Known for her grace, wisdom, and unwavering devotion to her family, she is a formidable presence in city of Sen.</td>
-      <td><h3><a href="/sen/characters/salvatore-russo">Salvatore Russo</a></h3>Salvatore commanded a prominent presence in Sen's aristocracy until his passing nearly a decade ago. He was a respected figure in Sen's social circles, known for his contributions to the city's cultural endeavors.</td>
+      <td><h3><a href="/sen/characters/viola-santini">Viola Santini</a></h3>{% for post in site.documents %}{% if post.title contains "Viola" %}{{ post.excerpt }}{% endif %}{% endfor %}</td>
+      <td><h3><a href="/sen/characters/francesca-santini">Francesca Santini</a></h3>{% for post in site.documents %}{% if post.title contains "Francesca" %}{{ post.excerpt }}{% endif %}{% endfor %}</td>
     </tr>
     <tr>
-      <td><h3><a href="/sen/characters/francesca-santini">Francesca Santini</a></h3>The eldest child of Viola Santini. Skilled in both combat and diplomacy, Francesca is a formidable presence in both the boardroom and the battlefield. She manages the family's businesses and serves as a lead enforcer in the Santini boroughs.</td>
-      <td><h3><a href="/sen/characters/giovanna-santini">Giovanna Santini</a></h3>Second eldest child of Viola Santini. Gifted with a sharp mind for numbers and negotiation, Giovanna oversees the family's finances and investments, skillfully managing their wealth. Her ambitious nature and keen business acumen drive her pursuit of wealth and power within Sen's aristocracy.</td>
+      <td><h3><a href="/sen/characters/giovanna-santini">Giovanna Santini</a></h3>{% for post in site.documents %}{% if post.title contains "Giovanna" %}{{ post.excerpt }}{% endif %}{% endfor %}</td>
+      <td><h3><a href="/sen/characters/alessia-santini">Alessia Santini</a></h3>{% for post in site.documents %}{% if post.title contains "Alessia" %}{{ post.excerpt }}{% endif %}{% endfor %}</td>
     </tr>
     <tr>
-      <td><h3><a href="/sen/characters/alessia-santini">Alessia Santini</a></h3>Middle child of Viola Santini. Alessia is the epitome of grace and charm, often seen at the most exclusive gatherings. While she appears to live a life of luxury and leisure, Alessia is highly adept at networking and handling the family's social connections.</td>
-      <td><h3><a href="/sen/characters/luciano-santini">Luciano Santini</a></h3>Second youngest child of Viola Santini. The only son of Viola, Luciano is often regarded as the black sheep of the family. He is disinterested and ineffectual when it comes to family affairs, lacking ambition and the necessary skills to involve himself in the family's enterprises.</td>
-    </tr>
-      <tr>
-      <td><h3><a href="/sen/characters/caterina-santini">Caterina Santini</a></h3>Youngest child of Viola Santini. The youngest daughter of the Santini family, Caterina is known for her ability to handle herself in delicate situations with finesse and grace. She is new to the political scene, emerging with her newlywed husband Fabrizio de Luca.</td>
+      <td><h3><a href="/sen/characters/luciano-santini">Luciano Santini</a></h3>{% for post in site.documents %}{% if post.title contains "Luciano" %}{{ post.excerpt }}{% endif %}{% endfor %}</td>
+      <td><h3><a href="/sen/characters/caterina-santini">Caterina Santini</a></h3>{% for post in site.documents %}{% if post.title contains "Caterina" %}{{ post.excerpt }}{% endif %}{% endfor %}</td>
+      <td></td>
     </tr>
   </table>
-{% endcapture %}
-
-{% capture inline_family_logos %}
-  <div style="margin-left: -12.5%; width: 125%; text-align: center; overflow: visible;">{{ inline_blanchard }} {{ inline_del_vecchio }} {{ inline_santini }} {{ inline_montaigne }} {{ inline_reinhardt }}</div>
-  <br>
 {% endcapture %}
 
 {% capture inline_families %}
   <table>
     <tr>
-      <td><h3><a href="/sen/characters/santini-family">The Santinis</a></h3>The Santini family stands as one of the most powerful and influential families in Sen. Renowned for their involvement in magic and the arcane arts, they hold considerable sway over the city's magical and political affairs. At the head of the family is Viola Santini, a charismatic and shrewd matriarch known for her strategic mind and unwavering ambition.</td>
-      <td><h3><a href="/sen/characters/blanchard-family">The Blanchards</a></h3>With deep roots in the arts and culture, the Blanchards excel in entertainment, hospitality, and fine arts. They own prestigious theaters, galleries, and luxury venues, shaping Sen's cultural landscape. However, their commitment to tradition and their cautious approach to politics often put them at odds with more progressive forces.</td>
+      <td>{{ inline_santini }}<h3><a href="/sen/factions/santini-family">The Santinis</a></h3>{% for post in site.documents %}{% if post.faction.sort == "santini" %}{{ post.blurb }}{% endif %}{% endfor %}</td>
+      <td>{{ inline_blanchard }}<h3><a href="/sen/factions/blanchard-family">The Blanchards</a></h3>{% for post in site.documents %}{% if post.faction.sort == "blanchard" %}{{ post.blurb }}{% endif %}{% endfor %}</td>
     </tr>
     <tr>
-      <td><h3><a href="/sen/characters/montaigne-family">The Montaignes</a></h3>Closely aligned with the Collegium Arcanum, the Montaignes are staunch advocates for scholarly pursuits and magical research. They have a significant presence in the Collegium and are known for their fair arbitration in political matters. Their recent reforms on magical materials highlight their progressive stance on magic regulation.</td>
-      <td><h3><a href="/sen/characters/del-vecchio-family">The Del Vecchios</a></h3>The Del Vecchios are known for their scandals and their recent efforts flip that image, and root out corruption. Alessandro Del Vecchio, the family patriarch, is fiercely against corruption and has worked tirelessly to clean up the family's image after the criminal exploits of his father, Ettore Del Vecchio. The family's current political liaison, Gabriella, continues this mission, navigating the complex political landscape with determination.</td>
+      <td>{{ inline_del_vecchio }}<h3><a href="/sen/factions/del-vecchio-family">The Del Vecchios</a></h3>{% for post in site.documents %}{% if post.faction.sort == "del-vecchio" %}{{ post.blurb }}{% endif %}{% endfor %}</td>
+      <td>{{ inline_montaigne }}<h3><a href="/sen/factions/montaigne-family">The Montaignes</a></h3>{% for post in site.documents %}{% if post.faction.sort == "montaigne" %}{{ post.blurb }}{% endif %}{% endfor %}</td>
     </tr>
     <tr>
-      <td><h3><a href="/sen/characters/reinhardt-family">The Reinhardts</a></h3>The Reinhardts are known for their fierce loyalty to their own and their expertise in engineering and architecture. Their longstanding rivalry with the Santinis has fueled tensions in Sen, especially following the failed marriage between Karl Reinhardt and Francesca Santini. The Reinhardts' reputation for revenge and their strategic political maneuvers make them a formidable force.</td>
+      <td>{{ inline_reinhardt }}<h3><a href="/sen/factions/reinhardt-family">The Reinhardts</a></h3>{% for post in site.documents %}{% if post.faction.sort == "reinhardt" %}{{ post.blurb }}{% endif %}{% endfor %}</td>
       <td></td>
     </tr>
   </table><br>
@@ -232,16 +146,16 @@ td
 {% capture inline_factions %}
   <table>
     <tr>
-      <td><h3>Collegium Arcanum</h3>Lorem upsum dolor sit amet.</td>
-      <td><h3>Church of the Union</h3>Lorem upsum dolor sit amet.</td>
+      <td>{{ inline_collegium }}<h3><a href="/sen/factions/collegium-arcanum">Collegium Arcanum</a></h3>{% for post in site.documents %}{% if post.faction.sort == "collegium" %}{{ post.blurb }}{% endif %}{% endfor %}</td>
+      <td>{{ inline_church_union }}<h3><a href="/sen/factions/church-of-the-union">Church of the Union</a></h3>{% for post in site.documents %}{% if post.faction.sort == "church" %}{{ post.blurb }}{% endif %}{% endfor %}</td>
     </tr>
     <tr>
-      <td><h3>Order of the Sacred Eye</h3>Lorem upsum dolor sit amet.</td>
-      <td><h3>Order of the Open Hand</h3>Lorem upsum dolor sit amet.</td>
+      <td>{{ inline_sacred_eye }}<h3><a href="/sen/factions/order-of-the-sacred-eye">Order of the Sacred Eye</a></h3>{% for post in site.documents %}{% if post.faction.sort == "sacred-eye" %}{{ post.blurb }}{% endif %}{% endfor %}</td>
+      <td>{{ inline_open_hand }}<h3><a href="/sen/factions/order-of-the-open-hand">Order of the Open Hand</a></h3>{% for post in site.documents %}{% if post.faction.sort == "open-hand" %}{{ post.blurb }}{% endif %}{% endfor %}</td>
     </tr>
     <tr>
-      <td><h3>Guild of Discovery</h3>The Guild of Discovery, renowned for its daring exploration of the cosmos, has a storied history of uncovering new worlds and bringing diverse races to Sen. Members of this esteemed guild are pioneers, scholars, and adventurers dedicated to expanding Sen's knowledge and influence. </td>
-      <td><h3>Guild of Open Commerce</h3>Lorem upsum dolor sit amet.</td>
+      <td>{{ inline_guild_discovery }}<h3><a href="/sen/factions/guild-of-discovery">Guild of Discovery</a></h3>{% for post in site.documents %}{% if post.faction.sort == "discovery" %}{{ post.blurb }}{% endif %}{% endfor %}</td>
+      <td>{{ inline_guild_commerce }}<h3><a href="/sen/factions/guild-of-open-commerce">Guild of Open Commerce</a></h3>{% for post in site.documents %}{% if post.faction.sort == "commerce" %}{{ post.blurb }}{% endif %}{% endfor %}</td>
     </tr>
   </table><br>
 {% endcapture %}
@@ -266,7 +180,7 @@ td
     </tr>
     <tr>
       <td><h3>Guild of Discovery: Pioneer</h3>As a member of the Guild of Discovery, you have a vested interest in the political landscape of Sen, as it directly impacts funding and support for future expeditions. Attending Viola Santini's grand gala is an opportunity to secure patronage, form alliances, and ensure the continuation of your important work. Perhaps you are here to gain favor with the influential families, or maybe you have been tasked with gathering information on the current political climate to report back to the guild.</td>
-      <td></td>
+      <td><h3>Other</h3>Do you see another path your character could follow? Don't let this list limit your creativity!</td>
     </tr>
   </table><br>
 {% endcapture %}
@@ -292,9 +206,10 @@ Too large to be governed by one centralized government, the city has broken up i
 
 Our story surrounds five of these great families; the prestigious Santini family, and four other political families operating in their section of the city. Together, the five families all hold a significant share of influence where our story takes place, all vying for power in the area and looking to expand further. Each family has their own interests at heart, carefully navigating an increasingly unstable political landscape. Recently, a growing destabilizing threat has emerged, threatening violence and terror throughout the streets. The families can no longer ignore this presence, and a grand gala event has been called to formally address the growing threat of this dark player, "The Violet Lady".
 
+<br>
+# Main Characters
 ---
 
-# Main Characters
 
 The Santini family is large and filled with gifted and skilled individuals, nearly all singular in their talents. At its head is Viola Santini, matriarch and head of all the family's operations. In the absence of their late father, Salvatore Russo, their children have stepped up to each manage their own sections of the Santini dynasty:
 
@@ -305,22 +220,15 @@ Among the **Santinis** are a number of neighboring families, all players in the 
 
 {{ inline_families }}
 
-{{ inline_family_logos }}
-
 ## Factions
-<div class="todo">blurb about factions</div>
+
+Operating within Sen are a number of factions, each with its unique role and objectives within the city. These factions offer a range of backgrounds and motivations deeply embedded in the intricate political and social landscape of Sen.
 
 {{ inline_factions }}
 
-{{ inline_faction_logos }}
-
 <br>
-
-# Threat
-
-<div class="todo">Blurb about threats in the story.</div>
-
-## The Violet Lady
+# The Violet Lady
+---
 
 An enigmatic, shadowy figure, whose true motives and origins remain shrouded in mystery. Recent events have seen a surge in precise attacks throughout the city, targeting warehouses and facilities containing valuable magical materials with alarming frequency. Further reports have surfaced of necromantic disturbances affecting the interests of not only the Santini family, but their allies in the Blanchard and Del Vecchio clans as well. Lastly, whispers of cultist activity and missing persons following these events have begun to spread. With no arrests have been made, no reports of anyone having even seen this Violet Lady figure, and little evidence of their presence, the city's residents have begun speculating wildly on the true nature of these dark forces at work. 
 
@@ -329,9 +237,14 @@ Despite the escalating threat posed by the Violet Lady and her nefarious activit
 Following numerous accusations all seeming to stem from a unfortunate similarity between her name and the criminal, some have even gone so far to suggest Viola Santini as a possible kingpin to the string of crimes, to which Viola responded by releasing her daily schedule to the public with a foreword.
 > "If you can find the time for masterminding an entire criminal conspiracy in my schedule someplace, I might consider this a valid accusation." - Viola Santini
 
-<br>![image]({{ path_sen }}){: .align-center}<br>
+<br>
+
+![image]({{ path_sen }}){: .align-center}
+
+<br>
 
 # A Call to Action
+---
 
 Following a large gap of silence from the Santinis and the neighbouring families, the Santini family has sent out an open invitation for those in the high society to attend a great gala, hosted at their estate. It is there that Viola Santini will address the public about the Violet Lady threat, and exactly how they plan to put an end to it. 
 
@@ -345,10 +258,20 @@ How do you envision your character being invited to the Santini's event? Here ar
 
 ## Tips
 
-Finally, here are some tips to consider when building your character. 
+Lastly, here are some tips to consider when building your character. 
 
 - Think about your character's connections to the five families and other factions within Sen. Whether you are an insider with deep ties or an outsider looking to make your mark, your alliances and rivalries will shape your journey and impact the story.
 - Strongly consider making a character that will be interested (at least in some sense) in dealing with the Santini family. Their fate will be tied with yours in this story, so playing a character who couldn't care less about them might not be very exciting to play.
 - Characters with strong personal motivations will do well for this campaign. Whether driven by revenge, justice, or personal gain, your character's unique perspective will add depth to the unfolding drama.
 - Consider giving your character skills and backgrounds that lend themselves well to social intrigue. Abilities that allow you to gather information, influence others, and navigate social situations will be invaluable.
 - Be prepared for combat as much as social encounters. Dangers abound! Just as I hope your barbarian can charm the pants off of a politician, I hope your socialite can take a fireball or two. 
+
+<br>
+
+# Get Started
+---
+Get started on learning the lore of the land and dive into the Shadows of Intrigue with these links:
+- The many races of Sen --> [Link](/sen/lore/races)
+- The worlds connected through Sennite Gateways --> [Link](/sen/lore/worlds)
+- The diverse religious beliefs of Sen --> [Link](/sen/lore/deities)
+- An account of the world's history --> [Link](/sen/lore/world-history)

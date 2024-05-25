@@ -2,8 +2,8 @@
 title: Luca Del Vecchio
 
 faction:
-  sort: Del Vecchio
-  given: Del Vecchio
+  sort: Del-Vecchio
+  given: Del-Vecchio
 
 parents:
   - name: "Marco Del Vecchio"

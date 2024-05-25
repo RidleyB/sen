@@ -1,8 +1,11 @@
 ---
 title: Aarakocra
+world: theros
 ---
 
-The Aarakocra hail from the skybound world of Theros, a place dominated by floating islands and vast skies. They arrived in Sen seeking new horizons and opportunities to share their aerial mastery and unique cultural practices. While aerial travel was not all-too important in the city of Sen, the Aaracokra brought with them an array of flying machines still used in the city today as a means of travel or novelty.
+**Home-World:** {{ page.world | capitalize }}
+
+**Description:** The Aarakocra hail from the skybound world of Theros, a realm dominated by floating islands and vast skies. Their society thrives on the mastery of flight, with an intricate culture built around aerial traditions and rituals. The Aarakocra arrived in Sen seeking new horizons and opportunities to share their aerial mastery and unique cultural practices. Although aerial travel is less critical in Sen, the Aarakocra introduced various flying machines that are now used in the city for travel and novelty purposes. Their presence in Sen symbolizes the union of sky and ground, offering new perspectives and innovations.
 
 <!--more-->
 

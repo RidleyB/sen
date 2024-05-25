@@ -1,5 +1,8 @@
 ---
 permalink: /content/
-layout: collection
-collection: content
 ---
+
+# General Index
+---
+
+{% include faction-index-list.html category="content" %}

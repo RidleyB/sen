@@ -43,6 +43,6 @@ char_data:
     element: "Fair"
   - element_title: "Eyes"
     element: "Blue"
-
-excerpt: "Alessia is the epitome of grace and charm, often seen at the most exclusive gatherings. While she appears to live a life of luxury and leisure, Alessia is highly adept at networking and handling the family's social connections."
 ---
+
+Middle child of Viola Santini. Alessia is the epitome of grace and charm, often seen at the most exclusive gatherings. While she appears to live a life of luxury and leisure, Alessia is highly adept at networking and handling the family's social connections.<!--more-->

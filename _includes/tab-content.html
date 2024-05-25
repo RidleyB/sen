@@ -1,0 +1,10 @@
+{% if include.level %}
+  {% assign level = 25 : times: include.level %}
+{% else %}
+  {% assign level = 25 %}
+{% endif %}
+
+<div style="margin-left: {{ level }}px;">
+{% if include.title %}<h2 id="{{ include.title | slugify }}">{{ include.title }}</h2>{% endif %}
+{% if include.content %}{{ include.content }}{% endif %}
+</div>

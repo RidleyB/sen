@@ -2,32 +2,12 @@
 title: Guild of Discovery
 
 faction: 
-  sort: Discovery
+  sort: discovery
+
+blurb: "The Guild of Discovery is a legendary organization first established during the era of discovery, renowned for its daring explorers and groundbreaking missions. The guild's primary objective was to open more gateways to Sen by exploring the cosmos in search of new worlds with sentient life. Their efforts greatly expanded Sen's cultural and racial diversity, making the city the melting pot it is today."
 ---
 
-<script>
-// When the user clicks on <div>, open the popup
-function showPopup(id) {
-  var popup = document.getElementById(id);
-  popup.classList.toggle("hide", false);
-  popup.classList.toggle("show", true);
-}
-
-function hidePopup(id) {
-  var popup = document.getElementById(id);
-  popup.classList.toggle("show", false);
-  popup.classList.toggle("hide", true);
-}
-</script>
-
-<style type="text/css">
-
-</style>
-
-{% capture popupShowMethod %}showPopup('{{ page.title }}'){% endcapture %}
-{% capture popupHideMethod %}hidePopup('{{ page.title }}'){% endcapture %}
-
-The Guild of Discovery is a legendary organization first established during the era of discovery, renowned for its daring explorers and groundbreaking missions. The guild's primary objective was to open more gateways to Sen by exploring the cosmos in search of new worlds with sentient life. Their efforts greatly expanded Sen's cultural and racial diversity, making the city the melting pot it is today.
+{{ page.blurb }}
 
 <!--more-->
 
@@ -47,43 +27,39 @@ The Guild of Discovery remains a beacon of exploration and courage, inspiring ne
 - Each successful mission was commemorated with a new star added to the guild's celestial map, displayed prominently in the Astral Spire.
 - The guild maintained a comprehensive archive of adventure logs, artifacts, and maps, which remain a valuable resource for scholars and explorers.
 
+{% comment %}
 # Excerpts
 
 Below are some excerpts pulled from various adventurers logs during the Era of Discovery and onward.
 
-{% comment %}
 > "Dates in Sen are denoted as "ERA_MARKER-YEAR-MONTH-DAY" (ex. ED.127.Wane. ED denotes the Discovery Era, its the 127th year, in the month of Wane.). Click <a href="/sen/lore/calendar">here</a> for more info on era markers and the names of the months.
 {: .notice}
-{% endcomment %}
 
 > "The skies of Theros are endless, a perfect home for the Aarakocra. Establishing contact was challenging, but their curiosity about our city mirrors our own about their world."
 >
-> ― Diary of Explorer Quentin Toulouse, Theros Mission
+> ― Diary of Explorer Q. Toulouse, Theros Mission
 
 > "The jungles of Zaratal teem with life, and the Tabaxi move through it with unmatched grace. Their stories and artistry will enrich Sen's cultural tapestry."
 >
-> ― Field Notes of Scholar Larissa Volung, Zaratal Expedition
-
-> "The rocky terrain of Gorondar proved treacherous, but the ingenuity of the Goblins and Gnomes is unparalleled. Their ability to adapt and thrive in such a harsh environment will bring valuable knowledge to Sen. The hobgoblins and bugbears... not as likely."
->
-> — Report of Commander Howard Thatch, Gorondar Exploration
+> ― Field Notes of Scholar L. Volung, Zaratal Expedition
 
 > "The Plasmoids of Plibt are unlike any beings we've encountered. Their fluid forms and unique perspectives on existence challenge our understanding of life itself. When we first approached them, our initial attempts at verbal communication were met with a single, repeated sound: 'Plibt.' It seems to be their only auditory response, as they prefer telepathic communication. Thus, we have named their world Plibt."
 >
-> — Research Log of Alchemist Liora Voss, Plibt Study
+> — Research Log of Alchemist L. Voss, Plibt Study
 
 > "After weeks stranded at sea, we were rescued by a Hadozee vessel whose skill on the seas were unparalleled. The captain of the ship seemed interested in our mission- they guided us to safety, and will assist in the construction of a Sennite waygate. Progress!"
 >
-> — Diary of Explorer Quentin Toulouse, Saphor Mission
+> — Diary of Explorer Q. Toulouse, Saphor Mission
 
 > "Our initial attempts to communicate with the natives of Sssarvass were met with frustration and misunderstanding. It took time and patience, but once the language barrier was broken, we found a deeply spiritual and complex society."
 >
-> — Field Notes of Arcanus Larissa Volung, Sssarvass Expedition
+> — Field Notes of Arcanus L. Volung, Sssarvass Expedition
 
 > "We arrived in Vordara amidst the devastation of war. The Giff, fierce and disciplined, spoke of their ongoing conflict with the ruthless Thri-kreen. It seems we must begin evacuation efforts as soon as possible."
 >
-> — Log of Captain Elaria Penholdt, Vordara Expedition
+> — Log of Captain E. Penholdt, Vordara Expedition
 
 > "The jungles of Zaratal teem with life, and the Tabaxi move through it with unmatched grace. Their stories and artistry will enrich Sen's cultural tapestry, adding new dimensions to our understanding of the world."
 >
-> — Field Notes of Mage Francis Montaigne, Zaratal Expedition
+> — Field Notes of Discovery Mage F. Montaigne, Zaratal Expedition
+{% endcomment %}

@@ -1,7 +1,9 @@
 ---
 title: Theros
 ---
-Theros is a skybound world of floating islands and endless skies. The Aarakocra hail from Theros, a place where flight is as natural as walking. The islands of Theros are interconnected by air currents and magic, creating a unique, vertical society where the Aarakocra have honed their aerial skills.
+**Races:** Aarakocra, Kenku
+
+**Description**: Theros is a skybound world of floating islands and endless skies. The Aarakocra and Kenku have always been at odds, their peoples so different that they never truly got along. The Aarakocra, masters of the skies, have honed their aerial skills and live in harmony with the air currents and magic that connect their floating islands. The Kenku, grounded yet resourceful, navigate the islands' surfaces, often competing with the Aarakocra for resources and territory. Theros is a world where the struggle for dominance and the pursuit of freedom define its unique, vertical society.
 
 <!--more-->
 

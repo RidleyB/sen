@@ -98,6 +98,10 @@ collections:
     output: true
     permalink: :collection/:title
 
+  devposts:
+    output: true
+    permalink: :collection/:title
+
 include:
 - .htaccess
 
@@ -114,10 +118,11 @@ exclude:
    - vendor/ruby/
    - .sln
    - .vs
+   - _notincluded/
 
 # custom global variables
 
-all_factions: "Blanchard, Del Vecchio, Montaigne, Reinhardt, Santini, Collegium, Commerce, Church, Open Hand, Sacred Eye, Discovery, Other, Automachus"
+all_factions: "blanchard, del-vecchio, montaigne, reinhardt, santini, collegium, commerce, church, open-hand, sacred-eye, discovery, other"
 path_logo: /assets/images/logos/
 
 defaults:
@@ -196,7 +201,13 @@ defaults:
   - scope:
       path: "content/_races"
     values:
+      sidebar_ext:
+        before_nav: true
+        title: true
+        image: true
       category: races
+      toc: true
+      toc_sitcky: true
 
   - scope:
       path: "content/_deities"
@@ -204,7 +215,6 @@ defaults:
       sidebar_ext:
         before_nav: true
         title: true
-        image: true
       category: deities
       toc: true
       toc_sitcky: true
@@ -219,3 +229,8 @@ defaults:
       category: worlds
       toc: true
       toc_sitcky: true
+
+  - scope:
+      path: "content/_devposts"
+    values:
+      category: devposts

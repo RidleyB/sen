@@ -1,7 +1,11 @@
 ---
 title: Giff
+world: vordara
 ---
-The Giff, hailing from the militaristic world of Vordara, are known for their discipline and combat prowess. They arrived in Sen as refugees, their home-world left in ruins by the murderous Thri-kreen. Today, they are continuing to slowly rebuild their homeland. Giff often served as mercenaries and bodyguards in Sen to make ends meet, and have over time become an integral part of the city's security forces. 
+
+**Home-World:** {{ page.world | capitalize }}
+
+**Description:** The Giff hail from the militaristic world of Vordara, where discipline, honor, and combat prowess are highly valued. Their home-world was devastated by the ruthless Thri-kreen, forcing many Giff to seek refuge in Sen. Known for their impressive strength and tactical minds, Giff often serve as mercenaries, bodyguards, and soldiers in Sen, contributing significantly to the city's security forces. They strive to rebuild their homeland while ensuring the safety and prosperity of their new home.
 
 <!--more-->
 

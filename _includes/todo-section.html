@@ -1,0 +1,30 @@
+{% assign id = "todo-container-" | append: include.post.title %}
+<div>
+<a href="{{ include.post.url | absolute_url }}">{{ include.post.title }}</a>
+<div id="{{ id }}"></div>
+<ul>
+<script>
+document.addEventListener('DOMContentLoaded', () => 
+{
+    const pagesWithTodos = {{ site.documents | where_exp: "page", "page.content contains 'todo'" | map: "path" | jsonify }};
+        
+    fetch("{{ include.post.url | absolute_url }}")
+        .then(response => response.text())
+        .then(data => 
+        {
+            const parser = new DOMParser();
+            const doc = parser.parseFromString(data, 'text/html');
+            const todos = doc.querySelectorAll('.todo');
+            const todoContainer = document.getElementById('{{ id }}');
+            todos.forEach(todo => 
+            {
+                const todoItem = document.createElement('li');
+                todoItem.textContent = todo.textContent;
+                todoContainer.appendChild(todoItem);
+            });
+        })
+});
+</script>
+
+</ul>
+</div>

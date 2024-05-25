@@ -2,8 +2,8 @@
 title: Marco Del Vecchio
 
 faction:
-  sort: Del Vecchio
-  given: Del Vecchio
+  sort: Del-Vecchio
+  given: Del-Vecchio
 
 parents:
   - name: "Ettore Del Vecchio"
@@ -23,7 +23,7 @@ children:
   - name: "Luca Del Vecchio"
     type: "Son"
   - name: "Lena Del Vecchio"
-    type: "Son"
+    type: "Daughter"
 
 char_data:
   - element_title: "Pronouns"

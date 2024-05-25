@@ -2,7 +2,9 @@
 title: Aerion
 ---
 
-Aerion is a diverse world known for its varied landscapes, bustling cities, vast farmlands, verdant and ancient magical forests, towering mountains, and deep oceans. Half-Elves, and Elves all hail from Aerion, bringing with them their adaptability, wisdom, and grace. This world is marked by its harmonious blend of nature and civilization, where ancient elven groves exist alongside human-built metropolises, fostering a culture of innovation, magic, and exploration.
+**Races:** Human, Dwarf, Halfing
+
+**Description**: Aerion is a diverse world known for its varied landscapes, bustling cities, vast farmlands, ancient magical forests, towering mountains, and deep oceans. The true natives, the Dwarves, have built their civilizations within the mountains and deep underground. Centuries ago, ancient humans crash-landed on Aerion after their home-world was destroyed. They integrated with the Dwarven society, bringing the innovation and adaptability of the human race with them. This world is marked by a harmonious blend of nature and civilization, where Dwarven craftsmanship and human ingenuity have created a culture of resilience, exploration, and mutual respect. Over time, a blend of the two peoples created the Halflings, a race of hardy yet small people.
 
 <!--more-->
 

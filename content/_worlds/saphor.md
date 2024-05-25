@@ -1,7 +1,10 @@
 ---
 title: Saphor
 ---
-Saphor is a coastal world dominated by vast oceans and dotted with numerous islands. The Hadozee come from Saphor, a world where seafaring and navigation are essential to survival. The people of Saphor are excellent sailors, traders, and explorers, known for their adventurous spirit and maritime expertise.
+
+**Races:** Hadozee, Triton, Grung, Locathah
+
+**Description**: Saphor was once a world with diverse landscapes, but a great calamity caused the oceans to rise, submerging much of the land. Now dominated by vast oceans and dotted with numerous islands, it is home to the Hadozee, Triton, Grung, and Locathah. The people of Saphor are excellent sailors, traders, and explorers, known for their adventurous spirit and maritime expertise. Their culture is one of adaptation and resilience, thriving in a world where seafaring and navigation are essential to survival.
 
 <!--more-->
 

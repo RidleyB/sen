@@ -2,7 +2,7 @@
 title: Sofia Del Vecchio
 
 faction:
-  sort: Del Vecchio
+  sort: Del-Vecchio
   given: Santini
 
 parents:

@@ -1,5 +1,8 @@
 ---
 permalink: /lore/
-layout: collection
-collection: lore
 ---
+
+# Lore Index
+---
+
+{% include faction-index-list.html category="lore" %}

@@ -1,5 +1,6 @@
 ---
 title: Calendar
+toc: true
 ---
 
-<div class="todo">Write section on calendar, months, and era notation.</div>
+<div class="todo">Page about calendar and current year, and the eras of Sen.</div>

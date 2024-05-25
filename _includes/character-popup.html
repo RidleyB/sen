@@ -16,6 +16,7 @@ function hidePopup(id) {
 {% capture popupShowMethod %}showPopup('{{ include.post.title }}'){% endcapture %}
 {% capture popupHideMethod %}hidePopup('{{ include.post.title }}'){% endcapture %}
 <div class="popup" onmouseover="{{ popupShowMethod }}" onmouseout="{{ popupHideMethod }}">
+{% comment %}
 {% if include.link == "true" %}
 {% if include.label %}
 <a href="{{ site.baseurl }}{{ include.post.url }}">{{ include.label }}</a>
@@ -30,4 +31,7 @@ function hidePopup(id) {
 {% endif %}
 {% endif %}
 <span class="popuptext" id="{{ include.post.title }}" style="left: -150%;">{% include character-wide.html data=include.post.char_data title=include.post.title %}</span>
+{% endcomment %}
+
+<a>{{ include.label }}</a>
 </div>

@@ -2,8 +2,8 @@
 title: Gabriella Del Vecchio
 
 faction:
-  sort: Del Vecchio
-  given: Del Vecchio
+  sort: Del-Vecchio
+  given: Del-Vecchio
 
 parents:
   - name: "Alessandro Del Vecchio"

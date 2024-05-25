@@ -1,7 +1,11 @@
 ---
 title: Kenku
+world: theros
 ---
-Kenku hail from the enigmatic world of Misthyr, known for its deep forests and ancient ruins. They arrived in Sen mostly out of curiosity, and have stayed happily since, bringing their unique talents with them. 
+
+**Home-World:** {{ page.world | capitalize }}
+
+**Description:** Kenku hail from the skybound world of Theros, known for its floating islands. Their society is characterized cunning and a deep sense of curiosity. The Kenku arrived in Sen driven by a desire to explore new horizons. In Sen, they are valued for their unique talents, resourcefulness, and ability to adapt to new situations, often serving as spies, scouts, and informants.
 
 <!--more-->
 

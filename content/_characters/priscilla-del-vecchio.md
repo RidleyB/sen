@@ -2,7 +2,7 @@
 title: Priscilla Del Vecchio
 
 faction:
-  sort: Del Vecchio
+  sort: Del-Vecchio
   given: Bianchi
 
 partners:

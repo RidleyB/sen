@@ -44,6 +44,8 @@ char_data:
     element: "Light-olive"
   - element_title: "Eyes"
     element: "Hazel"
-
-excerpt: "Gifted with a sharp mind for numbers and negotiation, Giovanna oversees the family's finances and investments, skillfully managing their wealth. Her ambitious nature and keen business acumen drive her pursuit of wealth and power within Sen's aristocracy."
 ---
+
+Second eldest child of Viola Santini. Gifted with a sharp mind for numbers and negotiation, Giovanna oversees the family's finances and investments, skillfully managing their wealth. Her ambitious nature and keen business acumen drive her pursuit of wealth and power within Sen's aristocracy.
+
+<!--more-->

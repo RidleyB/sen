@@ -19,15 +19,13 @@ search: false
 
 .todo {
   margin-bottom: 12px;
+  padding-top: 12px;
   color: yellow;
+  border-bottom: 1px solid #fff;
 }
 
 .todo:before {
-  content: "TODO: ";
-}
-
-.tab {
-  margin-left: 25px;
+  content: "Coming Soon: ";
 }
 
 /* Toggle this class when clicking on the popup container (hide and show the popup) */
@@ -129,4 +127,42 @@ search: false
 
 .peekbox:hover .peekbox_fade {
   opacity: 0;
+}
+
+.collapsible_container
+{
+  background-color: #0f1216;
+  padding: 16px;
+  padding-bottom: 24px;
+  width: 100%;
+  border: none;
+  outline: none;
+  font-size: 15px;
+  border-radius: 8px;
+}
+
+.collapsible {
+  background-color: #0f1216;
+  color: white;
+  cursor: pointer;
+  width: 100%;
+  border: none;
+  text-align: left;
+  outline: none;
+  border-radius: 8px;
+  padding: 0 14px;
+}
+
+.active, .collapsible:hover {
+  background-color: #555;
+}
+
+.collapsible_content {
+  padding: 0 18px;
+  max-height: 0;
+  overflow: hidden;
+  margin-top: -8px;
+  transition: max-height 0.35s ease-out;
+  background-color: #1a1e25;
+  border-radius: 0px 0px 8px 8px;
 }

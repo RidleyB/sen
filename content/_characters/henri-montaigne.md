@@ -12,11 +12,11 @@ siblings:
     type: Sister
 
 partners:
-  - name: "Giulia Santini"
+  - name: "Giulia Montaigne"
     type: "Wife"
 
 children:
-  - name: "Isabelle Santini"
+  - name: "Amelie Montaigne"
     type: "Daughter"
 
 char_data:

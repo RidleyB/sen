@@ -2,8 +2,8 @@
 title: Ettore Del Vecchio
 
 faction:
-  sort: Del Vecchio
-  given: Del Vecchio
+  sort: Del-Vecchio
+  given: Del-Vecchio
 
 partners:
   - name: "Priscilla Del Vecchio"

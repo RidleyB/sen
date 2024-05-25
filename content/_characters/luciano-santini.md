@@ -36,6 +36,8 @@ char_data:
     element: "Olive"
   - element_title: "Eyes"
     element: "Brown"
-
-excerpt: "The only son of Viola, Luciano is often regarded as the black sheep of the family. He is disinterested and ineffectual when it comes to family affairs, lacking ambition and the necessary skills to involve himself in the family's enterprises."
 ---
+
+Second youngest child of Viola Santini. The only son of Viola, Luciano is often regarded as the black sheep of the family. He is disinterested and ineffectual when it comes to family affairs, lacking ambition and the necessary skills to involve himself in the family's enterprises.
+
+<!--more-->

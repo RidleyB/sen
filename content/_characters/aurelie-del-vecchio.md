@@ -1,7 +1,7 @@
 ---
 title: Aurelie Del Vecchio
 faction: 
-  sort: Del Vecchio
+  sort: Del-Vecchio
   given: Montaigne
 
 siblings:
