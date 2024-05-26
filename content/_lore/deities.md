@@ -17,6 +17,17 @@ toc: true
 
 </style>
 
+{% capture mordt_deity_list %}
+
+<h1 id="plibt-beliefs">Mordt Worship</h1>
+<p>The Nimyrians, cursed descendants of a once-human kingdom, follow a monotheistic cult devoted to the Celestial Nimyr. Their worship is driven by a blend of fear and hope, as they seek redemption and the lifting of their curse. Rituals often involve offerings, prayers for forgiveness, and acts aimed at proving their worthiness for Nimyr's mercy and eventual return to their human forms.
+</p>
+{% for post in site.deities %}
+{% if post.deity.pantheon == "mordt" %}{% include collapsible.html post=post %}{% endif %}
+{% endfor %}
+
+{% endcapture %}
+
 {% capture plibt_deity_list %}
 
 <h1 id="plibt-beliefs">Plibt Beliefs</h1>
@@ -50,11 +61,6 @@ toc: true
 <p>The Dwarves, deeply connected to the earth and its treasures, practice a monotheistic religion venerating Thrumdarr, the Earth Father. Their faith emphasizes the importance of craftsmanship, wisdom, and protection. </p>
 {% for post in site.deities %}
 {% if post.deity.pantheon == "aerion2" %}{% include collapsible.html post=post %}{% endif %}
-{% endfor %}
-<br>
-<p>The Nimyrians, cursed descendants of a once-human kingdom, follow a monotheistic cult devoted to Nimyr, the Celestial of Judgment. Their worship is driven by a blend of fear and hope, as they seek redemption and the lifting of their curse. Rituals often involve offerings, prayers for forgiveness, and acts aimed at proving their worthiness for Nimyr's mercy and eventual return to their human forms.</p>
-{% for post in site.deities %}
-{% if post.deity.pantheon == "aerion3" %}{% include collapsible.html post=post %}{% endif %}
 {% endfor %}
 
 {% endcapture %}
@@ -171,6 +177,11 @@ toc: true
 <br>
 
 <div>{{ aerion_deity_list }}</div>
+
+---
+<br>
+
+<div>{{ mordt_deity_list }}</div>
 
 ---
 <br>
