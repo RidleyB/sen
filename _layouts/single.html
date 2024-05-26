@@ -51,6 +51,17 @@ layout: default
           </aside>
         {% endif %}
         {{ content }}
+
+        {% assign pageTitle = page.title | downcase %}
+        {% assign postTitle = "" %}
+
+        {% for post in site.documents %}
+        {% assign postTitle = post.title | downcase %}
+        {% if postTitle contains pageTitle and postTitle contains "secrets" %}
+        {{ post.content }}
+        {% endif %}
+        {% endfor %}
+
         {% if page.link %}<div><a href="{{ page.link }}" class="btn btn--primary">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
       </section>
 

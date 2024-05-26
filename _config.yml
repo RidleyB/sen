@@ -131,6 +131,7 @@ defaults:
     values:
       layout: single
       disable_title: true
+      secret: false
       disable_pagination: true
       excerpt_separator: <!--more-->
       sidebar:
