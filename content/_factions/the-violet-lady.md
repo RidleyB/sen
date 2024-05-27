@@ -25,6 +25,8 @@ In one of the most audacious criminal acts in recent history, the Violet Lady or
 
 The assassination of Magistrate Halford, a prominent figure in Sen's judiciary, sent shockwaves through the city. Halford was known for his relentless pursuit of justice and his efforts to combat corruption. He was found dead in his chambers, with no signs of forced entry or struggle. The only clue left behind was a violet petal, a chilling signature attributed to the Violet Lady. The assassination has heightened fears and underscored the threat she poses to Sen's governance and stability.
 
+<p>The topsheet of the incident report can be found <a href="../content/incident-report-magistrate-halford">here</a>.</p>
+
 ### The Fire at the Astra Archives
 
 A devastating fire at the Astra Archives, one of Sen's most important repositories of knowledge and history, is believed to be the work of the Violet Lady. The fire destroyed countless documents, artifacts, and historical records. Eyewitnesses reported seeing figures cloaked in violet robes fleeing the scene moments before the fire erupted. The loss of these archives represents a significant blow to the city's heritage and has raised concerns about the preservation of its history.
