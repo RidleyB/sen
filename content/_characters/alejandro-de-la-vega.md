@@ -29,5 +29,5 @@ char_data:
   - element_title: "Eyes"
     element: ""
 
-excerpt: "Husband of Alessia Santini and a paladin of the Order of the Open Hand, sworn to protect the city of Sen and uphold its principles of justice and compassion. His dedication to his duty, his wife, and young boy is unwavering."
+excerpt: "Husband of Alessia Santini and a paladin of the Order of the Open Hand, sworn to protect the city of Sen and uphold its principles of justice and compassion. Due to his noble calling, Alejandro is relatively unfamiliar with the intricacies of aristocratic life. As a husband, he is devoted and dutiful, always placing the well-being of his family above all else."
 ---

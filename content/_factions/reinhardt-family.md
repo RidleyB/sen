@@ -1,5 +1,5 @@
 ---
-title:  The Reinhardt Family
+title:  Reinhardt Family
 
 faction: 
   sort: reinhardt

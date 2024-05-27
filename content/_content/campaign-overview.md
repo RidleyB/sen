@@ -111,16 +111,16 @@ td
 {% capture inline_main_characters %}
   <table>
     <tr>
-      <td><h3>Viola Santini</h3>{% for post in site.documents %}{% if post.title contains "Viola" %}{{ post.excerpt }}{% endif %}{% endfor %}</td>
-      <td><h3>Francesca Santini</h3>{% for post in site.documents %}{% if post.title contains "Francesca" %}{{ post.excerpt }}{% endif %}{% endfor %}</td>
+      <td><h3>Viola Santini</h3>{% for post in site.documents %}{% if post.title contains "Viola" %}{{ post.blurb }}{% endif %}{% endfor %}</td>
+      <td><h3>Francesca Santini</h3>{% for post in site.documents %}{% if post.title contains "Francesca" %}{{ post.blurb }}{% endif %}{% endfor %}</td>
     </tr>
     <tr>
-      <td><h3>Giovanna Santini</h3>{% for post in site.documents %}{% if post.title contains "Giovanna" %}{{ post.excerpt }}{% endif %}{% endfor %}</td>
-      <td><h3>Alessia Santini</h3>{% for post in site.documents %}{% if post.title contains "Alessia" %}{{ post.excerpt }}{% endif %}{% endfor %}</td>
+      <td><h3>Giovanna Santini</h3>{% for post in site.documents %}{% if post.title contains "Giovanna" %}{{ post.blurb }}{% endif %}{% endfor %}</td>
+      <td><h3>Alessia Santini</h3>{% for post in site.documents %}{% if post.title contains "Alessia" %}{{ post.blurb }}{% endif %}{% endfor %}</td>
     </tr>
     <tr>
-      <td><h3>Luciano Santini</h3>{% for post in site.documents %}{% if post.title contains "Luciano" %}{{ post.excerpt }}{% endif %}{% endfor %}</td>
-      <td><h3>Caterina Santini</h3>{% for post in site.documents %}{% if post.title contains "Caterina" %}{{ post.excerpt }}{% endif %}{% endfor %}</td>
+      <td><h3>Luciano Santini</h3>{% for post in site.documents %}{% if post.title contains "Luciano" %}{{ post.blurb }}{% endif %}{% endfor %}</td>
+      <td><h3>Caterina Santini</h3>{% for post in site.documents %}{% if post.title contains "Caterina" %}{{ post.blurb }}{% endif %}{% endfor %}</td>
       <td></td>
     </tr>
   </table>

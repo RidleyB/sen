@@ -1,5 +1,5 @@
 ---
-title:  The Montaigne Family
+title:  Montaigne Family
 
 faction: 
   sort: montaigne

@@ -1,5 +1,5 @@
 ---
-title:  The Del Vecchio Family
+title:  Del Vecchio Family
 
 faction: 
   sort: "del-vecchio"

@@ -1,6 +1,8 @@
 ---
 title: Deities
 toc: true
+
+excerpt: "Sennites embrace a rich tapestry of polytheistic beliefs that intricately weave together the diverse cultures, races, and ideas flourishing within its walls. They honor an ancient pantheon of deities, dating back to the ancient days of the Tayir. Each deity embodies different aspects of life, nature, and the cosmos; the religion is a reflection of Sen's vibrant political landscape and seamless blending of magic and technology, as they seek guidance, protection, and harmony from the gods who govern their existence."
 ---
 
 <style type="text/css">

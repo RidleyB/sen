@@ -1,5 +1,5 @@
 ---
-title: The Blanchard Family
+title: Blanchard Family
 
 faction: 
   sort: blanchard

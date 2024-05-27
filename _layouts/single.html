@@ -52,15 +52,16 @@ layout: default
         {% endif %}
         {{ content }}
 
-        {% assign pageTitle = page.title | downcase %}
+        {% assign pageTitle = page.title | downcase | append: " - secrets" %}
         {% assign postTitle = "" %}
 
         {% for post in site.documents %}
         {% assign postTitle = post.title | downcase %}
-        {% if postTitle contains pageTitle and postTitle contains "secrets" %}
-        {{ post.content }}
+        {% if pageTitle == postTitle %}
+        {{ post.content | markdownify }}
         {% endif %}
         {% endfor %}
+        {% assign postTitle = "" %}
 
         {% if page.link %}<div><a href="{{ page.link }}" class="btn btn--primary">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
       </section>

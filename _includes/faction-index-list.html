@@ -10,12 +10,10 @@ blockquote
 
 </style>
 
-{% if post.faction.sort %}
 <blockquote style="min-height: 256px; padding: 4px 16px 8px 16px;">
-{% else %}
-<blockquote style="padding: 4px 16px 8px 16px;">
-{% endif %}
 {% for post in site.documents %}
+{% assign postTitle = post.title | downcase %}
+{% unless postTitle contains "secret" %}
 {% if post.category contains include.category %}
 <div style="min-height: 256px; padding: 4px 16px 8px 16px;">
 <a href="/sen{{ post.url }}"><h2>{{ post.title }}</h2></a>
@@ -30,5 +28,6 @@ blockquote
 {% endif %}
 </div>
 {% endif %}
+{% endunless %}
 {% endfor %}
 </blockquote>

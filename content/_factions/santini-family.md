@@ -1,5 +1,5 @@
 ---
-title:  The Santini Family
+title:  Santini Family
 
 faction: 
   sort: santini

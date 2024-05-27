@@ -1,12 +1,14 @@
 ---
 title: Calendar
 toc: true
----
 
-<h1 id="overview" style="visibility: hidden; margin: 0px; padding: 0px;">Overview</h1>
+excerpt: "The Sennite calendar consists of 9 months. Each month has 30 days, with the exception of Midyear, a month of 60 days. The months are divided into three 10-day weeks, known as \"tendays\", where Midyear is a month of 6 weeks. This system ensures a consistent and balanced approach to timekeeping, essential for the city's complex society and its myriad of events and activities."
+---
 
 ## Year Structure
 The Sennite calendar consists of 9 months. Each month has 30 days, with the exception of Midyear, a month of 60 days. The months are divided into three 10-day weeks, known as "tendays", where Midyear is a month of 6 weeks. This system ensures a consistent and balanced approach to timekeeping, essential for the city's complex society and its myriad of events and activities.
+
+<!--more-->
 
 A full Sennite year is 300 days.
 

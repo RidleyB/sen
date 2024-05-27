@@ -1,6 +1,10 @@
 ---
-title: Rules and Restrictions
+title: "Rules and Restrictions"
 ---
+
+Below are some of the house rules I'd like to use during the campaign. Feel free to suggest your favorites and we can discuss them.
+
+<!--more-->
 
 ## House Rules
 
