@@ -41,6 +41,9 @@ char_data:
   - element_title: "Eyes"
     element: "Hazel"
 
-excerpt: "Youngest child of Viola Santini. Caterina is known for her ability to handle herself in delicate situations with finesse and grace. She is new to the political scene, emerging with her newlywed husband Fabrizio de Luca."
+blurb: "Youngest child of Viola Santini. Caterina is known for her ability to handle herself in delicate situations with finesse and grace. She is new to the political scene, emerging with her newlywed husband Fabrizio de Luca."
 ---
 
+{{ page.blurb }}
+
+<!--more-->

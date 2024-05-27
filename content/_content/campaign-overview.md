@@ -111,16 +111,16 @@ td
 {% capture inline_main_characters %}
   <table>
     <tr>
-      <td><h3>Viola Santini</h3>{% for post in site.documents %}{% if post.title contains "Viola" %}{{ post.blurb }}{% endif %}{% endfor %}</td>
-      <td><h3>Francesca Santini</h3>{% for post in site.documents %}{% if post.title contains "Francesca" %}{{ post.blurb }}{% endif %}{% endfor %}</td>
+      <td><h3>Viola Santini</h3>{% for post in site.characters %}{% if post.title contains "Viola" %}{{ post.blurb }}{% endif %}{% endfor %}</td>
+      <td><h3>Francesca Santini</h3>{% for post in site.characters %}{% if post.title contains "Francesca" %}{{ post.blurb }}{% endif %}{% endfor %}</td>
     </tr>
     <tr>
-      <td><h3>Giovanna Santini</h3>{% for post in site.documents %}{% if post.title contains "Giovanna" %}{{ post.blurb }}{% endif %}{% endfor %}</td>
-      <td><h3>Alessia Santini</h3>{% for post in site.documents %}{% if post.title contains "Alessia" %}{{ post.blurb }}{% endif %}{% endfor %}</td>
+      <td><h3>Giovanna Santini</h3>{% for post in site.characters %}{% if post.title contains "Giovanna" %}{{ post.blurb }}{% endif %}{% endfor %}</td>
+      <td><h3>Alessia Santini</h3>{% for post in site.characters %}{% if post.title contains "Alessia" %}{{ post.blurb }}{% endif %}{% endfor %}</td>
     </tr>
     <tr>
-      <td><h3>Luciano Santini</h3>{% for post in site.documents %}{% if post.title contains "Luciano" %}{{ post.blurb }}{% endif %}{% endfor %}</td>
-      <td><h3>Caterina Santini</h3>{% for post in site.documents %}{% if post.title contains "Caterina" %}{{ post.blurb }}{% endif %}{% endfor %}</td>
+      <td><h3>Luciano Santini</h3>{% for post in site.characters %}{% if post.title contains "Luciano" %}{{ post.blurb }}{% endif %}{% endfor %}</td>
+      <td><h3>Caterina Santini</h3>{% for post in site.characters %}{% if post.title contains "Caterina" %}{{ post.blurb }}{% endif %}{% endfor %}</td>
       <td></td>
     </tr>
   </table>
@@ -129,15 +129,15 @@ td
 {% capture inline_families %}
   <table>
     <tr>
-      <td>{{ inline_santini }}<h3><a href="/sen/factions/santini-family">The Santinis</a></h3>{% for post in site.documents %}{% if post.faction.sort == "santini" %}{{ post.blurb }}{% endif %}{% endfor %}</td>
-      <td>{{ inline_blanchard }}<h3><a href="/sen/factions/blanchard-family">The Blanchards</a></h3>{% for post in site.documents %}{% if post.faction.sort == "blanchard" %}{{ post.blurb }}{% endif %}{% endfor %}</td>
+      <td>{{ inline_santini }}<h3><a href="/sen/factions/santini-family">The Santinis</a></h3>{% for post in site.factions %}{% if post.faction.sort == "santini" %}{{ post.blurb }}{% endif %}{% endfor %}</td>
+      <td>{{ inline_blanchard }}<h3><a href="/sen/factions/blanchard-family">The Blanchards</a></h3>{% for post in site.factions %}{% if post.faction.sort == "blanchard" %}{{ post.blurb }}{% endif %}{% endfor %}</td>
     </tr>
     <tr>
-      <td>{{ inline_del_vecchio }}<h3><a href="/sen/factions/del-vecchio-family">The Del Vecchios</a></h3>{% for post in site.documents %}{% if post.faction.sort == "del-vecchio" %}{{ post.blurb }}{% endif %}{% endfor %}</td>
-      <td>{{ inline_montaigne }}<h3><a href="/sen/factions/montaigne-family">The Montaignes</a></h3>{% for post in site.documents %}{% if post.faction.sort == "montaigne" %}{{ post.blurb }}{% endif %}{% endfor %}</td>
+      <td>{{ inline_del_vecchio }}<h3><a href="/sen/factions/del-vecchio-family">The Del Vecchios</a></h3>{% for post in site.factions %}{% if post.faction.sort == "del-vecchio" %}{{ post.blurb }}{% endif %}{% endfor %}</td>
+      <td>{{ inline_montaigne }}<h3><a href="/sen/factions/montaigne-family">The Montaignes</a></h3>{% for post in site.factions %}{% if post.faction.sort == "montaigne" %}{{ post.blurb }}{% endif %}{% endfor %}</td>
     </tr>
     <tr>
-      <td>{{ inline_reinhardt }}<h3><a href="/sen/factions/reinhardt-family">The Reinhardts</a></h3>{% for post in site.documents %}{% if post.faction.sort == "reinhardt" %}{{ post.blurb }}{% endif %}{% endfor %}</td>
+      <td>{{ inline_reinhardt }}<h3><a href="/sen/factions/reinhardt-family">The Reinhardts</a></h3>{% for post in site.factions %}{% if post.faction.sort == "reinhardt" %}{{ post.blurb }}{% endif %}{% endfor %}</td>
       <td></td>
     </tr>
   </table><br>
@@ -146,16 +146,16 @@ td
 {% capture inline_factions %}
   <table>
     <tr>
-      <td>{{ inline_collegium }}<h3><a href="/sen/factions/collegium-arcanum">Collegium Arcanum</a></h3>{% for post in site.documents %}{% if post.faction.sort == "collegium" %}{{ post.blurb }}{% endif %}{% endfor %}</td>
-      <td>{{ inline_church_union }}<h3><a href="/sen/factions/church-of-the-union">Church of the Union</a></h3>{% for post in site.documents %}{% if post.faction.sort == "church" %}{{ post.blurb }}{% endif %}{% endfor %}</td>
+      <td>{{ inline_collegium }}<h3><a href="/sen/factions/collegium-arcanum">Collegium Arcanum</a></h3>{% for post in site.factions %}{% if post.faction.sort == "collegium" %}{{ post.blurb }}{% endif %}{% endfor %}</td>
+      <td>{{ inline_church_union }}<h3><a href="/sen/factions/church-of-the-union">Church of the Union</a></h3>{% for post in site.factions %}{% if post.faction.sort == "church" %}{{ post.blurb }}{% endif %}{% endfor %}</td>
     </tr>
     <tr>
-      <td>{{ inline_sacred_eye }}<h3><a href="/sen/factions/order-of-the-sacred-eye">Order of the Sacred Eye</a></h3>{% for post in site.documents %}{% if post.faction.sort == "sacred-eye" %}{{ post.blurb }}{% endif %}{% endfor %}</td>
-      <td>{{ inline_open_hand }}<h3><a href="/sen/factions/order-of-the-open-hand">Order of the Open Hand</a></h3>{% for post in site.documents %}{% if post.faction.sort == "open-hand" %}{{ post.blurb }}{% endif %}{% endfor %}</td>
+      <td>{{ inline_sacred_eye }}<h3><a href="/sen/factions/order-of-the-sacred-eye">Order of the Sacred Eye</a></h3>{% for post in site.factions %}{% if post.faction.sort == "sacred-eye" %}{{ post.blurb }}{% endif %}{% endfor %}</td>
+      <td>{{ inline_open_hand }}<h3><a href="/sen/factions/order-of-the-open-hand">Order of the Open Hand</a></h3>{% for post in site.factions %}{% if post.faction.sort == "open-hand" %}{{ post.blurb }}{% endif %}{% endfor %}</td>
     </tr>
     <tr>
-      <td>{{ inline_guild_discovery }}<h3><a href="/sen/factions/guild-of-discovery">Guild of Discovery</a></h3>{% for post in site.documents %}{% if post.faction.sort == "discovery" %}{{ post.blurb }}{% endif %}{% endfor %}</td>
-      <td>{{ inline_guild_commerce }}<h3><a href="/sen/factions/guild-of-open-commerce">Guild of Open Commerce</a></h3>{% for post in site.documents %}{% if post.faction.sort == "commerce" %}{{ post.blurb }}{% endif %}{% endfor %}</td>
+      <td>{{ inline_guild_discovery }}<h3><a href="/sen/factions/guild-of-discovery">Guild of Discovery</a></h3>{% for post in site.factions %}{% if post.faction.sort == "discovery" %}{{ post.blurb }}{% endif %}{% endfor %}</td>
+      <td>{{ inline_guild_commerce }}<h3><a href="/sen/factions/guild-of-open-commerce">Guild of Open Commerce</a></h3>{% for post in site.factions %}{% if post.faction.sort == "commerce" %}{{ post.blurb }}{% endif %}{% endfor %}</td>
     </tr>
   </table><br>
 {% endcapture %}

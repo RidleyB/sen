@@ -48,9 +48,13 @@ char_data:
     element: "Tan"
   - element_title: "Eyes"
     element: "Blue"
+
+blurb: "The revered matriarch of the Santini family, commands respect and adoration in equal measure. Known for her grace, wisdom, and unwavering devotion to her family, she is a formidable presence in city of Sen. "
 ---
 
-The revered matriarch of the Santini family, commands respect and adoration in equal measure. Known for her grace, wisdom, and unwavering devotion to her family, she is a formidable presence in city of Sen. <!--more-->
+{{ page.blurb }}
+
+<!--more-->
 
 {% include character-relation.html %}
 

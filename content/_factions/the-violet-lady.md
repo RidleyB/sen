@@ -31,6 +31,8 @@ The assassination of Magistrate Halford, a prominent figure in Sen's judiciary, 
 
 A devastating fire at the Astra Archives, one of Sen's most important repositories of knowledge and history, is believed to be the work of the Violet Lady. The fire destroyed countless documents, artifacts, and historical records. Eyewitnesses reported seeing figures cloaked in violet robes fleeing the scene moments before the fire erupted. The loss of these archives represents a significant blow to the city's heritage and has raised concerns about the preservation of its history.
 
+<p>The topsheet of the incident report can be found <a href="../content/incident-report-astra-archives">here</a>.</p>
+
 ## Recent Cult Activity
 
 ### The Midnight Rituals
