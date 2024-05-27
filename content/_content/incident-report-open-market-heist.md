@@ -26,11 +26,6 @@ title: "Incident Report #EM432-403"
 
 - Among the scattered petals, investigators found a torn pieces of cloth from a violet robes. Discarded weaponry indicates the Violet Lady conspirators are well-supplied. These items have been preserved for further analysis.
 
-**Leads:**
-
-- Follow-up with Halford's aide who found him- corroborate story with others from Halford's estate. 
-- Follow-up with botanist- potential lead sourcing where the petal originated.
-
 **Preliminary Conclusions:** The selection of high-value magical artifacts suggests a deliberate and targeted theft, likely for specific purposes rather than random looting.
 
 **Recommendations:**
