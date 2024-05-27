@@ -9,7 +9,7 @@ title: "Incident Report #EM432-392"
 # Incident Report #EM432-392
 **Date:** EM/432/5/21 <br>
 **Investigator on Site:** Sparrow <br>
-**Incident:** Chief Magistrate Halford assassinated, suspected murderer is an associate of the Violet Lady.
+**Incident:** Chief Magistrate Halford assassinated, suspected murderer is an associate of the Violet Lady.<br>
 
 ---
 

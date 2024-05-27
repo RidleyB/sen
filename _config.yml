@@ -98,6 +98,10 @@ collections:
     output: true
     permalink: :collection/:title
 
+  5econtent:
+    output: true
+    permalink: :collection/:title
+
   devposts:
     output: true
     permalink: :collection/:title
@@ -234,6 +238,11 @@ defaults:
       category: worlds
       toc: true
       toc_sitcky: true
+
+  - scope:
+      path: "content/_5econtent"
+    values:
+      category: 5econtent
 
   - scope:
       path: "content/_devposts"

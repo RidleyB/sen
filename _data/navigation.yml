@@ -16,6 +16,8 @@ sidebar:
         url: /content/campaign-overview
       - title: Rules and Restrictions
         url: /content/rules-and-restrictions
+      - title: 5e Content
+        url: /5e-content/
   - title: Lore
     url: /lore/
     children:

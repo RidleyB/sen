@@ -7,8 +7,6 @@ faction:
 blurb: "The Santini family stands as one of the most influential dynasties within Sen. Long revered for their wealth, power, and influence, their lineage traces back through generations of prosperity in the city's history. At its head is the revered Viola Santini; a powerful political figure that commands the respect of all those around her."
 ---
 
-<h1 id="overview" style="visibility: hidden; margin: 0px; padding: 0px;">Overview</h1>
-
 {{ page.blurb }}
 
 <!--more-->
