@@ -42,6 +42,7 @@ I plan on running the story over a few months- no set date on when it will start
 
 # Coming Soon:
 - <div class="todo">Description/Pages for characters- currently, none of their links work.</div>
+- <div class="todo">Detailed description of Sen's layout</div>
 - <div class="todo">Extended description for races</div>
 - <div class="todo">Rules and Restrictions - more houserules and info about playing.</div>
 - <div class="todo">Anything else you're looking for!</div>

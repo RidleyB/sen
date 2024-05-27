@@ -8,8 +8,9 @@ title: "Incident Report #EM432-361"
 
 # Incident Report #EM432-361
 **Date:** EM/432/12/05 <br>
+**Time of Incident:** ~3:38am <br>
 **Investigator on Site:** Viper <br>
-**Incident:** Fire at the Astra Archives- extensive damage to nearly one third of the collected works. Some works suspected missing.<br>
+**Report:** Fire at the Astra Archives- extensive damage to nearly one third of the collected works. Some works suspected missing.<br>
 
 ---
 

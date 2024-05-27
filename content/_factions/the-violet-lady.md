@@ -17,21 +17,17 @@ header:
 
 ## Recent Criminal Activity
 
-### The Open Market Heist
-
-In one of the most audacious criminal acts in recent history, the Violet Lady orchestrated a heist at the central market in the inner ring of Sen. Disguised operatives infiltrated the market, neutralizing security and making off with a cache of rare and powerful magical artifacts. The artifacts included ancient relics and enchanted items, some of which were believed to be capable of significant magical power. The heist has left the authorities scrambling to track down the stolen items and prevent their misuse. After the heist, violet petals were scattered through the streets, raining down from the building-tops.
-
-### The Assassination of Magistrate Halford
+### The Assassination of Magistrate Halford <a href="../content/incident-report-magistrate-halford">(Link)</a>
 
 The assassination of Magistrate Halford, a prominent figure in Sen's judiciary, sent shockwaves through the city. Halford was known for his relentless pursuit of justice and his efforts to combat corruption. He was found dead in his chambers, with no signs of forced entry or struggle. The only clue left behind was a violet petal, a chilling signature attributed to the Violet Lady. The assassination has heightened fears and underscored the threat she poses to Sen's governance and stability.
 
-<p>The topsheet of the incident report can be found <a href="../content/incident-report-magistrate-halford">here</a>.</p>
-
-### The Fire at the Astra Archives
+### The Fire at the Astra Archives <a href="../content/incident-report-astra-archives">(Link)</a>
 
 A devastating fire at the Astra Archives, one of Sen's most important repositories of knowledge and history, is believed to be the work of the Violet Lady. The fire destroyed countless documents, artifacts, and historical records. Eyewitnesses reported seeing figures cloaked in violet robes fleeing the scene moments before the fire erupted. The loss of these archives represents a significant blow to the city's heritage and has raised concerns about the preservation of its history.
 
-<p>The topsheet of the incident report can be found <a href="../content/incident-report-astra-archives">here</a>.</p>
+### The Open Market Heist <a href="../content/incident-report-open-market-heist">(Link)</a>
+
+In one of the most audacious criminal acts in recent history, the Violet Lady orchestrated a heist at the central market in the inner ring of Sen. Disguised operatives infiltrated the market, neutralizing security and making off with a cache of rare and powerful magical artifacts. The artifacts included ancient relics and enchanted items, some of which were believed to be capable of significant magical power. The heist has left the authorities scrambling to track down the stolen items and prevent their misuse. After the heist, violet petals were scattered through the streets, raining down from the building-tops.
 
 ## Recent Cult Activity
 
