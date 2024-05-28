@@ -102,6 +102,10 @@ collections:
     output: true
     permalink: :collection/:title
 
+  journal:
+    output: true
+    permalink: :collection/:title
+
   devposts:
     output: true
     permalink: :collection/:title
@@ -248,3 +252,8 @@ defaults:
       path: "content/_devposts"
     values:
       category: devposts
+
+  - scope:
+      path: "content/journal"
+    values:
+      category: journal

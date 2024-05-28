@@ -37,17 +37,17 @@ The Order of the Open Hand follows a hierarchical structure that combines elemen
 ### Order Halls
 The Order of the Open Hand maintains several Order Halls throughout the city of Sen, each serving as a center of training, worship, and community for its members. These halls are sacred spaces dedicated to the pursuit of martial excellence and spiritual enlightenment, where Paladins gather to hone their skills, share knowledge, and renew their commitment to the Order's noble mission.
 
-1. **Hall of Valor**: The Hall of Valor is the primary headquarters of the Order, located in the heart of Sen. It is here that the High Exarch resides and where the most important meetings and ceremonies of the Order take place.
+- **Hall of Valor**: The Hall of Valor is the primary headquarters of the Order, located in the heart of Sen. It is here that the High Exarch resides and where the most important meetings and ceremonies of the Order take place.
 
-2. **Hall of Sanctity**: The Hall of Sanctity is dedicated to the study and practice of divine magic, where Paladins train in the use of holy spells and rituals to smite evil and protect the innocent.
+- **Hall of Sanctity**: The Hall of Sanctity is dedicated to the study and practice of divine magic, where Paladins train in the use of holy spells and rituals to smite evil and protect the innocent.
 
-3. **Hall of Vigilance**: The Hall of Vigilance serves as a training ground for the Order's scouts and reconnaissance teams, and a recruiting ground for the Order of the Sacred Eye.
+- **Hall of Vigilance**: The Hall of Vigilance serves as a training ground for the Order's scouts and reconnaissance teams, and a recruiting ground for the Order of the Sacred Eye.
 
-4. **Hall of Resilience**: The Hall of Resilience is where Paladins undergo physical conditioning and combat training, honing their strength, agility, and martial prowess to become formidable warriors on the battlefield.
+- **Hall of Resilience**: The Hall of Resilience is where Paladins undergo physical conditioning and combat training, honing their strength, agility, and martial prowess to become formidable warriors on the battlefield.
 
-5. **Hall of Wisdom**: The Hall of Wisdom is dedicated to the study of martial strategy, tactics, and history, where Paladins learn from the lessons of the past and prepare for the challenges of the future.
+- **Hall of Wisdom**: The Hall of Wisdom is dedicated to the study of martial strategy, tactics, and history, where Paladins learn from the lessons of the past and prepare for the challenges of the future.
 
-6. **Hall of Unity**: The Hall of Unity is a place of fellowship and camaraderie, where Paladins come together to share stories, celebrate victories, and strengthen the bonds of brotherhood that unite them as members of the Order of the Open Hand.
+- **Hall of Unity**: The Hall of Unity is a place of fellowship and camaraderie, where Paladins come together to share stories, celebrate victories, and strengthen the bonds of brotherhood that unite them as members of the Order of the Open Hand.
 
 > DM Note: The closest Order Hall to where our story takes place in Sen is the Hall of Vigilance. 
 

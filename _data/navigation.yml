@@ -5,6 +5,8 @@ main:
     url: /factions/
   - title: Lore
     url: /lore/
+  - title: Investigation
+    url: /journal/
 
 sidebar: 
   - title: General
@@ -18,7 +20,7 @@ sidebar:
         url: /content/rules-and-restrictions
       - title: 5e Content
         url: /5e-content/
-  - title: Lore
+  - title: "Lore"
     url: /lore/
     children:
       - title: Calendar
@@ -66,3 +68,7 @@ sidebar:
         url: /factions/order-of-the-open-hand
       - title: Order of the Sacred Eye
         url: /factions/order-of-the-sacred-eye
+  - title: "Other"
+    children:
+      - title: "One-Shot: Crash"
+        url: /crash/
