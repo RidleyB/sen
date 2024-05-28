@@ -21,8 +21,8 @@ With hearts pounding and minds sharp, you step into the great unknown, ready to 
 
 ## One-Shot Details
 
-**Date:** June 8th, 2024 - At the cottage!<br>
 **Level:** 4<br>
+**Date:** June 8th, 2024 - At the cottage!<br>
 **Race List:** Human, Dwarf, Elf, Drow, Half-Elf, Halfing, Nimyrian, Gnome, Deep-Gnome, Tabaxi, Rhinox, Leonin, Giff, Tayir, Ursine<br>
 **Requirements:** Must use the character background "Discovery Pioneer"
 

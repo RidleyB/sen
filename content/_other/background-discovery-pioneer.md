@@ -17,7 +17,7 @@ As a Discovery Pioneer, you have honed your instincts to survive and navigate un
 - **Danger Sense:** Your experience in new and hazardous environments has heightened your senses. You have advantage on Wisdom (Perception) checks to detect traps and natural hazards, and on saving throws against environmental dangers such as quicksand or falling debris.
 
 ### Feature: Cultural Insight
-Through your training with the Guild of Discovery, you have developed a knack for quickly understanding new cultures and languages. You can communicate basic ideas with creatures that don’t share a language with you, relying on gestures, simple words, and expressions. Additionally, you gain advantage on Intelligence (History) checks to recall information about unknown cultures and civilizations.
+Through your training with the Guild of Discovery, you have developed a knack for quickly understanding new cultures and languages. You can communicate basic ideas with creatures that don't share a language with you, relying on gestures, simple words, and expressions. Additionally, once daily you may gain advantage on Intelligence (History) checks to gather information about unknown cultures and civilizations.
 
 ### Suggested Characteristics
 
