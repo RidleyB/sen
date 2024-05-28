@@ -6,6 +6,9 @@ sidebar_ext:
   title: true
   image: true
 permalink: "/crash/"
+header:
+  overlay_image: /assets/images/crash-1.jpg
+  overlay_filter: 0.5
 faction:
   sort: discovery
 ---

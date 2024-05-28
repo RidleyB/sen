@@ -18,11 +18,9 @@ sidebar:
         url: /content/rules-and-restrictions
       - title: 5e Content
         url: /5e-content/
-  - title: "Lore"
+  - title: "Lore: General"
     url: /lore/
     children:
-      - title: Calendar
-        url: /lore/calendar
       - title: Deities
         url: /lore/deities
       - title: History
@@ -31,6 +29,17 @@ sidebar:
         url: /lore/races
       - title: Worlds
         url: /lore/worlds
+  - title: "Lore: City"
+    url: /lore/
+    children:
+      - title: Calendar
+        url: /lore/calendar
+      - title: "Sen: The Celestial City"
+        url: /lore/the-celestial-city
+      - title: "Sen: The Inner Rings"
+        url: /lore/the-inner-rings
+      - title: "Sen: The Outer Rings"
+        url: /lore/the-outer-rings
   - title: "Factions: City"
     url: /factions/
     children:

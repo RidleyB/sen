@@ -15,7 +15,7 @@ The portal hums with arcane energy, and with a final glance at your comrades, yo
 ## Your Objectives are Clear:
 1. **Survive:** Adapt to the new environment and protect each other.
 2. **Explore:** Map the terrain, identify flora and fauna, and note any unusual phenomena.
-3. **Report:** Collect data and return to Sen within 48 hours.
+3. **Report:** Collect data and return to Discovery HQ within 48 hours.
 
 With hearts pounding and minds sharp, you step into the great unknown, ready to uncover the secrets of this alien world. The adventure of a lifetime begins now.
 
