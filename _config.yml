@@ -127,6 +127,7 @@ exclude:
    - .sln
    - .vs
    - _notincluded/
+   - _devposts/dm/.git/
 
 # custom global variables
 

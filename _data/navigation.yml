@@ -82,4 +82,4 @@ sidebar:
   - title: Secrets
     children:
       - title: "Crash: Chapter One"
-        url: "/content/chapter-one_secrets"
+        url: "/devposts/chapter-one_secrets"
