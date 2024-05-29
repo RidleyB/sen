@@ -79,3 +79,7 @@ sidebar:
     children:
       - title: "One-Shot: Crash"
         url: /crash/
+  - title: Secrets
+    children:
+      - title: "Crash: Chapter One"
+        url: "/content/chapter-one_secrets"
