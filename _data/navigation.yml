@@ -81,5 +81,9 @@ sidebar:
         url: /crash/
   - title: Secrets
     children:
-      - title: "Crash: Chapter One"
-        url: "/devposts/chapter-one_secrets"
+      - title: "Crash: Script"
+        url: "/devposts/script"
+      - title: "Crash: Challenges"
+        url: "/devposts/challenges"
+      - title: "Crash: Stat Blocks"
+        url: "/devposts/stat-blocks"
