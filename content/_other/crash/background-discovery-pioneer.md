@@ -1,8 +1,9 @@
 ---
-title: "Background - Discovery Pioneer"
+title: "Guild Pioneer"
+type: "background"
 ---
 
-## Background: Discovery Pioneer
+*You are the "boots-on-the-ground" explorer — the first to step into the unknown, the one who maps the path forward. You've trained to endure the wilderness, chart the chaos, and return with truth carved into your memory like lines on a map. When the others falter, you press on. Because if you don’t, no one will know what lies beyond.*
 
 **Skill Proficiencies:** Survival, Investigation  
 **Tool Proficiencies:** Cartographer’s tools or Navigator’s tools  
@@ -10,14 +11,12 @@ title: "Background - Discovery Pioneer"
 **Equipment:** A set of common clothes, a journal, a set of cartographer’s tools or navigator’s tools (your choice), a map case containing an incomplete map of an unknown region, and a pouch containing 10 gp
 
 ### Feature: Explorer’s Instinct
-As a Discovery Pioneer, you have honed your instincts to survive and navigate uncharted territories. You gain the following benefits:
+As a Discovery Pioneer, you have honed your instincts to survive and navigate uncharted territories. Choose one of the following benefits:
 
 - **Pathfinder:** You have an uncanny sense of direction and can always recall the general layout of terrain, settlements, and other features around you. You can’t get lost by non-magical means.
-- **Resourcefulness:** You can quickly assess and gather necessary supplies from your environment. You can find food and fresh water for yourself and up to five other people each day, provided that the land offers such resources.
 - **Danger Sense:** Your experience in new and hazardous environments has heightened your senses. You have advantage on Wisdom (Perception) checks to detect traps and natural hazards, and on saving throws against environmental dangers such as quicksand or falling debris.
-
-### Feature: Cultural Insight
-Through your training with the Guild of Discovery, you have developed a knack for quickly understanding new cultures and languages. You can communicate basic ideas with creatures that don't share a language with you, relying on gestures, simple words, and expressions. Additionally, once daily you may gain advantage on Intelligence (History) checks to gather information about unknown cultures and civilizations.
+- **Trailblazer:** You move through difficult natural terrain at normal speed, and your group’s travel pace is never slowed by natural obstacles (like underbrush, rubble, or steep climbs). When you lead a group, they ignore the first level of exhaustion from forced marches.
+- **Field Engineer:** You’re adept at makeshift tools, traps, and quick fixes. You can create simple but functional survival gear (like torches, rope bridges, pulleys, or sleds) from scavenged materials. If given materials and time, you can also reinforce damaged gear or jury-rig repairs to vehicles or field equipment.
 
 ### Suggested Characteristics
 

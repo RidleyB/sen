@@ -8,4 +8,3 @@ title: Saphor
 
 <!--more-->
 
-<div class="todo">Continued info about world.</div>

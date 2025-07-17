@@ -52,16 +52,9 @@ layout: default
         {% endif %}
         {{ content }}
 
-        {% assign pageTitle = page.title | downcase | append: " - secrets" %}
-        {% assign postTitle = "" %}
-
-        {% for post in site.documents %}
-        {% assign postTitle = post.title | downcase %}
-        {% if pageTitle == postTitle %}
-        {{ post.content | markdownify }}
-        {% endif %}
-        {% endfor %}
-        {% assign postTitle = "" %}
+        {% comment %}AFTER CONTENT INJECTION{% endcomment %}
+        {% include post-content.html %}
+        {% comment %}AFTER CONTENT INJECTION END{% endcomment %}
 
         {% if page.link %}<div><a href="{{ page.link }}" class="btn btn--primary">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
       </section>

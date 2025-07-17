@@ -1,0 +1,27 @@
+<style type="text/css">
+
+.dropdown-container select {
+    color: black;
+    width: 50%;
+    padding: 4px;
+}
+
+</style>
+
+<div class="dropdown-container">
+{% if include.target %}
+    <select value="{{ include.target }}" style="pointer-events:none;" id="person1" onchange="updateDescription()">
+        <option value="{{ include.target }}">{{ include.target }}</option>
+    </select>
+{% else %}
+    <select" id="person1" onchange="updateDescription()">
+        <option value="">Select Person 1</option>
+    </select>
+{% endif %}
+
+    <select id="person2" onchange="updateDescription()">
+        <option value="">Select Person 2</option>
+    </select>
+</div>
+
+<div class="description" id="description"></div>

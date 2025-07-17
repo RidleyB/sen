@@ -3,285 +3,87 @@
   "WorkspaceRootPath": "C:\\Users\\Adam\\the-celestial-city\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Adam\\the-celestial-city\\_notincluded\\old-family-data.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_notincluded\\old-family-data.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Adam\\the-celestial-city\\content\\_devposts\\dm\\crash\\escape.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:content\\_devposts\\dm\\crash\\escape.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Adam\\the-celestial-city\\content\\_devposts\\dm\\crash\\corrosive-swamp.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:content\\_devposts\\dm\\crash\\corrosive-swamp.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Adam\\the-celestial-city\\content\\_devposts\\dm\\crash\\landing.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:content\\_devposts\\dm\\crash\\landing.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Adam\\the-celestial-city\\content\\_devposts\\dm\\crash\\stat-blocks.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:content\\_devposts\\dm\\crash\\stat-blocks.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Adam\\the-celestial-city\\content\\_devposts\\dm\\crash\\script.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:content\\_devposts\\dm\\crash\\script.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Adam\\the-celestial-city\\content\\_devposts\\dm\\crash\\grung-den.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:content\\_devposts\\dm\\crash\\grung-den.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Adam\\the-celestial-city\\content\\_devposts\\dm\\crash\\celebration.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:content\\_devposts\\dm\\crash\\celebration.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Adam\\the-celestial-city\\content\\_devposts\\dm\\crash\\friendly-grung.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:content\\_devposts\\dm\\crash\\friendly-grung.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Adam\\the-celestial-city\\content\\_devposts\\dm\\crash\\rare-fish.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:content\\_devposts\\dm\\crash\\rare-fish.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Adam\\the-celestial-city\\content\\_devposts\\dm\\crash\\prologue.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:content\\_devposts\\dm\\crash\\prologue.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Adam\\the-celestial-city\\content\\_devposts\\dm\\crash\\rare-herbs.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:content\\_devposts\\dm\\crash\\rare-herbs.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Adam\\the-celestial-city\\content\\_devposts\\dm\\crash\\challenges.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:content\\_devposts\\dm\\crash\\challenges.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Adam\\the-celestial-city\\assets\\css\\main.scss||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\css\\main.scss||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Adam\\the-celestial-city\\content\\home.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:content\\home.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Adam\\the-celestial-city\\_includes\\collapsible.html||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_includes\\collapsible.html||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Adam\\the-celestial-city\\content\\_other\\crash\\ebb\\ebb-and-flow.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:content\\_other\\crash\\ebb\\ebb-and-flow.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Adam\\the-celestial-city\\content\\_other\\crash\\background-discovery-security-officer.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:content\\_other\\crash\\background-discovery-security-officer.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Adam\\the-celestial-city\\_config.yml||{3B902123-F8A7-4915-9F01-361F908088D0}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_config.yml||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Adam\\the-celestial-city\\_includes\\tab-content.html||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_includes\\tab-content.html||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Adam\\the-celestial-city\\_data\\navigation.yml||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_data\\navigation.yml||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Adam\\the-celestial-city\\content\\_content\\campaign-overview.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:content\\_content\\campaign-overview.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Adam\\the-celestial-city\\_includes\\background.html||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_includes\\background.html||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Adam\\the-celestial-city\\content\\_other\\crash\\background-discovery-researcher.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:content\\_other\\crash\\background-discovery-researcher.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Adam\\the-celestial-city\\content\\_other\\crash\\background-discovery-pioneer.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:content\\_other\\crash\\background-discovery-pioneer.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Adam\\the-celestial-city\\content\\_other\\crash\\background-discovery-envoy.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:content\\_other\\crash\\background-discovery-envoy.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Adam\\the-celestial-city\\content\\_other\\crash\\background-discovery-captain.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:content\\_other\\crash\\background-discovery-captain.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Adam\\the-celestial-city\\_notincluded\\old-family-data.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_notincluded\\old-family-data.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Adam\\the-celestial-city\\_layouts\\single.html||{3B902123-F8A7-4915-9F01-361F908088D0}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_layouts\\single.html||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Adam\\the-celestial-city\\_data\\navigation.yml||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_data\\navigation.yml||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Adam\\the-celestial-city\\_includes\\post-relationships.html||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_includes\\post-relationships.html||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Adam\\the-celestial-city\\_includes\\nav_list||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_includes\\nav_list||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Adam\\the-celestial-city\\_includes\\relationships-dropdown.html||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_includes\\relationships-dropdown.html||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Adam\\the-celestial-city\\_includes\\sidebar.html||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_includes\\sidebar.html||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Adam\\the-celestial-city\\_includes\\character-content.html||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_includes\\character-content.html||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Adam\\the-celestial-city\\content\\_lore\\calendar.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:content\\_lore\\calendar.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Adam\\the-celestial-city\\assets\\css\\main.scss||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\css\\main.scss||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Adam\\the-celestial-city\\_includes\\faction-index-list.html||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_includes\\faction-index-list.html||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Adam\\the-celestial-city\\content\\_devposts\\dm\\more details.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:content\\_devposts\\dm\\more details.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Adam\\the-celestial-city\\_includes\\5e-stat-block.html||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_includes\\5e-stat-block.html||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Adam\\the-celestial-city\\_includes\\report.html||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_includes\\report.html||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Adam\\the-celestial-city\\_includes\\relationships.html||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_includes\\relationships.html||{3B902123-F8A7-4915-9F01-361F908088D0}"
     }
   ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
-      "VerticalTabListWidth": 232,
+      "VerticalTabListWidth": 200,
       "DocumentGroups": [
         {
-          "DockedWidth": 1009,
-          "SelectedChildIndex": 0,
+          "DockedWidth": 1100,
+          "SelectedChildIndex": -1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "escape.md",
-              "DocumentMoniker": "C:\\Users\\Adam\\the-celestial-city\\content\\_devposts\\dm\\crash\\escape.md",
-              "RelativeDocumentMoniker": "content\\_devposts\\dm\\crash\\escape.md",
-              "ToolTip": "C:\\Users\\Adam\\the-celestial-city\\content\\_devposts\\dm\\crash\\escape.md",
-              "RelativeToolTip": "content\\_devposts\\dm\\crash\\escape.md",
-              "ViewState": "AQIAACIAAAAAAAAAAAD4vzUAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2024-06-05T19:18:06.736Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "corrosive-swamp.md",
-              "DocumentMoniker": "C:\\Users\\Adam\\the-celestial-city\\content\\_devposts\\dm\\crash\\corrosive-swamp.md",
-              "RelativeDocumentMoniker": "content\\_devposts\\dm\\crash\\corrosive-swamp.md",
-              "ToolTip": "C:\\Users\\Adam\\the-celestial-city\\content\\_devposts\\dm\\crash\\corrosive-swamp.md",
-              "RelativeToolTip": "content\\_devposts\\dm\\crash\\corrosive-swamp.md",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2024-06-05T19:10:47.407Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "friendly-grung.md",
-              "DocumentMoniker": "C:\\Users\\Adam\\the-celestial-city\\content\\_devposts\\dm\\crash\\friendly-grung.md",
-              "RelativeDocumentMoniker": "content\\_devposts\\dm\\crash\\friendly-grung.md",
-              "ToolTip": "C:\\Users\\Adam\\the-celestial-city\\content\\_devposts\\dm\\crash\\friendly-grung.md",
-              "RelativeToolTip": "content\\_devposts\\dm\\crash\\friendly-grung.md",
-              "ViewState": "AQIAADcAAAAAAAAAAAAAAEMAAAA7AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2024-06-05T19:18:06.545Z",
-              "IsPinned": true
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "grung-den.md",
-              "DocumentMoniker": "C:\\Users\\Adam\\the-celestial-city\\content\\_devposts\\dm\\crash\\grung-den.md",
-              "RelativeDocumentMoniker": "content\\_devposts\\dm\\crash\\grung-den.md",
-              "ToolTip": "C:\\Users\\Adam\\the-celestial-city\\content\\_devposts\\dm\\crash\\grung-den.md",
-              "RelativeToolTip": "content\\_devposts\\dm\\crash\\grung-den.md",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAADHAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2024-06-05T19:18:06.611Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "landing.md",
-              "DocumentMoniker": "C:\\Users\\Adam\\the-celestial-city\\content\\_devposts\\dm\\crash\\landing.md",
-              "RelativeDocumentMoniker": "content\\_devposts\\dm\\crash\\landing.md",
-              "ToolTip": "C:\\Users\\Adam\\the-celestial-city\\content\\_devposts\\dm\\crash\\landing.md",
-              "RelativeToolTip": "content\\_devposts\\dm\\crash\\landing.md",
-              "ViewState": "AQIAAH8AAAAAAAAAAAD4v5IAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2024-06-05T18:37:14.263Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "script.md",
-              "DocumentMoniker": "C:\\Users\\Adam\\the-celestial-city\\content\\_devposts\\dm\\crash\\script.md",
-              "RelativeDocumentMoniker": "content\\_devposts\\dm\\crash\\script.md",
-              "ToolTip": "C:\\Users\\Adam\\the-celestial-city\\content\\_devposts\\dm\\crash\\script.md",
-              "RelativeToolTip": "content\\_devposts\\dm\\crash\\script.md",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAADAAAAAYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2024-05-30T17:55:11.964Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "stat-blocks.md",
-              "DocumentMoniker": "C:\\Users\\Adam\\the-celestial-city\\content\\_devposts\\dm\\crash\\stat-blocks.md",
-              "RelativeDocumentMoniker": "content\\_devposts\\dm\\crash\\stat-blocks.md",
-              "ToolTip": "C:\\Users\\Adam\\the-celestial-city\\content\\_devposts\\dm\\crash\\stat-blocks.md",
-              "RelativeToolTip": "content\\_devposts\\dm\\crash\\stat-blocks.md",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAACEAQAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2024-05-30T17:57:01.291Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "challenges.md",
-              "DocumentMoniker": "C:\\Users\\Adam\\the-celestial-city\\content\\_devposts\\dm\\crash\\challenges.md",
-              "RelativeDocumentMoniker": "content\\_devposts\\dm\\crash\\challenges.md",
-              "ToolTip": "C:\\Users\\Adam\\the-celestial-city\\content\\_devposts\\dm\\crash\\challenges.md",
-              "RelativeToolTip": "content\\_devposts\\dm\\crash\\challenges.md",
-              "ViewState": "AQIAAEAAAAAAAAAAAAAIwFgAAABnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2024-05-30T17:57:01.187Z",
-              "IsPinned": true
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "prologue.md",
-              "DocumentMoniker": "C:\\Users\\Adam\\the-celestial-city\\content\\_devposts\\dm\\crash\\prologue.md",
-              "RelativeDocumentMoniker": "content\\_devposts\\dm\\crash\\prologue.md",
-              "ToolTip": "C:\\Users\\Adam\\the-celestial-city\\content\\_devposts\\dm\\crash\\prologue.md",
-              "RelativeToolTip": "content\\_devposts\\dm\\crash\\prologue.md",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2024-06-06T05:20:06.225Z",
-              "IsPinned": true
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "rare-herbs.md",
-              "DocumentMoniker": "C:\\Users\\Adam\\the-celestial-city\\content\\_devposts\\dm\\crash\\rare-herbs.md",
-              "RelativeDocumentMoniker": "content\\_devposts\\dm\\crash\\rare-herbs.md",
-              "ToolTip": "C:\\Users\\Adam\\the-celestial-city\\content\\_devposts\\dm\\crash\\rare-herbs.md",
-              "RelativeToolTip": "content\\_devposts\\dm\\crash\\rare-herbs.md",
-              "ViewState": "AQIAACEAAAAAAAAAAAAAADEAAACHAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2024-06-06T17:31:25.882Z",
-              "IsPinned": true
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "rare-fish.md",
-              "DocumentMoniker": "C:\\Users\\Adam\\the-celestial-city\\content\\_devposts\\dm\\crash\\rare-fish.md",
-              "RelativeDocumentMoniker": "content\\_devposts\\dm\\crash\\rare-fish.md",
-              "ToolTip": "C:\\Users\\Adam\\the-celestial-city\\content\\_devposts\\dm\\crash\\rare-fish.md",
-              "RelativeToolTip": "content\\_devposts\\dm\\crash\\rare-fish.md",
-              "ViewState": "AQIAACEAAAAAAAAAAAAAADgAAAA0AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2024-06-06T19:36:25.693Z",
-              "IsPinned": true
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "celebration.md",
-              "DocumentMoniker": "C:\\Users\\Adam\\the-celestial-city\\content\\_devposts\\dm\\crash\\celebration.md",
-              "RelativeDocumentMoniker": "content\\_devposts\\dm\\crash\\celebration.md",
-              "ToolTip": "C:\\Users\\Adam\\the-celestial-city\\content\\_devposts\\dm\\crash\\celebration.md",
-              "RelativeToolTip": "content\\_devposts\\dm\\crash\\celebration.md",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAACLAQAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2024-06-06T19:49:50.849Z",
-              "IsPinned": true
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
@@ -293,45 +95,141 @@
           ]
         },
         {
-          "DockedWidth": 863,
-          "SelectedChildIndex": 3,
+          "DockedWidth": 928,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 2,
+              "Title": "background-discovery-security-officer.md",
+              "DocumentMoniker": "C:\\Users\\Adam\\the-celestial-city\\content\\_other\\crash\\background-discovery-security-officer.md",
+              "RelativeDocumentMoniker": "content\\_other\\crash\\background-discovery-security-officer.md",
+              "ToolTip": "C:\\Users\\Adam\\the-celestial-city\\content\\_other\\crash\\background-discovery-security-officer.md",
+              "RelativeToolTip": "content\\_other\\crash\\background-discovery-security-officer.md",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-07-17T19:27:58.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "background-discovery-researcher.md",
+              "DocumentMoniker": "C:\\Users\\Adam\\the-celestial-city\\content\\_other\\crash\\background-discovery-researcher.md",
+              "RelativeDocumentMoniker": "content\\_other\\crash\\background-discovery-researcher.md",
+              "ToolTip": "C:\\Users\\Adam\\the-celestial-city\\content\\_other\\crash\\background-discovery-researcher.md",
+              "RelativeToolTip": "content\\_other\\crash\\background-discovery-researcher.md",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-07-17T19:27:58.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "background-discovery-pioneer.md",
+              "DocumentMoniker": "C:\\Users\\Adam\\the-celestial-city\\content\\_other\\crash\\background-discovery-pioneer.md",
+              "RelativeDocumentMoniker": "content\\_other\\crash\\background-discovery-pioneer.md",
+              "ToolTip": "C:\\Users\\Adam\\the-celestial-city\\content\\_other\\crash\\background-discovery-pioneer.md",
+              "RelativeToolTip": "content\\_other\\crash\\background-discovery-pioneer.md",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-07-17T19:27:58.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "background-discovery-envoy.md",
+              "DocumentMoniker": "C:\\Users\\Adam\\the-celestial-city\\content\\_other\\crash\\background-discovery-envoy.md",
+              "RelativeDocumentMoniker": "content\\_other\\crash\\background-discovery-envoy.md",
+              "ToolTip": "C:\\Users\\Adam\\the-celestial-city\\content\\_other\\crash\\background-discovery-envoy.md",
+              "RelativeToolTip": "content\\_other\\crash\\background-discovery-envoy.md",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-07-17T19:27:58.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "background-discovery-captain.md",
+              "DocumentMoniker": "C:\\Users\\Adam\\the-celestial-city\\content\\_other\\crash\\background-discovery-captain.md",
+              "RelativeDocumentMoniker": "content\\_other\\crash\\background-discovery-captain.md",
+              "ToolTip": "C:\\Users\\Adam\\the-celestial-city\\content\\_other\\crash\\background-discovery-captain.md",
+              "RelativeToolTip": "content\\_other\\crash\\background-discovery-captain.md",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-07-17T19:27:58.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ebb-and-flow.md",
+              "DocumentMoniker": "C:\\Users\\Adam\\the-celestial-city\\content\\_other\\crash\\ebb\\ebb-and-flow.md",
+              "RelativeDocumentMoniker": "content\\_other\\crash\\ebb\\ebb-and-flow.md",
+              "ToolTip": "C:\\Users\\Adam\\the-celestial-city\\content\\_other\\crash\\ebb\\ebb-and-flow.md",
+              "RelativeToolTip": "content\\_other\\crash\\ebb\\ebb-and-flow.md",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-07-17T18:49:28.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "home.md",
+              "DocumentMoniker": "C:\\Users\\Adam\\the-celestial-city\\content\\home.md",
+              "RelativeDocumentMoniker": "content\\home.md",
+              "ToolTip": "C:\\Users\\Adam\\the-celestial-city\\content\\home.md",
+              "RelativeToolTip": "content\\home.md",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAAB4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-05-25T17:47:19.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "single.html",
+              "DocumentMoniker": "C:\\Users\\Adam\\the-celestial-city\\_layouts\\single.html",
+              "RelativeDocumentMoniker": "_layouts\\single.html",
+              "ToolTip": "C:\\Users\\Adam\\the-celestial-city\\_layouts\\single.html",
+              "RelativeToolTip": "_layouts\\single.html",
+              "ViewState": "AQIAABoAAAAAAAAAAAAAAAIAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-05-15T04:55:13.777Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 674,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "main.scss",
               "DocumentMoniker": "C:\\Users\\Adam\\the-celestial-city\\assets\\css\\main.scss",
               "RelativeDocumentMoniker": "assets\\css\\main.scss",
               "ToolTip": "C:\\Users\\Adam\\the-celestial-city\\assets\\css\\main.scss",
               "RelativeToolTip": "assets\\css\\main.scss",
-              "ViewState": "AQIAAJ0AAAAAAAAAAAAqwJYAAAAQAAAA",
+              "ViewState": "AQIAABwAAAAAAAAAAAAAAA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2024-05-20T22:34:34.917Z",
               "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "_config.yml",
-              "DocumentMoniker": "C:\\Users\\Adam\\the-celestial-city\\_config.yml",
-              "RelativeDocumentMoniker": "_config.yml",
-              "ToolTip": "C:\\Users\\Adam\\the-celestial-city\\_config.yml",
-              "RelativeToolTip": "_config.yml",
-              "ViewState": "AQIAAEMAAAAAAAAAAAAawPwAAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
-              "WhenOpened": "2024-05-22T05:27:29.451Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 4,
               "Title": "navigation.yml",
               "DocumentMoniker": "C:\\Users\\Adam\\the-celestial-city\\_data\\navigation.yml",
               "RelativeDocumentMoniker": "_data\\navigation.yml",
               "ToolTip": "C:\\Users\\Adam\\the-celestial-city\\_data\\navigation.yml",
               "RelativeToolTip": "_data\\navigation.yml",
-              "ViewState": "AQIAACQAAAAAAAAAAAAAAFcAAAAjAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
               "WhenOpened": "2024-05-22T07:03:22.06Z",
               "IsPinned": true,
@@ -339,13 +237,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 10,
               "Title": "old-family-data.md",
               "DocumentMoniker": "C:\\Users\\Adam\\the-celestial-city\\_notincluded\\old-family-data.md",
               "RelativeDocumentMoniker": "_notincluded\\old-family-data.md",
               "ToolTip": "C:\\Users\\Adam\\the-celestial-city\\_notincluded\\old-family-data.md",
               "RelativeToolTip": "_notincluded\\old-family-data.md",
-              "ViewState": "AQIAAKEAAAAAAAAAAAAIwKgAAAAAAAAA",
+              "ViewState": "AQIAAKQAAAAAAAAAAAAlwKwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
               "WhenOpened": "2024-05-23T19:38:17.286Z",
               "IsPinned": true,
@@ -353,139 +251,90 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "more details.md",
+              "DocumentMoniker": "C:\\Users\\Adam\\the-celestial-city\\content\\_devposts\\dm\\more details.md",
+              "RelativeDocumentMoniker": "content\\_devposts\\dm\\more details.md",
+              "ToolTip": "C:\\Users\\Adam\\the-celestial-city\\content\\_devposts\\dm\\more details.md",
+              "RelativeToolTip": "content\\_devposts\\dm\\more details.md",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAACOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-07-15T17:23:35.833Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_config.yml",
+              "DocumentMoniker": "C:\\Users\\Adam\\the-celestial-city\\_config.yml",
+              "RelativeDocumentMoniker": "_config.yml",
+              "ToolTip": "C:\\Users\\Adam\\the-celestial-city\\_config.yml",
+              "RelativeToolTip": "_config.yml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-07-17T19:31:37.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "background.html",
+              "DocumentMoniker": "C:\\Users\\Adam\\the-celestial-city\\_includes\\background.html",
+              "RelativeDocumentMoniker": "_includes\\background.html",
+              "ToolTip": "C:\\Users\\Adam\\the-celestial-city\\_includes\\background.html",
+              "RelativeToolTip": "_includes\\background.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-07-17T19:26:37.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 14,
-              "Title": "home.md",
-              "DocumentMoniker": "C:\\Users\\Adam\\the-celestial-city\\content\\home.md",
-              "RelativeDocumentMoniker": "content\\home.md",
-              "ToolTip": "C:\\Users\\Adam\\the-celestial-city\\content\\home.md",
-              "RelativeToolTip": "content\\home.md",
-              "ViewState": "AQIAABwAAAAAAAAAAAAAACMAAAC7AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2024-05-25T17:47:19.229Z",
-              "IsPinned": true
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "collapsible.html",
-              "DocumentMoniker": "C:\\Users\\Adam\\the-celestial-city\\_includes\\collapsible.html",
-              "RelativeDocumentMoniker": "_includes\\collapsible.html",
-              "ToolTip": "C:\\Users\\Adam\\the-celestial-city\\_includes\\collapsible.html",
-              "RelativeToolTip": "_includes\\collapsible.html",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAACMAAABbAAAA",
+              "Title": "character-content.html",
+              "DocumentMoniker": "C:\\Users\\Adam\\the-celestial-city\\_includes\\character-content.html",
+              "RelativeDocumentMoniker": "_includes\\character-content.html",
+              "ToolTip": "C:\\Users\\Adam\\the-celestial-city\\_includes\\character-content.html",
+              "RelativeToolTip": "_includes\\character-content.html",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAACkAAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-06-04T19:16:19.292Z",
-              "IsPinned": true
+              "WhenOpened": "2025-05-15T04:52:31.286Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "nav_list",
-              "DocumentMoniker": "C:\\Users\\Adam\\the-celestial-city\\_includes\\nav_list",
-              "RelativeDocumentMoniker": "_includes\\nav_list",
-              "ToolTip": "C:\\Users\\Adam\\the-celestial-city\\_includes\\nav_list",
-              "RelativeToolTip": "_includes\\nav_list",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAACsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-05-29T17:45:06.18Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "sidebar.html",
-              "DocumentMoniker": "C:\\Users\\Adam\\the-celestial-city\\_includes\\sidebar.html",
-              "RelativeDocumentMoniker": "_includes\\sidebar.html",
-              "ToolTip": "C:\\Users\\Adam\\the-celestial-city\\_includes\\sidebar.html",
-              "RelativeToolTip": "_includes\\sidebar.html",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAACIAAAASAAAA",
+              "DocumentIndex": 12,
+              "Title": "post-relationships.html",
+              "DocumentMoniker": "C:\\Users\\Adam\\the-celestial-city\\_includes\\post-relationships.html",
+              "RelativeDocumentMoniker": "_includes\\post-relationships.html",
+              "ToolTip": "C:\\Users\\Adam\\the-celestial-city\\_includes\\post-relationships.html",
+              "RelativeToolTip": "_includes\\post-relationships.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-05-29T17:42:18.214Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "campaign-overview.md",
-              "DocumentMoniker": "C:\\Users\\Adam\\the-celestial-city\\content\\_content\\campaign-overview.md",
-              "RelativeDocumentMoniker": "content\\_content\\campaign-overview.md",
-              "ToolTip": "C:\\Users\\Adam\\the-celestial-city\\content\\_content\\campaign-overview.md",
-              "RelativeToolTip": "content\\_content\\campaign-overview.md",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2024-05-27T17:45:32.301Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "calendar.md",
-              "DocumentMoniker": "C:\\Users\\Adam\\the-celestial-city\\content\\_lore\\calendar.md",
-              "RelativeDocumentMoniker": "content\\_lore\\calendar.md",
-              "ToolTip": "C:\\Users\\Adam\\the-celestial-city\\content\\_lore\\calendar.md",
-              "RelativeToolTip": "content\\_lore\\calendar.md",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAACUAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2024-05-27T06:57:55.041Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "faction-index-list.html",
-              "DocumentMoniker": "C:\\Users\\Adam\\the-celestial-city\\_includes\\faction-index-list.html",
-              "RelativeDocumentMoniker": "_includes\\faction-index-list.html",
-              "ToolTip": "C:\\Users\\Adam\\the-celestial-city\\_includes\\faction-index-list.html",
-              "RelativeToolTip": "_includes\\faction-index-list.html",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAPAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-05-27T06:38:21.982Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "report.html",
-              "DocumentMoniker": "C:\\Users\\Adam\\the-celestial-city\\_includes\\report.html",
-              "RelativeDocumentMoniker": "_includes\\report.html",
-              "ToolTip": "C:\\Users\\Adam\\the-celestial-city\\_includes\\report.html",
-              "RelativeToolTip": "_includes\\report.html",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-05-26T20:21:49.789Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "single.html",
-              "DocumentMoniker": "C:\\Users\\Adam\\the-celestial-city\\_layouts\\single.html",
-              "RelativeDocumentMoniker": "_layouts\\single.html",
-              "ToolTip": "C:\\Users\\Adam\\the-celestial-city\\_layouts\\single.html",
-              "RelativeToolTip": "_layouts\\single.html",
-              "ViewState": "AQIAACwAAAAAAAAAAAAAAEsAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-05-26T05:29:23.924Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "5e-stat-block.html",
-              "DocumentMoniker": "C:\\Users\\Adam\\the-celestial-city\\_includes\\5e-stat-block.html",
-              "RelativeDocumentMoniker": "_includes\\5e-stat-block.html",
-              "ToolTip": "C:\\Users\\Adam\\the-celestial-city\\_includes\\5e-stat-block.html",
-              "RelativeToolTip": "_includes\\5e-stat-block.html",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-05-25T20:18:06.311Z"
+              "WhenOpened": "2025-05-15T04:46:09.159Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 17,
-              "Title": "tab-content.html",
-              "DocumentMoniker": "C:\\Users\\Adam\\the-celestial-city\\_includes\\tab-content.html",
-              "RelativeDocumentMoniker": "_includes\\tab-content.html",
-              "ToolTip": "C:\\Users\\Adam\\the-celestial-city\\_includes\\tab-content.html",
-              "RelativeToolTip": "_includes\\tab-content.html",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAEAAAA",
+              "Title": "relationships.html",
+              "DocumentMoniker": "C:\\Users\\Adam\\the-celestial-city\\_includes\\relationships.html",
+              "RelativeDocumentMoniker": "_includes\\relationships.html",
+              "ToolTip": "C:\\Users\\Adam\\the-celestial-city\\_includes\\relationships.html",
+              "RelativeToolTip": "_includes\\relationships.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-05-25T17:21:57.943Z"
+              "WhenOpened": "2025-05-15T04:36:42.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "relationships-dropdown.html",
+              "DocumentMoniker": "C:\\Users\\Adam\\the-celestial-city\\_includes\\relationships-dropdown.html",
+              "RelativeDocumentMoniker": "_includes\\relationships-dropdown.html",
+              "ToolTip": "C:\\Users\\Adam\\the-celestial-city\\_includes\\relationships-dropdown.html",
+              "RelativeToolTip": "_includes\\relationships-dropdown.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-05-15T04:34:10.143Z"
             }
           ]
         }

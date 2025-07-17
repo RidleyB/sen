@@ -1,0 +1,55 @@
+<h1 id="overview" style="visibility: hidden; margin: 0px; padding: 0px;">Overview</h1>
+
+{{ page.blurb }}
+
+<!--more-->
+
+<h2 id="background">Background</h2>
+
+{% for paragraph in page.paragraphs %}
+<h3 id="{{ paragraph.title }}">{{ paragraph.title }}</h3>
+{% if paragraph.element contains "TODO" %}
+<div class="todo">{{ paragraph.title }} paragraph.</div>
+{% else %}
+{{ paragraph.element }}<br>
+{% endif %}
+{% endfor %}
+
+{% if page.faction.sort-role or page.faction.given-role %}
+<h3 id="role-in-the-family">Role in the {{ page.faction.sort }}s</h3>
+{% if page.faction.sort-role contains "TODO" %}
+<div class="todo">{{ page.faction.sort }} paragraph.</div>
+{% else %}
+{{ page.faction.sort-role }}
+{% endif %}
+
+{% if page.faction.sort != page.faction.given and page.faction.given-role %}
+<h3 id="role-in-the-family">Role in the {{ page.faction.given }}s</h3>
+{% if page.faction.given-role contains "TODO" %}
+<div class="todo">{{ page.faction.given }} paragraph.</div>
+{% else %}
+{{ page.faction.given-role }}
+{% endif %}
+{% endif %}
+{% endif %}
+
+{% for paragraph in page.post-paragraphs %}
+<h3 id="{{ paragraph.title }}">{{ paragraph.title }}</h3>
+{% if paragraph.element contains "TODO" %}
+<div class="todo">{{ paragraph.title }} paragraph.</div>
+{% else %}
+{{ paragraph.element }}<br>
+{% endif %}
+{% endfor %}
+
+{% if page.standings %}
+<h2 id="allegiance">Allegiances</h2>
+{% for standing in page.standings %}
+<h3 id="{{ standing.name }}">{{ standing.name }}</h3>
+{% if standing.desc contains "TODO" %}
+<div class="todo">{{ standing.name }} paragraph.</div>
+{% else %}
+{{ standing.desc }}<br>
+{% endif %}
+{% endfor %}
+{% endif %}

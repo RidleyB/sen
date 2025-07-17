@@ -26,3 +26,100 @@
     <script src="{{ script | relative_url }}"></script>
   {% endfor %}
 {% endif %}
+
+<script>
+
+// function for collapsible.html
+
+function expand(id) 
+{
+    var content = document.getElementById(id);
+    if (content.style.maxHeight)
+        content.style.maxHeight = null;
+
+    else 
+        content.style.maxHeight = content.scrollHeight + "px";
+}
+
+</script>
+
+<script>
+
+// functions for character-popup.html
+
+function showPopup(id) {
+  var popup = document.getElementById(id);
+  popup.classList.toggle("hide", false);
+  popup.classList.toggle("show", true);
+}
+
+function hidePopup(id) {
+  var popup = document.getElementById(id);
+  popup.classList.toggle("show", false);
+  popup.classList.toggle("hide", true);
+}
+</script>
+
+<script>
+
+// functions for relationships-dropdown.html
+
+    let people = [];
+    let relationships = {};
+
+    async function fetchData() {
+        try {
+            const response = await fetch('/sen/assets/people.json');
+            const data = await response.json();
+            people = data.people;
+            relationships = data.relationships;
+            populateDropdowns();
+        } catch (error) {
+            console.error('Error fetching the data:', error);
+        }
+    }
+
+    function populateDropdowns() {
+        const person1Select = document.getElementById('person1');
+        const person2Select = document.getElementById('person2');
+
+        people.forEach(person => {
+            const option1 = document.createElement('option');
+            option1.value = person;
+            option1.text = person;
+            person1Select.appendChild(option1);
+
+            const option2 = document.createElement('option');
+            option2.value = person;
+            option2.text = person;
+            person2Select.appendChild(option2);
+        });
+    }
+
+    function updateDescription() {
+        const person1 = document.getElementById('person1').value;
+        const person2 = document.getElementById('person2').value;
+        const description = document.getElementById('description');
+
+        if (person1 && person2 && person1 !== person2) {
+
+            for (const [key, value] of Object.entries(relationships))
+            {
+                if(key.includes(person1) && key.includes(person2)) {
+                    description.innerHTML = value;
+                    break;
+                }
+            }
+
+        } else  {
+            if(person1 == person2) {
+                description.innerHTML = "";
+            }
+            else {
+                description.innerHTML = 'TODO: Relationship between ' + person1 + ' and ' + person2;
+            }
+        }
+    }
+
+    fetchData();
+</script>

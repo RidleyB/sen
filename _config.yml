@@ -10,10 +10,10 @@ minimal_mistakes_skin: "dark"
 locale: "en-US"
 url: "https://ridleyb.github.io"
 baseurl: "/sen"
-title: Shadows of Intrigue
+title: Crash
 title_separator: "|"
-name: &gmname "Adam Brown"
-logo: "/assets/images/logos/sen.png"
+name: &gmname "Demivin"
+logo: "/assets/images/logos/discovery-logo.png"
 email: adam.brown.x.ridley@gmail.com
 description: A planned 5e story taking place in the Celestial city of Sen.
 github_username:  RidleyB
@@ -131,7 +131,7 @@ exclude:
 
 # custom global variables
 
-all_factions: "blanchard, del-vecchio, montaigne, reinhardt, santini, collegium, commerce, church, open-hand, sacred-eye, discovery, jcs, tvl, other"
+all_factions: "blanchard, del-vecchio, montaigne, reinhardt, santini, silversaint, collegium, commerce, church, open-hand, sacred-eye, discovery, jcs, tvl, other"
 path_logo: /assets/images/logos/
 
 defaults:
@@ -161,6 +161,7 @@ defaults:
   - scope:
       path: "content/_characters"
     values:
+      layout: single-character
       sidebar_ext:
         before_nav: true
         image: true

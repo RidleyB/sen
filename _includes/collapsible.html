@@ -1,45 +1,17 @@
-<script>
-
-function expand(id) 
-{
-    var content = document.getElementById(id);
-    if (content.style.maxHeight)
-        content.style.maxHeight = null;
-
-    else 
-        content.style.maxHeight = content.scrollHeight + "px";
-}
-
-</script>
-
-<style type="text/css">
-
-.page__content
-{
-    h2
-    {
-        border-bottom: 0px solid black;
-        padding-top: 0.5em;
-        padding-bottom: 0.5em;
-        margin-top: 0.3em;
-    }
-}
-
-</style>
 
 {% capture urlContentMethod %}expand('{{ include.post.url }}'){% endcapture %}
 {% capture titleContentMethod %}expand('{{ include.title | slugify }}'){% endcapture %}
 
 {% if include.post %}
 
-<button class="collapsible" onclick="{{ urlContentMethod }}"><h2 id="{{ include.post.title | slugify }}">{{ include.post.title }}</h2></button><br>
+<button class="collapsible" onclick="{{ urlContentMethod }}"><h2 id="{{ include.post.title | slugify }}" style="border-bottom: 0px solid black; padding-top: 0.5em; padding-bottom: 0.5em; margin-top: 0.3em;">{{ include.post.title }}</h2></button><br>
 <div class="collapsible_content" id="{{ include.post.url }}"><br>{{ include.post.excerpt }}
 <!-- <a href="/sen{{ include.post.url }}">Read More</a><br><br>-->
 </div>
 
 {% else %}
 
-<button class="collapsible" onclick="{{ titleContentMethod }}"><h2 id="{{ include.title | slugify | append: "title" }}">{{ include.title }}</h2></button><br>
+<button class="collapsible" onclick="{{ titleContentMethod }}"><h2 id="{{ include.title | slugify | append: "title" }}" style="border-bottom: 0px solid black; padding-top: 0.5em; padding-bottom: 0.5em; margin-top: 0.3em;">{{ include.title }}</h2></button><br>
 <div class="collapsible_content" id="{{ include.title | slugify }}"><br>{{ include.content | markdownify }}
 </div>
 

@@ -5,7 +5,7 @@ world: sen
 
 **Home-World:** {{ page.world | capitalize }}
 
-**Description:** Contructs are one of the newest additions to Sen, and one the first native race of the city, second only to the Half-Elf. Created in the later years of the era of discovery, they are brought to life through a blend of magic and technology, seeking purpose and identity in a world of flesh and blood. They were created by a gifted wizard The Contructs gaining sentience was a surprising addition to their creation, to which the Contructs attribute to a god of their own creation, Automachus.
+**Description:** Contructs are one of the newest additions to Sen, and one the first native race of the city, second only to the Half-Elf. Created in the later years of the era of discovery, they are brought to life through a blend of magic and technology, seeking purpose and identity in a world of flesh and blood. The Contructs gaining sentience was a surprising addition to their creation, to which the Contructs attribute to a god of their own creation, Automachus.
 
 <!--more-->
 
