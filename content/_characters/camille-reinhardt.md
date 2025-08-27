@@ -2,10 +2,9 @@
 title: Camille Reinhardt
 
 faction:
-  sort: Reinhardt
-  given: Reinhardt
-  given-role: "Though Camille does not contribute directly to the Reinhardt family's traditional pursuits, her presence is one of warmth and support. Her marriage to Albrecht has brought a sense of balance to the family, softening the sharp edges of their rigid values. As a mother, Camille has nurtured Fritz's poetic talents, encouraging him to follow his passions despite the Reinhardt family's focus on more conventional endeavors. Her role as a patron of the arts has also allowed the Reinhardt name to be associated with cultural enrichment, adding a layer of sophistication to their reputation.
-"
+  sort: "Reinhardt"
+  given: "Reinhardt"
+  given-role: "Though Camille does not contribute directly to the Reinhardt family's traditional pursuits, her presence is one of warmth and support. Her marriage to Albrecht has brought a sense of balance to the family, softening the sharp edges of their rigid values. As a mother, Camille has nurtured Fritz's poetic talents, encouraging him to follow his passions despite the Reinhardt family's focus on more conventional endeavors. Her role as a patron of the arts has also allowed the Reinhardt name to be associated with cultural enrichment, adding a layer of sophistication to their reputation."
 
 standings:
   - name: "Del Vecchio"
@@ -13,7 +12,7 @@ standings:
   - name: "Reinhardt"
     desc: "Camille's love and devotion to her husband and son are paramount. While her interests differ from the traditional Reinhardt values, she is deeply committed to her family and finds ways to support them, even if indirectly."
   - name: "Montaigne"
-    desc: "Camille's connection to the Montaigne family is through brother, Henri. Her love for family keeps him close, despite any political relationships the Montaignes and Reinhardts hold."
+    desc: "Camille's connection to the Montaigne family is through her brother, Henri. Her love for family keeps him close, despite any political relationships the Montaignes and Reinhardts hold."
 
 paragraphs:
   - title: "Personality"

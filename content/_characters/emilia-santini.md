@@ -2,14 +2,17 @@
 title: Emilia Santini
 
 faction:
-  sort: Santini
-  given: Santini
+  sort: "Santini"
+  given: "Santini"
+  given-role: "As the young daughter of Giovanna Santini and Etienne Blanchard, Emilia has yet to take on any formal role within the family. Instead, her presence is that of spirited disruption - a child who resists the trappings of aristocratic life and prefers the freedom of gardens and open air to the formality of parlors and staterooms."
 
 paragraphs:
   - title: "Personality"
-    element: "Emilia Santini is a lively and spirited child with a boundless energy that seems to overflow from every part of her being. At just 9 years old, she is already known for her mischievous nature and her ability to turn even the most mundane activities into an adventure. Emilia is not one to sit still for long, and her dislike for the rigid expectations of high society is apparent. She much prefers the outdoors, where she can run free and explore to her heart's content. Her playful demeanor often gets her into trouble, but her charm usually helps her find a way out of it."
+    element: "Emilia Santini is a whirlwind of energy, curiosity, and mischief. Rarely still, she delights in climbing trees, chasing after the gardeners, and finding ways to test the patience of her tutors. Though intelligent, Emilia has little interest in sitting still long enough to apply herself to lessons. Her distracted nature frustrates her teachers, but those who watch her closely recognize a keen mind - one that simply prefers exploration to structure. Emilia's disdain for high-society expectations is already evident; she finds the stiff etiquette of her parents' world dull and stifling, gravitating instead to the freedom of the outdoors."
+
   - title: "Personal Life"
-    element: "Born to Giovanna and Etienne, Emilia is a child who thrives on curiosity and exploration. Despite her intelligence, Emilia struggles to focus in a traditional classroom setting, where she finds it difficult to apply herself to studies that do not capture her interest. Instead, she prefers spending her time in the gardens, working alongside the gardeners and learning about plants and nature. This hands-on approach to learning suits her much better than the confines of a classroom, and it is in these moments that her natural intelligence shines through."
+    element: "Raised between the Santini and Blanchard households, Emilia is already showing signs of how difficult it may be for her to adapt to the expectations of her family's station. Though still very much a child, she actively resists the refined lifestyle intended for her, preferring mud on her shoes and dirt under her fingernails. In the gardens, she is happiest- chatting with workers, learning their tricks, and pretending to command her own tiny kingdom of plants and creatures. Her parents worry that her unruly behavior will become harder to tame as she grows older, but others admire her free spirit, seeing in her a spark of individuality rare among Sen's noble children."
+
 
 parents:
   - name: "Etienne Blanchard"

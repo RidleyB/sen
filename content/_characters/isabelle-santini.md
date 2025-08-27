@@ -1,5 +1,5 @@
 ---
-title: Isabelle Santini
+title: Isabella Santini
 
 faction:
   sort: Santini

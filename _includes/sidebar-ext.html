@@ -11,9 +11,11 @@
 {% endif %}
 
 {% if page.char_data %}
+  {% if page.blurb %}
+	<div class="sidebar_italics">{{ page.blurb }}</div>
+  {% endif %}
   {% include character.html data=page.char_data %}
 {% endif %}
-<br>
 
 {% if page.children or page.parents or page.siblings or page.partners %}
   {% include character-family.html %}
