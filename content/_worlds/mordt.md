@@ -8,3 +8,4 @@ title: Mordt
 
 <!--more-->
 
+<div class="todo">Continued info about world.</div>

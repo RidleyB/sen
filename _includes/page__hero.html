@@ -27,9 +27,7 @@
         {% if paginator and site.paginate_show_page_num %}
           {{ site.title }}{% unless paginator.page == 1 %} {{ site.data.ui-text[site.locale].page | default: "Page" }} {{ paginator.page }}{% endunless %}
         {% else %}
-        {% unless page.header.title == false %}
           {{ page.title | default: site.title | markdownify | remove: "<p>" | remove: "</p>" }}
-        {% endunless %}
         {% endif %}
       </h1>
       {% if page.tagline %}

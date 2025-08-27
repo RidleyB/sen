@@ -9,3 +9,4 @@ world: saphor
 
 <!--more-->
 
+<div class="todo">Continued info about race.</div>

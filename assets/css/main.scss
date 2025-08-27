@@ -17,30 +17,11 @@ search: false
   content: "{{ site.baseurl }}";
 }
 
-.dropdown-container {
-  display: flex;
-  justify-content: space-between;
-  margin: 0 auto;
-}
-
-.dropdown-description {
-  margin-top: 20px;
-  text-align: center;
-}
-
-.secret-block {
-  color: #8accff;  
-}
-
 .todo {
   margin-bottom: 12px;
   padding-top: 12px;
   color: yellow;
   border-bottom: 1px solid #fff;
-}
-
-.todo-basic:before {
-  content: "Coming soon...";
 }
 
 .todo:before {
@@ -141,9 +122,10 @@ search: false
   width: 100%;
   transition: .8s ease;
   margin-bottom: -3em;
+  margin-left: -1px;
 }
 
-.active:hover .peekbox_fade {
+.peekbox:hover .peekbox_fade {
   opacity: 0;
 }
 

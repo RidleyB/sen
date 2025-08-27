@@ -1,18 +1,89 @@
+main:
+  - title: General
+    url: /content/
+  - title: Factions
+    url: /factions/
+  - title: Lore
+    url: /lore/
+
 sidebar: 
-  - title: "Directory"
+  - title: General
+    url: /content/
     children:
-      - title: "The Celestial City"
-        url: /lore/the-celestial-city
-      - title: Connected Worlds
-        url: /lore/worlds
-      - title: Guild of Discovery
-        url: /lore/guild-of-discovery
-      - title: Races
-        url: /lore/races
+      - title: An Invitation
+        url: /content/an-invitation
+      - title: Campaign Overview
+        url: /content/campaign-overview
+      - title: Rules and Restrictions
+        url: /content/rules-and-restrictions
+      - title: 5e Content
+        url: /5e-content/
+  - title: "Lore: General"
+    url: /lore/
+    children:
       - title: Deities
         url: /lore/deities
-
-  - title: "Handouts"
+      - title: History
+        url: /lore/history
+      - title: Races
+        url: /lore/races
+      - title: Worlds
+        url: /lore/worlds
+  - title: "Lore: City"
+    url: /lore/
     children:
-      - title: "Backgrounds"
-        url: /crash/backgrounds
+      - title: Calendar
+        url: /lore/calendar
+      - title: "Sen: The Celestial City"
+        url: /lore/the-celestial-city
+      - title: "Sen: The Inner Rings"
+        url: /lore/the-inner-rings
+      - title: "Sen: The Outer Rings"
+        url: /lore/the-outer-rings
+  - title: "Factions: City"
+    url: /factions/
+    children:
+      - title: Collegium Arcanum
+        url: /factions/collegium-arcanum
+      - title: Guild of Open Commerce
+        url: /factions/guild-of-open-commerce
+      - title: Guild of Discovery
+        url: /factions/guild-of-discovery
+      - title: Judiciary Council of Sen
+        url: /factions/judiciary-council-of-sen
+      - title: The Violet Lady
+        url: /factions/the-violet-lady
+  - title: "Factions: Families"
+    url: /factions/
+    children:
+      - title: Blanchard Family
+        url: /factions/blanchard-family
+      - title: Del Vecchio Family
+        url: /factions/del-vecchio-family
+      - title: Montaigne Family
+        url: /factions/montaigne-family
+      - title: Reinhardt Family
+        url: /factions/reinhardt-family
+      - title: Santini Family
+        url: /factions/santini-family
+  - title: "Factions: Church"
+    url: /factions/
+    children:
+      - title: Church of the Union
+        url: /factions/church-of-the-union
+      - title: Order of the Open Hand
+        url: /factions/order-of-the-open-hand
+      - title: Order of the Sacred Eye
+        url: /factions/order-of-the-sacred-eye
+  - title: "Other"
+    children:
+      - title: "One-Shot: Crash"
+        url: /crash/
+  - title: Secrets
+    children:
+      - title: "Crash: Script"
+        url: "/devposts/script"
+      - title: "Crash: Challenges"
+        url: "/devposts/challenges"
+      - title: "Crash: Stat Blocks"
+        url: "/devposts/stat-blocks"

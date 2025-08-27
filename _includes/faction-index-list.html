@@ -1,10 +1,22 @@
+<style type="text/css">
+
+blockquote 
+{
+    h2
+    {
+        font-style: normal;
+    }
+}
+
+</style>
+
 <blockquote style="min-height: 256px; padding: 4px 16px 8px 16px;">
 {% for post in site.documents %}
 {% assign postTitle = post.title | downcase %}
 {% unless postTitle contains "secret" %}
 {% if post.category contains include.category %}
 <div style="min-height: 256px; padding: 4px 16px 8px 16px; overflow: hidden;">
-<a href="/sen{{ post.url }}"><h2 style="font-style: normal;">{{ post.title }}</h2></a>
+<a href="/sen{{ post.url }}"><h2>{{ post.title }}</h2></a>
 {% assign icon_path = site.url | append: site.baseurl | append: site.path_logo | append: post.faction.sort | append: ".png" %}
 {% if post.faction.sort %}
 <figure style="display: block;">

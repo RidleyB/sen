@@ -1,4 +1,4 @@
-﻿{% if page.sidebar_ext.image %}
+{% if page.sidebar_ext.image %}
   {% include sidebar-image.html %}
 {% endif %}
 
@@ -11,15 +11,14 @@
 {% endif %}
 
 {% if page.char_data %}
-  {% include character.html data=page.char_data %}
+  {% include character.html title="Description" data=page.char_data %}
 {% endif %}
-<br>
 
 {% if page.children or page.parents or page.siblings or page.partners %}
   {% include character-family.html %}
 {% endif %}
 
 {% if page.char_data or page.children or page.parents or page.siblings or page.partners %}
-  <br><h3>Navigation</h3>
+  <h3>Navigation</h3>
   <div class="page__subtitle"></div>
 {% endif %}

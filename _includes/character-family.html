@@ -1,5 +1,3 @@
-<h3>Family</h3>
-<div class="page__subtitle"></div>
 {% capture children_rows %}
   {% for c in page.children %}
     <tr>
@@ -19,6 +17,7 @@
     </tr>
   {% endfor %}
 {% endcapture %}
+
 {% capture partner_rows %}
   {% for s in page.partners %}
     <tr>
@@ -38,6 +37,7 @@
     </tr>
   {% endfor %}
 {% endcapture %}
+
 {% capture parent_rows %}
   {% for s in page.parents %}
     <tr>
@@ -57,6 +57,7 @@
     </tr>
   {% endfor %}
 {% endcapture %}
+
 {% capture sibling_rows %}
   {% for s in page.siblings %}
     <tr>
@@ -73,8 +74,11 @@
 
 {% comment %}==============================={% endcomment %}
 
+<h3>Family</h3>
+<div class="page__subtitle"></div>
+
 {% if page.parents or page.siblings %}
-  <h3 style="font-size:80%; margin-top: 0px;">Parents & Siblings</h3>
+  <h3 style="font-size:80%;">Parents & Siblings</h3>
   <table>
     <tr>
       <th>Relative</th>

@@ -1,6 +1,10 @@
 {% if include.data and include.data[0].element != "" %}
-<h3>Description</h3>
-<div class="page__subtitle"></div>
+
+{% if include.title %}
+  <h3>{{ include.title }}</h3>
+  <div class="page__subtitle"></div>
+{% endif %}
+
 <table>
   {% for data in include.data %}
     {% if data.element_title and data.element and data.element != "" %}
