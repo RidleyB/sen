@@ -8,4 +8,3 @@ title: Zaratal
 
 <!--more-->
 
-<div class="todo">Continued info about world.</div>

@@ -15,4 +15,3 @@ deity:
 
 <!--more-->
 
-<div class="todo">Continued info about deity.</div>

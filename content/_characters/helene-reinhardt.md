@@ -5,6 +5,19 @@ dead: true
 faction:
   sort: Reinhardt
   given: Wagner
+  sort-role: "TODO"
+  given-role: "TODO"
+
+standings:
+  - name: "TODO"
+    desc: "TODO"
+
+paragraphs:
+  - title: "Personality"
+    element: "TODO"
+  - title: "Personal Life"
+    element: "TODO"
+
 
 partners:
   - name: "Friedrich Reinhardt"
@@ -30,5 +43,7 @@ char_data:
   - element_title: "Eyes"
     element: ""
 
-excerpt: "Friedrich's wife and a formidable presence in Sen's social scene. She is known for her extravagant parties and lavish lifestyle, which serve to bolster her family's influence."
+blurb: "Friedrich's wife and a formidable presence in Sen's social scene. She is known for her extravagant parties and lavish lifestyle, which serve to bolster her family's influence."
 ---
+
+{% include character-content.html %}

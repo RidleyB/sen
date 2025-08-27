@@ -1,0 +1,261 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+
+minimal_mistakes_skin: "dark"
+
+locale: "en-US"
+url: "https://ridleyb.github.io"
+baseurl: "/sen"
+title: Shadows of Intrigue
+title_separator: "|"
+name: &gmname "Adam Brown"
+logo: "/assets/images/logos/sen.png"
+email: adam.brown.x.ridley@gmail.com
+description: A planned 5e story taking place in the Celestial city of Sen.
+github_username:  RidleyB
+
+domain: ridleyb.github.io
+url: https://ridleyb.github.io
+search: false
+
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jekyll-include-cache
+
+whitelist:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jekyll-include-cache
+
+encoding: "utf-8"
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+
+# Conversion
+markdown: kramdown
+highlighter: rouge
+lsi: false
+incremental: false
+footer_scripts: true
+
+kramdown:
+  input: GFM
+  hard_wrap: false
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  enable_coderay: false
+
+sass:
+sass_dir: _sass
+style: compressed # https://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
+
+# paginate: 5 # amount of posts to show
+# paginate_path: /page:num/
+# timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+
+collections_dir: content
+collections:
+  factions:
+    output: true
+    permalink: :collection/:title
+
+  lore:
+    output: true
+    permalink: :collection/:title
+
+  characters:
+    output: true
+    permalink: :collection/:title
+
+  content:   
+    output: true
+    permalink: :collection/:title
+
+  other:   
+    output: true
+    permalink: :collection/:title
+
+  races:   
+    output: true
+    permalink: :collection/:title
+
+  deities:   
+    output: true
+    permalink: :collection/:title
+
+  worlds:   
+    output: true
+    permalink: :collection/:title
+
+  5econtent:
+    output: true
+    permalink: :collection/:title
+
+  journal:
+    output: true
+    permalink: :collection/:title
+
+  devposts:
+    output: true
+    permalink: :collection/:title
+
+include:
+- .htaccess
+
+exclude:
+   - .sass-cache/
+   - .jekyll-cache/
+   - gemfiles/
+   - Gemfile
+   - Gemfile.lock
+   - node_modules/
+   - vendor/bundle/
+   - vendor/cache/
+   - vendor/gems/
+   - vendor/ruby/
+   - .sln
+   - .vs
+   - _notincluded/
+   - _devposts/dm/.git/
+
+# custom global variables
+
+all_factions: "blanchard, del-vecchio, montaigne, reinhardt, santini, silversaint, collegium, commerce, church, open-hand, sacred-eye, discovery, jcs, tvl, other"
+path_logo: /assets/images/logos/
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: single
+      disable_title: true
+      secret: false
+      disable_pagination: true
+      excerpt_separator: <!--more-->
+      sidebar:
+        nav: sidebar
+
+  - scope:
+      path: "content/_content"
+    values:
+      category: content
+      excerpt_separator: <!--more-->
+      header:
+        overlay_image: /assets/images/sen-splash-2.jpg
+        overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
+        caption: ""
+      sidebar:
+        nav: sidebar
+
+  - scope:
+      path: "content/_characters"
+    values:
+      layout: single-character
+      sidebar_ext:
+        before_nav: true
+        image: true
+        excerpt: true
+        title: true
+      category: characters
+      toc: true
+      toc_sticky: true
+      sidebar:
+        nav: sidebar
+      char_data:
+        - element_title: "Pronouns"
+        - element_title: "Race"
+        - element_title: "Age"
+        - element_title: "Height"
+        - element_title: "Hair"
+        - element_title: "Skin"
+        - element_title: "Eyes"
+      dead: false
+
+  - scope:
+      path: "content/_factions"
+    values:
+      sidebar_ext:
+        before_nav: true
+        image: true
+        excerpt: true
+        title: true
+      category: factions
+      toc: true
+      toc_sticky: true
+      sidebar:
+        nav: sidebar
+
+  - scope:
+      path: "content/_lore"
+    values:
+      sidebar_ext:
+        before_nav: true
+        excerpt: true
+        title: true
+      header:
+        overlay_image: /assets/images/sen-splash-1.jpg
+        overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
+        caption: ""
+      category: lore
+      toc: true
+      toc_sticky: true
+      sidebar:
+        nav: sidebar
+
+  - scope:
+      path: "content/_races"
+    values:
+      sidebar_ext:
+        before_nav: true
+        title: true
+        image: true
+      category: races
+      toc: true
+      toc_sitcky: true
+
+  - scope:
+      path: "content/_deities"
+    values:
+      sidebar_ext:
+        before_nav: true
+        title: true
+      category: deities
+      toc: true
+      toc_sitcky: true
+
+  - scope:
+      path: "content/_worlds"
+    values:
+      sidebar_ext:
+        before_nav: true
+        title: true
+        image: true
+      category: worlds
+      toc: true
+      toc_sitcky: true
+
+  - scope:
+      path: "content/_5econtent"
+    values:
+      category: 5econtent
+
+  - scope:
+      path: "content/_devposts"
+    values:
+      category: devposts
+
+  - scope:
+      path: "content/journal"
+    values:
+      category: journal

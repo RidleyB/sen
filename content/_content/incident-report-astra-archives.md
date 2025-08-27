@@ -7,7 +7,7 @@ title: "Incident Report #EM432-361"
 <img style="position: absolute; left: 65%; top: 80%; width: 250px; height: 250px; transform: rotate(56deg); z-index: 3;" src="/sen/assets/images/logos/sacred-eye-seal.png">
 
 # Incident Report #EM432-361
-**Date:** EM/432/12/05 <br>
+**Date:** EM/432/05/12 <br>
 **Time of Incident:** ~3:38am <br>
 **Investigator on Site:** Viper <br>
 **Report:** Fire at the Astra Archives- extensive damage to nearly one third of the collected works. Some works suspected missing.<br>

@@ -4,6 +4,19 @@ title: Leonardo Santini
 faction:
   sort: Santini
   given: Santini
+  sort-role: "TODO"
+  given-role: "TODO"
+
+standings:
+  - name: "TODO"
+    desc: "TODO"
+
+paragraphs:
+  - title: "Personality"
+    element: "TODO"
+  - title: "Personal Life"
+    element: "TODO"
+
 
 parents:
   - name: "Alejandro de la Vega"
@@ -27,5 +40,7 @@ char_data:
   - element_title: "Eyes"
     element: ""
 
-excerpt: "Still in his formative years, little Leo exhibits glimpses of the typical Santini charisma that will shape his future role in the family. With his grandmother's legacy and his mother's aspirations guiding his path, his future is surely bright."
+blurb: "Still in his formative years, little Leo exhibits glimpses of the typical Santini charisma that will shape his future role in the family. With his grandmother's legacy and his mother's aspirations guiding his path, his future is surely bright."
 ---
+
+{% include character-content.html %}

@@ -4,6 +4,19 @@ title: Giovanna Santini
 faction:
   sort: Santini
   given: Santini
+  sort-role: "TODO"
+  given-role: "TODO"
+
+standings:
+  - name: "TODO"
+    desc: "TODO"
+
+paragraphs:
+  - title: "Personality"
+    element: "TODO"
+  - title: "Personal Life"
+    element: "TODO"
+
 
 parents:
   - name: "Salvatore Russo"
@@ -48,9 +61,7 @@ char_data:
 blurb: "Giovanna Santini, the financial mastermind of the Santini family, is known for her sharp mind and exceptional negotiation skills. She oversees the family's finances and investments, ensuring their wealth is skillfully managed. Giovanna's ambitious nature and keen business strategies drive her pursuit of power within Sen's aristocracy, making her an influential figure in the city's economic circles."
 ---
 
-{{ page.blurb }}
-
-<!--more-->
+{% include character-content.html %}
 
 ## Background
 Gifted with a natural talent for numbers, Giovanna has always been the Santini family's go-to person for handling complex financial matters. Her meticulous approach and strategic thinking have helped the family maintain their financial stability despite various challenges. Giovanna's role in the family is crucial, as she balances the books and ensures their ventures are profitable.

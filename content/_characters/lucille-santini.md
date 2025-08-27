@@ -5,6 +5,13 @@ faction:
   sort: Santini
   given: Santini
 
+paragraphs:
+  - title: "Personality"
+    element: "Lucille is playful, imaginative, and deeply curious about magic. She often engages in small magical experiments under her mother's guidance, showing a natural aptitude for the arcane arts."
+  - title: "Magical Inclinations"
+    element: "Under Isabella's watchful eye, Lucille's early experiments and studies in magic hint at a promising future. Her potential is evident, and her mother and father will continue to nurture her gift."
+
+
 parents:
   - name: "Paolo Santini"
     type: "Father"
@@ -31,5 +38,12 @@ char_data:
   - element_title: "Eyes"
     element: ""
 
-excerpt: "At a tender age of six, Lucille bears a striking resemblance to her mother, particularly in her artistic inclinations. While her mother struggles to maintain her identity in the confines of the Santini family, Lucille breathes new life in that hope."
+blurb: "Lucille Santini, at the young age of 10, bears a striking resemblance to her mother, Isabella, particularly in her magical inclinations. Her presence brings hope and renewal to her mother, who struggles to maintain her identity within the confines of the Santini family."
+
+header:
+  overlay_image: /assets/images/estate-1.jpg
+  overlay_filter: 0.5
+  title: false
 ---
+
+{% include character-content.html %}

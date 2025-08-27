@@ -4,6 +4,19 @@ title: Fritz Reinhardt
 faction:
   sort: Reinhardt
   given: Reinhardt
+  sort-role: "TODO"
+  given-role: "TODO"
+
+standings:
+  - name: "TODO"
+    desc: "TODO"
+
+paragraphs:
+  - title: "Personality"
+    element: "TODO"
+  - title: "Personal Life"
+    element: "TODO"
+
 
 parents:
   - name: "Albrecht Reinhardt"
@@ -31,5 +44,7 @@ char_data:
   - element_title: "Eyes"
     element: ""
 
-excerpt: "The betrothed of Elena Del Vecchio. Despite the prestige of the union, this pairing is shrouded in controversy due to past events involving Francesca Santini and Karl Reinhardt."
+blurb: "The betrothed of Elena Del Vecchio. Despite the prestige of the union, this pairing is shrouded in controversy due to past events involving Francesca Santini and Karl Reinhardt."
 ---
+
+{% include character-content.html %}

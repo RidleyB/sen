@@ -4,9 +4,21 @@ title: Etienne Blanchard
 faction:
   sort: Blanchard
   given: Blanchard
+  sort-role: "TODO"
+  given-role: "TODO"
+
+standings:
+  - name: "TODO"
+    desc: "TODO"
+
+paragraphs:
+  - title: "Personality"
+    element: "TODO"
+  - title: "Personal Life"
+    element: "TODO"
 
 parents:
-  - name: "Philippe Blanchard"
+  - name: "Lucien Blanchard"
     type: "Father"
   - name: "Sophie Blanchard"
     type: "Mother"
@@ -39,5 +51,7 @@ char_data:
   - element_title: "Eyes"
     element: ""
 
-excerpt: "The husband of Giovanna Santini, and aid to her family's financial endeavors. He dutifully following his wife's lead in handling their affairs, and the pair are quite happy."
+blurb: "The husband of Giovanna Santini, and aid to her family's financial endeavors. He dutifully following his wife's lead in handling their affairs, and the pair are quite happy."
 ---
+
+{% include character-content.html %}

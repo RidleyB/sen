@@ -4,6 +4,18 @@ title: Ettore Del Vecchio
 faction:
   sort: Del-Vecchio
   given: Del-Vecchio
+  sort-role: "TODO"
+  given-role: "TODO"
+
+standings:
+  - name: "TODO"
+    desc: "TODO"
+
+paragraphs:
+  - title: "Personality"
+    element: "TODO"
+  - title: "Personal Life"
+    element: "TODO"
 
 partners:
   - name: "Priscilla Del Vecchio"
@@ -31,5 +43,7 @@ char_data:
   - element_title: "Eyes"
     element: ""
 
-excerpt: "Father to Alessandro and Marco Del Vecchio. Jailed for crimes of corruption and theft."
+blurb: "Father to Alessandro and Marco Del Vecchio. Jailed for crimes of corruption and theft."
 ---
+
+{% include character-content.html %}

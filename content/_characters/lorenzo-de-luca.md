@@ -4,6 +4,19 @@ title: Lorenzo De Luca
 faction:
   sort: Other
   given: De Luca
+  sort-role: "TODO"
+  given-role: "TODO"
+
+standings:
+  - name: "TODO"
+    desc: "TODO"
+
+paragraphs:
+  - title: "Personality"
+    element: "TODO"
+  - title: "Personal Life"
+    element: "TODO"
+
 
 siblings:
   - name: "Fabrizio De Luca"
@@ -29,5 +42,7 @@ char_data:
   - element_title: "Eyes"
     element: ""
 
-excerpt: "One of the four De Luca brothers."
+blurb: "One of the four De Luca brothers."
 ---
+
+{% include character-content.html %}

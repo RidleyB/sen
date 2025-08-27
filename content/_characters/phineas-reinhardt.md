@@ -4,6 +4,19 @@ title: Phineas Reinhardt
 faction:
   sort: Reinhardt
   given: Reinhardt
+  sort-role: "TODO"
+  given-role: "TODO"
+
+standings:
+  - name: "TODO"
+    desc: "TODO"
+
+paragraphs:
+  - title: "Personality"
+    element: "TODO"
+  - title: "Personal Life"
+    element: "TODO"
+
 
 parents:
   - name: "Friedrich Reinhardt"
@@ -31,5 +44,7 @@ char_data:
   - element_title: "Eyes"
     element: ""
 
-excerpt: "The youngest son and prospective heir of Friedrich Reinhardt. After the death of his first wife and the failed marriage of Karl, Friedrich was worried about his family's lineage."
+blurb: "The youngest son and prospective heir of Friedrich Reinhardt. After the death of his first wife and the failed marriage of Karl, Friedrich was worried about his family's lineage."
 ---
+
+{% include character-content.html %}

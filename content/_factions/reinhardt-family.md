@@ -26,11 +26,43 @@ Friedrich's younger brother **Albrecht** is married to **Camille**. Together the
 {% include character-relation-table.html char="Albrecht Reinhardt" maxlevel=2 %}
 
 ## History
-The Reinhardt family traces its lineage back through generations of valiant warriors, esteemed commanders, and steadfast defenders of Sen's borders. Founded on principles of duty and honor, the Reinhardts have long been known for their unwavering commitment to protecting the realm and upholding their traditions. Their fierce loyalty to family and their code of conduct have made them a respected and influential family within Sen. However, this commitment to honor and tradition has also led to bouts of pride, stubbornness, and recklessness when their honor is called into question.
 
-The Reinhardt family's longstanding rivalry with the Santinis has fueled tensions in Sen, especially following the failed marriage between Karl and Francesca Santini. The union was intended to cement an alliance between the two noble houses but ultimately ended in tragedy and betrayal, leaving behind a legacy of bitterness and resentment that still lingers. Despite this, the Reinhardts remain active members of the Paladins of Sen, with many members achieving high ranks and contributing to the city's stability and peace.
+### Origins and Early Legacy
+The Reinhardt family began as a human lineage, tracing their roots back to some of the earliest settlers of Sen. From their inception, they established themselves as a family of warriors and protectors, renowned for their mastery of martial arts and weaponry. Their commitment to upholding Sen's laws earned them positions of authority as part of the city's militia, where they served not only as enforcers but also as personal guards to high-ranking officials. 
 
-In addition to their martial prowess, the Reinhardts are known for their mastery of engineering and architecture. Centuries ago, they played a pivotal role in the construction of prominent civic buildings in Sen, leaving a lasting mark on the city's landscape. Their expertise in building design, fortification, and urban planning has cemented their reputation as master craftsmen and innovators. Despite their rivalry with the Santinis, the Reinhardts continue to uphold their traditions and remain vigilant in defending their honor and protecting their interests.
+Their values of duty and honor were instilled in each generation, creating a legacy of unyielding loyalty to both their family and the protection of Sen. Over time, their influence grew as they forged powerful weapons and armor, becoming expert blacksmiths and architects who designed many of the fortifications and defensive structures across Sen.
+
+### The Leonin Legacy
+At a pivotal point in the family's history, their bloodline was forever altered through a marriage between a Reinhardt scion and a Leonin warrior from a distant realm. This union brought the strength and ferocity of the Leonin into the Reinhardt family, producing hybrid offspring who possessed the physical prowess of their Leonin ancestors and the tactical brilliance of their human forebears. 
+
+The blending of these two lineages made the Reinhardts even more formidable. Their hybrid descendants, marked by leonine features, heightened senses, and unparalleled combat skills, became revered as elite warriors within Sen. This hybridization strengthened their influence over Sen's militia forces and allowed them to expand their role in enforcing the city's laws.
+
+### The Order of the Open Hand
+For generations, members of the Reinhardt family have held laudible positions within the Order of the Open Hand. The Reinhardts' involvement with the Order began during a time of great turmoil when Sen first established its connection to the Astral Plane. Their expertise in both martial and magical combat made them invaluable to the Order's mission of protecting the city from extraplanar dangers.
+
+This deep connection with the Order further solidified their role as defenders of Sen. While most Reinhardts served as militia leaders or guards within the city, those selected to join the Order of the Open Hand were seen as exemplars of the family's values of duty, honor, and sacrifice.
+
+### Master Craftsmanship
+Beyond their martial prowess, the Reinhardts are known for their skills as master craftspeople. They have long maintained forges that produce some of the finest weapons, armor, and enchanted items in Sen. Their forgemasters have worked alongside mages from the Collegium Arcanum to craft both physical and magical armaments for Sen's defenders.
+
+Many of Sen's most iconic structures, from battlements to towers, were designed by Reinhardt architects. Their keen understanding of defense and combat allowed them to craft key holds at the gateway entrances to the city that have withstood and contained numerous threats throuhgout the city's history. This mastery of both the forge and the battlefield earned the Reinhardts great respect from other aristocratic families.
+
+### The Failed Marriage
+A more recent chapter in the Reinhardt family's history was marred by the ill-fated marriage between Karl Reinhardt, son of the current patriarch Friedrich Reinhardt, and Francesca Santini, the eldest daughter of Viola Santini. The union, initially seen as a way to consolidate power between two of Sen's most influential families, ended in bitter failure.
+
+The reasons for the marriage's dissolution remain shrouded in rumor, with some claiming irreconcilable personal differences, while others whisper of political machinations and betrayal. Regardless of the cause, the outcome left both families embittered, sparking a rivalry that has persisted for years. The Reinhardts and the Santinis, once potential allies, now exist in a state of tense detente, with open hostility only avoided through the careful diplomacy of Sen's ruling elite. 
+
+The failed marriage has left both families licking their wounds, their interactions marked by subtle power plays and mistrust. The Reinhardts, with their strict code of honor, took the divorce as a personal slight, and the animosity between the two houses has only deepened in recent years.
+
+### Recent History and Current Leadership
+Under the leadership of Friedrich Reinhardt, the family has maintained its position as one of the most powerful in Sen. Friedrich, a battle-hardened warrior and a master tactician, has steered the family through political intrigue and external threats. However, the failed marriage between Karl and Francesca, as well as growing unrest in the city due to the Violet Lady, have tested the family's resolve.
+
+The Reinhardts remain committed to their roles as defenders of Sen, but their honor-bound traditions have sometimes led to tension with the city's other families, who view the Reinhardts' strict code as outdated. Friedrich, though proud of his family's history, is acutely aware of the delicate balance they must maintain to preserve their power in an ever-shifting political landscape.
+
+### Legacy
+The Reinhardt family's history is one of honor, duty, and combat. Their influence in Sen's militia and their deep connection to the Order of the Open Hand have cemented their place in the city's upper echelons. While their unwavering sense of honor has earned them respect, it has also made them prone to pride and recklessness, particularly when their reputation is at stake. 
+
+The family's future now lies in the hands of Friedrich Reinhardt and his children, as they navigate an increasingly volatile political world where both old rivalries and new threats, such as the Violet Lady, could challenge their legacy.
 
 ## Politics
 The Reinhardt family is driven by a code of martial honor and duty, prioritizing loyalty, discipline, and protection of the realm. Their history of service in the Order of the Open Hand and contributions to Sen's defense highlight their commitment to these values. The Reinhardts believe in a structured, duty-bound society where honor and responsibility guide actions, ensuring the city's safety and integrity.

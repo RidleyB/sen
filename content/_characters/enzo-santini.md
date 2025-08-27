@@ -4,6 +4,18 @@ title: Enzo Santini
 faction:
   sort: Santini
   given: Santini
+  sort-role: "TODO"
+  given-role: "TODO"
+
+standings:
+  - name: "TODO"
+    desc: "TODO"
+
+paragraphs:
+  - title: "Personality"
+    element: "TODO"
+  - title: "Personal Life"
+    element: "TODO"
 
 partners:
   - name: "Lucia Santini"
@@ -33,5 +45,7 @@ char_data:
   - element_title: "Eyes"
     element: ""
 
-excerpt: "Ezno Santini was a respected figure in Sen's political and social circles, known for his keen intellect and unwavering dedication to his family. He was a shrewd strategist and a skilled negotiator. "
+blurb: "Ezno Santini was a respected figure in Sen's political and social circles, known for his keen intellect and unwavering dedication to his family. He was a shrewd strategist and a skilled negotiator. "
 ---
+
+{% include character-content.html %}

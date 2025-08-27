@@ -27,18 +27,18 @@ The work of the Discovery pioneers was fraught with peril. They ventured into po
 
 > "We arrived in Vordara amidst the devastation of war. The Giff, fierce and disciplined, spoke of their ongoing conflict with the ruthless Thri-kreen. It seems we must begin evacuation efforts as soon as possible."
 >
-> — Log of Captain E. Penholdt, Vordara Expedition
+> - Log of Captain E. Penholdt, Vordara Expedition
 
 > "Day 15 stranded at sea. We've seen a number of vessels on the horizon now, but have been unable to hail their attention for rescue...if they even would. We just need to hold out a few more days, until resupply attempts to establish contact. Until then... we're on quarter rations. What I wouldn't give for a nice roast chicken... or maybe one of those gulls that won't shut their beaks!"
 >
-> — Diary of Explorer Q. Toulouse, Saphor Mission
+> - Diary of Explorer Q. Toulouse, Saphor Mission
 
 ### Expansion and Achievements
 As the guild's missions became more successful, they opened numerous gateways to new worlds, each adding to the cultural tapestry of Sen. Each successful mission was commemorated with a new star added to the guild's celestial map, displayed prominently in the Astral Spire, their headquarters. The guild maintained a comprehensive archive of adventure logs, artifacts, and maps, which remain a valuable resource for scholars and explorers.
 
 > "The Plasmoids of Plibt are unlike any beings we've encountered. Their fluid forms and unique perspectives on existence challenge our understanding of life itself. When we first approached them, our initial attempts at verbal communication were met with a single, repeated sound: 'Plibt.' It seems to be their only auditory response, as they prefer telepathic communication. Thus, we have named their world Plibt."
 >
-> — Research Log of Alchemist L. Voss, Plibt Study
+> - Research Log of Alchemist L. Voss, Plibt Study
 
 ## Legacy
 Many of the races present in Sen today owe their integration to the efforts of the Guild of Discovery pioneers. The guild's pioneering spirit and dedication to discovery and inclusion have left an indelible mark on the city's history and culture. Their emblem, a starburst with an open gateway at its center, symbolizes exploration and unity.
@@ -73,9 +73,9 @@ Below are some excerpts pulled from various adventurers logs during the Era of D
 
 > "Our initial attempts to communicate with the natives of Sssarvass were met with frustration and misunderstanding. It took time and patience, but once the language barrier was broken, we found a deeply spiritual and complex society."
 >
-> — Field Notes of Arch-magus L. Volung, Sssarvass Expedition
+> - Field Notes of Arch-magus L. Volung, Sssarvass Expedition
 
 > "The jungles of Zaratal teem with life, and the Tabaxi move through it with unmatched grace. Their stories and artistry will enrich Sen's cultural tapestry, adding new dimensions to our understanding of the world."
 >
-> — Field Notes of Discovery Mage F. Montaigne, Zaratal Expedition
+> - Field Notes of Discovery Mage F. Montaigne, Zaratal Expedition
 {% endcomment %}

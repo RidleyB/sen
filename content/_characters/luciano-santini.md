@@ -4,6 +4,19 @@ title: Luciano Santini
 faction:
   sort: Santini
   given: Santini
+  sort-role: "TODO"
+  given-role: "TODO"
+
+standings:
+  - name: "TODO"
+    desc: "TODO"
+
+paragraphs:
+  - title: "Personality"
+    element: "TODO"
+  - title: "Personal Life"
+    element: "TODO"
+
 
 parents:
   - name: "Viola Santini"
@@ -40,6 +53,4 @@ char_data:
 blurb: "Second youngest child of Viola Santini. The only son of Viola, Luciano is often regarded as the black sheep of the family. He is disinterested and ineffectual when it comes to family affairs, lacking ambition and the necessary skills to involve himself in the family's enterprises."
 ---
 
-{{ page.blurb }}
-
-<!--more-->
+{% include character-content.html %}

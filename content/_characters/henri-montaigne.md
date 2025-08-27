@@ -4,6 +4,19 @@ title: Henri Montaigne
 faction:
   sort: Montaigne
   given: Montaigne
+  sort-role: "TODO"
+  given-role: "TODO"
+
+standings:
+  - name: "TODO"
+    desc: "TODO"
+
+paragraphs:
+  - title: "Personality"
+    element: "TODO"
+  - title: "Personal Life"
+    element: "TODO"
+
 
 siblings:
   - name: "Aurelie Del Vecchio"
@@ -35,5 +48,7 @@ char_data:
   - element_title: "Eyes"
     element: ""
 
-excerpt: "Patriarch of the Montaigne family, renowned for his charm and charisma. He is a skilled orator and often serves as a mediator between rival factions within Sen's political elite."
+blurb: "Patriarch of the Montaigne family, renowned for his charm and charisma. He is a skilled orator and often serves as a mediator between rival factions within Sen's political elite."
 ---
+
+{% include character-content.html %}

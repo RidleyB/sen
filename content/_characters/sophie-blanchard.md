@@ -4,9 +4,22 @@ title: Sophie Blanchard
 faction:
   sort: Blanchard
   given: Muller
+  sort-role: "TODO"
+  given-role: "TODO"
+
+standings:
+  - name: "TODO"
+    desc: "TODO"
+
+paragraphs:
+  - title: "Personality"
+    element: "TODO"
+  - title: "Personal Life"
+    element: "TODO"
+
 
 partners:
-  - name: "Philippe Blanchard"
+  - name: "Lucien Blanchard"
     type: "Husband"
 
 children:
@@ -29,5 +42,7 @@ char_data:
   - element_title: "Eyes"
     element: ""
 
-excerpt: "Wife of Philippe Blanchard, and mother to Isabelle and Michel."
+blurb: "Wife of Lucien Blanchard, and mother to Isabelle and Michel."
 ---
+
+{% include character-content.html %}

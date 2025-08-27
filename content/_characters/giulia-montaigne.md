@@ -4,6 +4,19 @@ title: Giulia Montaigne
 faction:
   sort: Montaigne
   given: Santini
+  sort-role: "TODO"
+  given-role: "TODO"
+
+standings:
+  - name: "TODO"
+    desc: "TODO"
+
+paragraphs:
+  - title: "Personality"
+    element: "TODO"
+  - title: "Personal Life"
+    element: "TODO"
+
 
 partners:
   - name: "Henri Montaigne"
@@ -29,5 +42,7 @@ char_data:
   - element_title: "Eyes"
     element: ""
 
-excerpt: "Wife to Henri Montaigne and mother to Amelie. Giulia is a cousin of Viola."
+blurb: "Wife to Henri Montaigne and mother to Amelie. Giulia is a cousin of Viola."
 ---
+
+{% include character-content.html %}

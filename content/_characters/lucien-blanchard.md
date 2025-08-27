@@ -1,5 +1,5 @@
 ---
-title: Michel Blanchard
+title: Lucien Blanchard
 
 faction:
   sort: Blanchard
@@ -18,15 +18,15 @@ paragraphs:
     element: "TODO"
 
 
-parents:
-  - name: "Lucien Blanchard"
-    type: "Father"
+partners:
   - name: "Sophie Blanchard"
-    type: "Mother"
+    type: "Wife"
 
-siblings:
+children:
   - name: "Isabelle Santini"
-    type: Sister
+    type: "Daughter"
+  - name: "Michel Blanchard"
+    type: "Son"
 
 char_data:
   - element_title: "Pronouns"
@@ -44,7 +44,7 @@ char_data:
   - element_title: "Eyes"
     element: ""
 
-blurb: "Younger brother to Isabelle Santini. The son of Lucien and Sophie Blanchard."
+blurb: "Patriarch of the Blanchard family, a renowned scholar and intellectual. He is respected for his wisdom and foresight in matters of governance."
 ---
 
 {% include character-content.html %}

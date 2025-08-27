@@ -4,6 +4,19 @@ title: Karl Reinhardt
 faction:
   sort: Reinhardt
   given: Reinhardt
+  sort-role: "TODO"
+  given-role: "TODO"
+
+standings:
+  - name: "TODO"
+    desc: "TODO"
+
+paragraphs:
+  - title: "Personality"
+    element: "TODO"
+  - title: "Personal Life"
+    element: "TODO"
+
 
 parents:
   - name: "Friedrich Reinhardt"
@@ -33,5 +46,7 @@ char_data:
   - element_title: "Eyes"
     element: ""
 
-excerpt: "Karl is a skilled diplomat, driven by desires to uphold his family's legacy in Sen. His failed marriage with Francesca Santini left him cold-hearted, though he conceals his true feelings especially in diplomatic dealings with the Santini family."
+blurb: "Karl is a skilled diplomat, driven by desires to uphold his family's legacy in Sen. His failed marriage with Francesca Santini left him cold-hearted, though he conceals his true feelings especially in diplomatic dealings with the Santini family."
 ---
+
+{% include character-content.html %}

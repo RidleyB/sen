@@ -4,6 +4,18 @@ title: Caterina Santini
 faction:
   sort: Santini
   given: Santini
+  sort-role: "TODO"
+  given-role: "TODO"
+
+standings:
+  - name: "TODO"
+    desc: "TODO"
+
+paragraphs:
+  - title: "Personality"
+    element: "TODO"
+  - title: "Personal Life"
+    element: "TODO"
 
 parents:
   - name: "Salvatore Russo"
@@ -44,6 +56,4 @@ char_data:
 blurb: "Youngest child of Viola Santini. Caterina is known for her ability to handle herself in delicate situations with finesse and grace. She is new to the political scene, emerging with her newlywed husband Fabrizio de Luca."
 ---
 
-{{ page.blurb }}
-
-<!--more-->
+{% include character-content.html %}

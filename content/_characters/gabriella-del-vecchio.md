@@ -4,6 +4,19 @@ title: Gabriella Del Vecchio
 faction:
   sort: Del-Vecchio
   given: Del-Vecchio
+  sort-role: "TODO"
+  given-role: "TODO"
+
+standings:
+  - name: "TODO"
+    desc: "TODO"
+
+paragraphs:
+  - title: "Personality"
+    element: "TODO"
+  - title: "Personal Life"
+    element: "TODO"
+
 
 parents:
   - name: "Alessandro Del Vecchio"
@@ -27,5 +40,6 @@ char_data:
   - element_title: "Eyes"
     element: ""
 
-excerpt: "Alessandro's daughter, a skilled diplomat and negotiator who plays a key role in her family's political maneuverings."
+blurb: "Alessandro's daughter, a skilled diplomat and negotiator who plays a key role in her family's political maneuverings."
 ---
+{% include character-content.html %}

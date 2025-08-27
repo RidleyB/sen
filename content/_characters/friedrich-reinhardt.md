@@ -4,6 +4,19 @@ title: Friedrich Reinhardt
 faction:
   sort: Reinhardt
   given: Reinhardt
+  sort-role: "TODO"
+  given-role: "TODO"
+
+standings:
+  - name: "TODO"
+    desc: "TODO"
+
+paragraphs:
+  - title: "Personality"
+    element: "TODO"
+  - title: "Personal Life"
+    element: "TODO"
+
 
 siblings:
   - name: "Albrecht Reinhardt"
@@ -37,5 +50,7 @@ char_data:
   - element_title: "Eyes"
     element: ""
 
-excerpt: "Head of the Reinhardt family, a seasoned politician with a talent for manipulation and intrigue. He has a reputation for ruthlessness in achieving his family's goals."
+blurb: "Head of the Reinhardt family, a seasoned politician with a talent for manipulation and intrigue. He has a reputation for ruthlessness in achieving his family's goals."
 ---
+
+{% include character-content.html %}

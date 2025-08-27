@@ -8,4 +8,3 @@ title: Verdyth
 
 <!--more-->
 
-<div class="todo">Continued info about world.</div>

@@ -4,6 +4,19 @@ title: Nina Reinhardt
 faction:
   sort: Reinhardt
   given: Bianchi
+  sort-role: "TODO"
+  given-role: "TODO"
+
+standings:
+  - name: "TODO"
+    desc: "TODO"
+
+paragraphs:
+  - title: "Personality"
+    element: "TODO"
+  - title: "Personal Life"
+    element: "TODO"
+
 
 partners:
   - name: "Friedrich Reinhardt"
@@ -31,5 +44,7 @@ char_data:
   - element_title: "Eyes"
     element: ""
 
-excerpt: "A recent addition to the Reinhardts, Nina is the second wife to Friedrich, scion of their house. Together they begat Phineas, the new heir to the Reinhardt dynasty."
+blurb: "A recent addition to the Reinhardts, Nina is the second wife to Friedrich, scion of their house. Together they begat Phineas, the new heir to the Reinhardt dynasty."
 ---
+
+{% include character-content.html %}
