@@ -1,0 +1,18 @@
+{% capture urlContentMethod %}expand('{{ include.post.url }}'){% endcapture %}
+{% capture titleContentMethod %}expand('{{ include.title | slugify }}'){% endcapture %}
+
+{% if include.post %}
+
+<div class="collapsible" onclick="{{ urlContentMethod }}"><h2 id="{{ include.post.title | slugify }}" style="border-bottom: 0px solid black; padding-top: 0.5em; padding-bottom: 0.5em; margin-top: 0.3em;">{{ include.post.title }}</h2></div>
+<div class="page__subtitle"></div>
+<div class="collapsible_content" id="{{ include.post.url }}">{{ include.post.excerpt }}
+</div>
+
+{% else %}
+
+<div class="collapsible" onclick="{{ titleContentMethod }}"><h2 id="{{ include.title | slugify | append: "title" }}" style="border-bottom: 0px solid black; padding-top: 0.5em; padding-bottom: 0.5em; margin-top: 0.3em;">{{ include.title }}</h2></div>
+<div class="page__subtitle"></div>
+<div class="collapsible_content" id="{{ include.title | slugify }}">{{ include.content | markdownify }}
+</div>
+
+{% endif %}

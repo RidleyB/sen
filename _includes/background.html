@@ -1,0 +1,15 @@
+{% for post in site.other reversed  %}
+{% capture post_name %}{{ post.title | downcase }}{% endcapture %}
+{% capture include_name %}{{ include.name | downcase }}{% endcapture %}
+{% if post.type %}
+{% if post.type contains "background" %}
+{% if post_name contains include_name %}
+{% if include.collapsible %}
+<div>{% include collapsible.html post=post %}</div>
+{% else %}
+<div class="bgbg">{{ post.content }}</div>
+{% endif %}
+{% endif %}
+{% endif %}
+{% endif %}
+{% endfor %}
