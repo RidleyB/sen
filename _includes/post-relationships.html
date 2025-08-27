@@ -1,0 +1,4 @@
+{% if page.char_data %}
+  {% include relationships.html text=page.relationships_text %}
+  {% include relationships-dropdown.html target=page.title %}
+{% endif %}
