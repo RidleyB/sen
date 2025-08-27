@@ -2,20 +2,24 @@
 title: Etienne Blanchard
 
 faction:
-  sort: Blanchard
-  given: Blanchard
-  sort-role: "TODO"
-  given-role: "TODO"
+  sort: "Blanchard"
+  given: "Blanchard"
+  given-role: "Etienne Blanchard serves as a supportive partner in the Santini family's financial and social affairs. He works closely with his wife, Giovanna Santini, aiding in managing their finances and ensuring the smooth operation of the family's holdings. While not a public face of the family, his diligence and reliability make him an indispensable figure behind the scenes for the Santinis."
 
 standings:
-  - name: "TODO"
-    desc: "TODO"
+  - name: "Santini"
+    desc: "Through his marriage to Giovanna, Etienne is loyal to the Santini family's goals and reputation. He supports their social and financial strategies, aligning his efforts with the family's best interests- often more than his own."
+  - name: "Blanchard"
+    desc: "Etienne maintains familial ties with his parents, Lucien and Sophie Blanchard, as well as his sister Isabella. He respects the traditions and status of the Blanchard family while balancing his duties to the Santini household."
+  - name: "Other Major Families"
+    desc: "Etienne's interactions with other major families-Del Vecchio, Montaigne, Reinhardt, De Luca-are primarily through professional or social channels, often in alignment with his wife's initiatives."
 
 paragraphs:
   - title: "Personality"
-    element: "TODO"
+    element: "Etienne is meticulous, intelligent, and grounded. He has a natural affinity for numbers and financial matters, often acting as the stabilizing force behind Giovanna's more public and social endeavors. His steady demeanor complements his wife's leadership style, allowing them to operate as a cohesive team."
   - title: "Personal Life"
-    element: "TODO"
+    element: "Etienne is married to Giovanna Santini, and together they have a daughter, Emilia. While Giovanna has more patience for their precocious and outdoorsy daughter, Etienne struggles to take part in her life."
+
 
 parents:
   - name: "Lucien Blanchard"
