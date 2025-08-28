@@ -2,25 +2,29 @@
 title: Isabella Santini
 
 faction:
-  sort: Santini
-  given: Blanchard
-  sort-role: "While Isabella largely distances herself from the intricate political landscape of the Santini family, her contributions are no less significant. She focuses on providing a stable and nurturing environment for her children, ensuring they are well-prepared for their future roles. Her background as a mage and arcanist also brings a unique perspective to the family, adding an element of magical prowess and scholarly insight."
-  given-role: "TODO"
+  sort: "Santini"
+  given: "Santini"
+  given-role: "Isabella Santini, formerly Isabella Blanchard, brings her scholarly and magical expertise into the Santini household. She is a talented mage and arcanist, collaborating with the Collegium Arcanum on research projects that advance the understanding of magic while maintaining a supportive, stabilizing presence within her family."
 
 standings:
-  - name: "TODO"
-    desc: "TODO"
+  - name: "Santini"
+    desc: "Isabella maintains a cooperative and nurturing relationship with the Santinis, particularly through her husband Paolo. She largely avoids political machinations but ensures the household remains stable and productive."
+  - name: "Blanchard"
+    desc: "Being a Blanchard by birth, Isabella retains familial ties and connections, leveraging her background to strengthen her marriage and provide support for her children."
+  - name: "Reinhardt"
+    desc: "Interactions are minimal and formal, primarily through social functions or shared interest in academic and magical pursuits."
+  - name: "Montaigne"
+    desc: "Polite and respectful, Isabella engages with the Montaignes on matters of shared interest, particularly concerning scholarly or magical affairs."
+  - name: "Del Vecchio"
+    desc: "Her dealings with the Del Vecchios are courteous and limited, primarily at public or civic events rather than personal or political endeavors."
 
 paragraphs:
   - title: "Personality"
-    element: "TODO"
+    element: "Isabella is intelligent, calm, and methodical. She has a deep passion for magic and research, approaching her work with precision and curiosity. While she avoids political intrigue, her insight and wisdom are valued within her family and by colleagues in the Collegium."
   - title: "Personal Life"
-    element: "Isabella's marriage to Paolo Santini unites two influential families in Sen. Together, they have two children: Riccardo, aged 6, and Lucille, aged 10. Isabella's commitment to her family is evident in her efforts to nurture and educate their children, instilling in them the values of loyalty, duty, and intellectual curiosity."
-  - title: "Professional Pursuits"
-    element: "Isabella is engaged in magical research and experimentation. She collaborates with the Collegium Arcanum, a prestigious institution dedicated to the study of magic, where she works on various projects aimed at expanding the understanding of arcane arts. "
-  - title: "Family Dynamics"
-    element: "Isabella's relationship with her husband, Paolo, is one of mutual support and respect. While Paolo navigates the political complexities of the Santini family, Isabella provides a grounding presence, ensuring that their home remains a place of stability and warmth."
-
+    element: "Isabella is married to Paolo Santini, brother of Viola Santini. Together, they have two children: Lucille (10) and Riccardo (6). She focuses on creating a stable, nurturing home and provides guidance to her children in preparation for their future roles in Sen's society."
+  - title: "Role in the Family"
+    element: "Isabella serves as a stabilizing influence within the Santini household. While she does not directly participate in political matters, she supports Paolo in his duties and contributes her knowledge of magic to the family's long-term legacy. Her dedication to scholarship and arcane study adds a respected layer of intellectual prestige to the Santini name."
 
 parents:
   - name: "Phillipe Blanchard"

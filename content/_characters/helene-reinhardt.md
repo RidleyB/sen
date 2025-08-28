@@ -1,23 +1,28 @@
 ---
 title: Helene Reinhardt
 
-dead: true
 faction:
-  sort: Reinhardt
-  given: Wagner
-  sort-role: "TODO"
-  given-role: "TODO"
+  sort: "Reinhardt"
+  given: "Reinhardt"
+  given-role: "Late wife of Friedrich Reinhardt and a prominent socialite, Helene played a role in elevating the family's public presence during her lifetime."
 
 standings:
-  - name: "TODO"
-    desc: "TODO"
+  - name: "Reinhardt"
+    desc: "Respected as the late matriarch, her legacy lives on through her only son, Karl."
+  - name: "Santini"
+    desc: "Held resentment for the Santini's regarding the treatment of her son's engagement to Francesca Santini, and how it was handled."
+  - name: "Montaigne"
+    desc: "Maintained polite but minimal connections with the Montaignes."
+  - name: "Del Vecchio"
+    desc: "Interacted occasionally for social functions, maintaining courteous relations."
+  - name: "Blanchard"
+    desc: "Hosted joint events and maintained cordial social interactions."
 
 paragraphs:
   - title: "Personality"
-    element: "TODO"
+    element: "Helene Reinhardt was known for her charm, flair for socializing, and ability to host memorable gatherings that bolstered the Reinhardt family's prestige."
   - title: "Personal Life"
-    element: "TODO"
-
+    element: "Her marriage to Friedrich was socially and politically significant. She passed away twelve years ago, and her absence led Friedrich to remarry Nina shortly after her funeral."
 
 partners:
   - name: "Friedrich Reinhardt"
@@ -43,7 +48,7 @@ char_data:
   - element_title: "Eyes"
     element: ""
 
-blurb: "Friedrich's wife and a formidable presence in Sen's social scene. She is known for her extravagant parties and lavish lifestyle, which serve to bolster her family's influence."
+blurb: "Late wife of Friedrich Reinhardt and a prominent socialite, Helene played a role in elevating the family's public presence during her lifetime."
 ---
 
 {% include character-content.html %}

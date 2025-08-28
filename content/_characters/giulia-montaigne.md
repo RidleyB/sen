@@ -2,20 +2,27 @@
 title: Giulia Montaigne
 
 faction:
-  sort: Montaigne
-  given: Santini
-  sort-role: "TODO"
-  given-role: "TODO"
+  sort: "Montaigne"
+  given: "Montaigne"
+  given-role: "Wife of Henri Montaigne and mother to Amelie. Giulia is a cousin of Viola Santini and serves as a quiet presence within the Montaigne household."
 
 standings:
-  - name: "TODO"
-    desc: "TODO"
+  - name: "Montaigne"
+    desc: "Respected within the Montaigne family for her support of Henri and care for their daughter Amelie."
+  - name: "Santini"
+    desc: "Maintains family ties through her cousin Viola, occasionally serving as a point of connection between the families."
+  - name: "Reinhardt"
+    desc: "Has little direct interaction with the Reinhardts, though maintains polite distance."
+  - name: "Del Vecchio"
+    desc: "Treats the Del Vecchios with courtesy but is not involved in political dealings."
+  - name: "Blanchard"
+    desc: "Maintains polite relations."
 
 paragraphs:
   - title: "Personality"
-    element: "TODO"
+    element: "Poised and empathetic, Giulia provides calm and support within the Montaigne household."
   - title: "Personal Life"
-    element: "TODO"
+    element: "Focused on her family, she ensures her daughter Amelie is cared for and supports Henri in his pursuits."
 
 
 partners:
@@ -23,7 +30,7 @@ partners:
     type: "Husband"
 
 children:
-  - name: "Isabelle Santini"
+  - name: "Amelie Montaigne"
     type: "Daughter"
 
 char_data:

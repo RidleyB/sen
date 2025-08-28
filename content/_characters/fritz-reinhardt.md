@@ -8,7 +8,7 @@ faction:
 
 standings:
   - name: "Santini"
-    desc: "The Reinhardt–Santini relationship is precarious, made worse by the history between Francesca Santini and Karl Reinhardt. Fritz himself carries this weight, seen as a living reminder of that fraught legacy. This casts suspicion and bitterness on his betrothal to Elena Del Vecchio, further upsetting the Santini branch of the family."
+    desc: "The Reinhardtâ€“Santini relationship is precarious, made worse by the history between Francesca Santini and Karl Reinhardt. Fritz himself carries this weight, seen as a living reminder of that fraught legacy. This casts suspicion and bitterness on his betrothal to Elena Del Vecchio, further upsetting the Santini branch of the family."
   - name: "Del Vecchio"
     desc: "The Del Vecchio family's acceptance of Fritz is cautious and strained. Sofia Del Vecchio, Elena's mother and sister to Viola Santini, harbors deep unease about the arrangement, torn between duty to her family's future and resentment toward the Reinhardts. Elena herself is caught between loyalty to her mother and the practical weight of the union."
   - name: "Reinhardt"
@@ -25,8 +25,6 @@ paragraphs:
     element: "Privately, Fritz seeks genuine companionship with Elena, though the shadow of the Santini-Reinhardt feud looms heavily over them. He is aware of Sofia Del Vecchio's distress but feels powerless to alter the course set by his family. This conflict often weighs on him, leaving him conflicted between personal affection and familial duty."
   - title: "Role in the Family"
     element: "Though not the central figure of Reinhardt power, Fritz's engagement represents a significant political move orchestrated by his elders. His role is less about his personal ambitions and more about serving as a living bridge between Reinhardt and Del Vecchio interests-whether he desires it or not."
-
-
 
 parents:
   - name: "Albrecht Reinhardt"
