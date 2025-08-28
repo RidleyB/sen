@@ -2,20 +2,29 @@
 title: Francesca Santini
 
 faction:
-  sort: Santini
-  given: Santini
-  sort-role: "Francesca Santini is the eldest child of Viola Santini and serves as a lead enforcer in the Santini boroughs. Her skills in combat and diplomacy make her a key figure in the family's power struggles."
-  given-role: "TODO"
+  sort: "Santini"
+  given: "Santini"
+  given-role: "Francesca Santini is the eldest child of Viola Santini, balancing the weighty responsibilities of her family with exceptional skill. She serves as both a leader in managing the family's business interests and as a commanding presence in the security and defense of Santini-controlled territories within Sen. Francesca is known for her decisiveness, strategic acumen, and the ability to inspire loyalty while commanding respect and fear."
 
 standings:
-  - name: "TODO"
-    desc: "TODO"
+  - name: "Santini"
+    desc: "Francesca is fiercely loyal to her family and works tirelessly to uphold the Santini name. She is respected for her leadership and tactical abilities, making her an essential pillar of the family."
+  - name: "Del Vecchio"
+    desc: "Relations with the Del Vecchios are primarily professional and cautious. Francesca respects Alessandro's efforts to maintain family integrity but remains watchful of potential political maneuvering."
+  - name: "Reinhardt"
+    desc: "Interactions with the Reinhardt family are tenuous; Francesca recognizes the Reinhardts' influence but keeps personal distance while maintaining formal respect. Her past his marred by a failed marriage to Karl Reinhardt; an event that still mars the relationships between the two houses."
+  - name: "Montaigne"
+    desc: "Francesca has cordial relations with the Montaignes through shared interests in city governance and stability, though she keeps her primary loyalty to the Santinis."
+  - name: "Blanchard"
+    desc: "Her ties to the Blanchard family are limited and largely social. Francesca maintains politeness but does not actively engage with their affairs."
 
 paragraphs:
   - title: "Personality"
-    element: "Francesca is known for her commanding demeanor, strategic mind, and formidable presence. She exudes confidence and authority, earning respect and fear among her peers. While she presents a charming exterior, it conceals a keen mind adept at manipulating situations to her advantage. Her ability to navigate complex political landscapes and her prowess in combat make her a crucial asset to the Santini family."
+    element: "Francesca is disciplined, strategic, and commanding. She possesses a natural authority that makes her a formidable presence in both political and martial contexts. She is observant, often anticipating threats and opportunities before others."
   - title: "Personal Life"
-    element: "Francesca's history includes a notable failed marriage to Karl Reinhardt. The bitter end to their affair left both houses frustrated and angry, and the repercussions of that union continue to be felt today. Despite the failed marriage, Francesca remains a central figure in the Santini family, her ability to navigate political landscapes and her combat prowess making her indispensable."
+    element: "As the eldest child of Viola Santini, Francesca has long carried the weight of her family's expectations. She is dedicated to maintaining both the family's honor and security, often putting duty above personal leisure. Her social life is tightly intertwined with her responsibilities, leaving little room for indulgence."
+  - title: "Role in the Family"
+    element: "Francesca acts as a key leader within the Santini family, managing both business affairs and the family's security operations. Her experience in strategy and enforcement ensures that the Santini name remains influential and respected across Sen, bridging both political and martial domains."
 
 parents:
   - name: "Viola Santini"

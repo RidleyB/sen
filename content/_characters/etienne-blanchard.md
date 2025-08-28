@@ -12,7 +12,7 @@ standings:
   - name: "Blanchard"
     desc: "Etienne maintains familial ties with his parents, Lucien and Sophie Blanchard, as well as his sister Isabella. He respects the traditions and status of the Blanchard family while balancing his duties to the Santini household."
   - name: "Other Major Families"
-    desc: "Etienne's interactions with other major families-Del Vecchio, Montaigne, Reinhardt, De Luca-are primarily through professional or social channels, often in alignment with his wife's initiatives."
+    desc: "Etienne's interactions with other major families -Del Vecchio, Montaigne, Reinhardt- are primarily through professional or social channels, often in alignment with his wife's initiatives."
 
 paragraphs:
   - title: "Personality"
