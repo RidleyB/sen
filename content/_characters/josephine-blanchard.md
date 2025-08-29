@@ -1,5 +1,5 @@
 ---
-title: Lucien Blanchard
+title: Josephine Blanchard
 
 faction:
   sort: Blanchard
@@ -17,16 +17,15 @@ paragraphs:
   - title: "Personal Life"
     element: "TODO"
 
-
 partners:
-  - name: "Sophie Blanchard"
-    type: "Wife"
+  - name: "Michel Blanchard"
+    type: "Husband"
 
 children:
-  - name: "Isabelle Santini"
-    type: "Daughter"
-  - name: "Michel Blanchard"
-    type: "Son"
+  - name: ""
+    type: ""
+  - name: ""
+    type: ""
 
 char_data:
   - element_title: "Pronouns"
@@ -44,7 +43,7 @@ char_data:
   - element_title: "Eyes"
     element: ""
 
-blurb: "Patriarch of the Blanchard family, a renowned scholar and intellectual. He is respected for his wisdom and foresight in matters of governance."
+blurb: "Wife of Michel Blanchard."
 ---
 
 {% include character-content.html %}

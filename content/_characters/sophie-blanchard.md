@@ -17,9 +17,8 @@ paragraphs:
   - title: "Personal Life"
     element: "TODO"
 
-
 partners:
-  - name: "Lucien Blanchard"
+  - name: "Philippe Blanchard"
     type: "Husband"
 
 children:

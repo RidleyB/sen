@@ -11,9 +11,9 @@ partners:
 
 children:
   - name: "Isabelle Santini"
-    type: "Daughter"
+    type: Daughter
   - name: "Michel Blanchard"
-    type: "Son"
+    type: Son
 
 char_data:
   - element_title: "Pronouns"

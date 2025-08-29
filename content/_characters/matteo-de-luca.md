@@ -17,7 +17,6 @@ paragraphs:
   - title: "Personal Life"
     element: "TODO"
 
-
 siblings:
   - name: "Lorenzo De Luca"
     type: Brother

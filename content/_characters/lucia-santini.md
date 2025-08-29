@@ -2,21 +2,19 @@
 title: Lucia Santini
 
 faction:
-  sort: Santini
-  given: Santini
-  sort-role: "TODO"
-  given-role: "TODO"
+  sort: "Santini"
+  given: "Santini"
+  given-role: "Wife of Enzo Santini, the late patriarch. Mother of Viola, Paolo, and Sofia (now Sofia Del Vecchio). Remembered as the epitome of grace, elegance, and generosity, a beloved matriarch of the Santini family."
 
 standings:
-  - name: "TODO"
-    desc: "TODO"
+  - name: "Santini"
+    desc: "Remembered fondly within her family as a guiding presence and compassionate mother whose warmth continues to define the Santini legacy."
+  - name: "Del Vecchio"
+    desc: "Respected and honored by the Del Vecchio family, especially as her daughter Sofia married into their line. They still hold her as an example of noble grace."
 
 paragraphs:
-  - title: "Personality"
-    element: "TODO"
-  - title: "Personal Life"
-    element: "TODO"
-
+  - title: "Legacy"
+    element: "Lucia Santini passed away of old age alongside her husband, Enzo. Though not a living figure, her memory carries weight within Sen. She remains a symbol of kindness and elegance, and her children’s lives reflect the values she instilled."
 
 partners:
   - name: "Enzo Santini"

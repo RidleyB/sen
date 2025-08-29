@@ -17,6 +17,9 @@ paragraphs:
   - title: "Personal Life"
     element: "TODO"
 
+partners:
+  - name: "Josephine Blanchard"
+    type: "Wife"
 
 parents:
   - name: "Lucien Blanchard"

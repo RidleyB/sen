@@ -13,18 +13,18 @@ blurb: "With deep roots in the arts and culture, the Blanchards excel in enterta
 
 <!--more-->
 
-While the Blanchard political family may be small in comparison to others, they make up for in wealth and influence, and their name is carried in other corners of Sen as well, Lucien having many cousins himself. The Blanchard name is synonymous with prestige and entertainment.
+While the Blanchard political family may be small in comparison to others, they make up for in wealth and influence, and their name is carried in other corners of Sen as well, Philippe having many cousins himself. The Blanchard name is synonymous with prestige and entertainment.
 
 ## Family Tree
-Lucien is a visionary known for his strategic thinking and ability to bring grand cultural projects to life. Sophie, his steadfast partner, complements him with her refined taste and keen eye for talent, ensuring that every Blanchard endeavor maintains the highest standards of excellence. Their children, Isabelle and Michel, have inherited their parents' dedication to the arts.
+Philippe is a visionary known for his strategic thinking and ability to bring grand cultural projects to life. Sophie, his steadfast partner, complements him with her refined taste and keen eye for talent, ensuring that every Blanchard endeavor maintains the highest standards of excellence. Their children, Isabelle and Michel, have inherited their parents' dedication to the arts.
 
-{% include character-relation-table.html char="Lucien Blanchard" maxlevel=2 %}
+{% include character-relation-table.html char="Philippe Blanchard" maxlevel=2 %}
 
-Lucien Blanchard and his wife Sophie both exude a sophisticated blend of artistic passion and social influence; their family dynamic is one of deep mutual respect and a shared commitment to the arts and community. 
+Philippe Blanchard and his wife Sophie both exude a sophisticated blend of artistic passion and social influence; their family dynamic is one of deep mutual respect and a shared commitment to the arts and community. 
 
 Isabelle Santini, embodies the family's strategic prowess; her marriage to Paolo Santini, an influential figure in Sen's aristocractic community, further bolstered the Blanchards' empire. Isabelle and Paolo's union symbolizes the merging of two powerful legacies, amplifying the family's influence and reach. Their children, Riccardo and Lucille, are the future torchbearers of the Blanchard-Santini lineage, already showing promise in continuing the family's tradition of artistic patronage and community leadership.
 
-Michel Blanchard, the son of Lucien and Sophie, plays a crucial role in the family's endeavors, often taking on the operational aspects of their numerous ventures. While he may not be as prominently in the spotlight as his sister Isabelle, Michel's contributions are invaluable. His keen business sense and dedication ensure the smooth running and financial stability of the family's projects, allowing the Blanchards to maintain their prestigious standing in Sen.
+Michel Blanchard, the son of Philippe and Sophie, plays a crucial role in the family's endeavors, often taking on the operational aspects of their numerous ventures. While he may not be as prominently in the spotlight as his sister Isabelle, Michel's contributions are invaluable. His keen business sense and dedication ensure the smooth running and financial stability of the family's projects, allowing the Blanchards to maintain their prestigious standing in Sen.
 
 
 ## History
@@ -57,7 +57,7 @@ While the Blanchards have generally avoided the more cutthroat power struggles o
 These differences in philosophy have led to public clashes between the families, with each vying for influence in the High Terrace, the prestigious district where many aristocrats reside. Despite the tension, both families have been careful to avoid open hostility, preferring to engage in subtle political maneuvering rather than direct confrontation.
 
 ### The Modern Blanchards and Their Legacy
-Today, the Blanchard family is led by Lucien Blanchard, a visionary artist and political reformer who embodies the family's ideals of progress and cultural enrichment. Under his leadership, the Blanchards have continued to expand their influence, not only within Sen but also across the multiverse. Lucien has spearheaded several initiatives aimed at bringing new talent to the city, fostering connections with artists and intellectuals from other realms.
+Today, the Blanchard family is led by Philippe Blanchard, a visionary artist and political reformer who embodies the family's ideals of progress and cultural enrichment. Under his leadership, the Blanchards have continued to expand their influence, not only within Sen but also across the multiverse. Philippe has spearheaded several initiatives aimed at bringing new talent to the city, fostering connections with artists and intellectuals from other realms.
 
 As the Blanchards look to the future, they remain committed to their dual mission: to preserve the rich cultural heritage of their family and city, while advocating for a more enlightened and progressive society. Their ability to adapt to the changing political landscape, combined with their unwavering dedication to the arts and public service, ensures that the Blanchards will continue to be a dominant force in Sen's cultural and political spheres for generations to come.
 
