@@ -14,11 +14,11 @@ blurb: "The Reinhardt family is a distinguished Leonin house renowned for their 
 <!--more-->
 
 ## Family Tree
-Friedrich Reinhardt, the head of the family, had two sons with two different women; his first wife, Helene, gave birth to Karl. After Helene's death, Friedrich remarried Nina, with whom he had his second son, Phineas. Friedrich's brother, Albrecht Reinhardt, is married to Camille, and together they have a son, Fritz, who is betrothed to Lena Del Vecchio.
+Friedrich Reinhardt, the head of the family, had two sons with two different women; his first wife, Helene, gave birth to Karl. After Helene's death, Friedrich remarried Nina, with whom he had his second son, Phineas.
 
 {% include character-relation-table.html char="Friedrich Reinhardt" maxlevel=2 %}
 
-Twelve years ago, Friedrich's first wife, Helene, passed away due to illness. With little prospect for his eldest son to marry, Friedrich decided to remarry, and shortly after Helene's funeral, he married Nina. Nina soon became pregnant with Phineas, and Karl, beset by emotions surrounding his new family, became a cold and unyielding presence over the years, likely due to his father's perceived abandonment of his future prospects.
+Twelve years ago, Friedrich's first wife, Helene, passed away due to illness. With little prospect for his eldest son to marry, Friedrich decided to remarry, and shortly after Helene's funeral, he married Nina. Nina soon became pregnant with Phineas. Karl, beset by emotions surrounding his new family, became a cold and unyielding presence over the years, likely due to his father's perceived abandonment of his future prospects.
 
 ### Albrecht's Family
 Friedrich's younger brother **Albrecht** is married to **Camille**. Together they had **Fritz**. Fritz is recently betrothed to **Lena Del Vecchio**. 
@@ -33,7 +33,7 @@ The Reinhardt family began as a human lineage, tracing their roots back to some 
 Their values of duty and honor were instilled in each generation, creating a legacy of unyielding loyalty to both their family and the protection of Sen. Over time, their influence grew as they forged powerful weapons and armor, becoming expert blacksmiths and architects who designed many of the fortifications and defensive structures across Sen.
 
 ### The Leonin Legacy
-At a pivotal point in the family's history, their bloodline was forever altered through a marriage between a Reinhardt scion and a Leonin warrior from a distant realm. This union brought the strength and ferocity of the Leonin into the Reinhardt family, producing hybrid offspring who possessed the physical prowess of their Leonin ancestors and the tactical brilliance of their human forebears. 
+At a pivotal point in the family's history, their bloodline was forever altered through a marriage between a Reinhardt scion and a Leonin warrior from a distant world. This union brought the strength and ferocity of the Leonin into the Reinhardt family, producing hybrid offspring who possessed the physical prowess of their Leonin ancestors and the tactical brilliance of their human forebears. 
 
 The blending of these two lineages made the Reinhardts even more formidable. Their hybrid descendants, marked by leonine features, heightened senses, and unparalleled combat skills, became revered as elite warriors within Sen. This hybridization strengthened their influence over Sen's militia forces and allowed them to expand their role in enforcing the city's laws.
 

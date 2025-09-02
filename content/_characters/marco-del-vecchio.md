@@ -2,22 +2,33 @@
 title: Marco Del Vecchio
 
 faction:
-  sort: Del-Vecchio
-  given: Del-Vecchio
-  sort-role: "As the brother of Alessandro Del Vecchio and second in line, Marco plays a crucial role in managing the family's minor affairs. Together with his wife, Sofia, he oversees the financial dealings between the Del Vecchio and Santini families.  His efforts are focused on maintaining the integrity and reputation of the Del Vecchio family throughout Sen."
-  given-role: "TODO"
+  sort: "Del Vecchio"
+  sort-role: "As Alessandro’s younger brother and second-in-command, Marco manages much of the family’s day-to-day operations and serves as a stabilizing force within the Del Vecchio household. He is pragmatic, reliable, and trusted with maintaining delicate alliances."
+  given: "Santini"
+  given-role: "Through his marriage to Sofia Santini, Marco has one foot in the aristocratic Santini legacy. This marriage provides the Del Vecchios with a powerful social link, balancing their mercantile roots with noble prestige."
 
 standings:
-  - name: "TODO"
-    desc: "TODO"
+  - name: "Del Vecchio"
+    desc: "Marco’s loyalty lies foremost with his brother Alessandro and the family’s ongoing redemption. While Alessandro charts the larger political strategy, Marco keeps the gears turning and ensures that their commercial enterprises remain both profitable and clean."
+  - name: "Santini"
+    desc: "Marco’s marriage to Sofia Santini forged a bridge between two rival families. Though not always smooth, this connection grants the Del Vecchios an insider link to the Santini network, something Marco works hard to preserve despite the tensions."
+  - name: "Reinhardt"
+    desc: "The Reinhardts maintain a wary respect toward Marco. His practical nature makes him easier to negotiate with than his brother, but their rivalries and alliances often hinge on Alessandro’s greater policies. Marco does his best to keep things cordial where possible."
+  - name: "Montaigne"
+    desc: "Through his sister-in-law Aurelie Montaigne’s marriage to Alessandro, Marco has secondary ties to the Montaigne family. While not directly engaged in trade himself, Marco recognizes the Montaignes’ influence in commerce and supports mutual ventures when needed."
+  - name: "Blanchard"
+    desc: "Marco treats the Blanchards cautiously. He understands their political maneuvering and prefers to avoid unnecessary friction, though he remains open to opportunities if they strengthen Del Vecchio standing."
 
 paragraphs:
   - title: "Personality"
-    element: "Marco Del Vecchio is a pragmatic and determined individual, characterized by his unwavering dedication to justice and integrity. His experience in bringing his corrupt father to justice has instilled in him a strong sense of duty to root out corruption wherever it may be found. Despite his serious demeanor, Marco is also known for his diplomatic skills and ability to navigate complex social situations. His relationship with Sofia is built on mutual respect and collaboration, allowing them to effectively manage the delicate balance between their respective families."
-  - title: "Rise to Prominence"
-    element: "Marco Del Vecchio's rise to prominence within the family was marked by his pivotal role in exposing and incarcerating his corrupt father. This act not only solidified his position within the family but also demonstrated his commitment to re-establishing the integrity of the Del Vecchio name. His marriage to Sofia further strengthened the bond between the Del Vecchio and Santini families, allowing him to play a key role in the political and financial landscape of Sen."
-  - title: "Role in the Santinis"
-    element: "Through his marriage to Sofia, Marco also manages the Del Vecchio family's dealings with the Santinis. He works closely with Sofia to ensure that the interests of both families are aligned and that their collaborative efforts benefit both houses. His involvement with the Santinis helps to strengthen the bond between the two powerful families, enhancing their influence in Sen."
+    element: "Marco is pragmatic, patient, and measured, often acting as the foil to Alessandro’s more ambitious drive. He prefers steadiness over risk, ensuring that the family remains stable while Alessandro takes bold steps to reform their legacy. His demeanor is approachable, making him an effective negotiator in tense situations."
+  - title: "Personal Life"
+    element: "Marco is married to Sofia Santini, a union that brought legitimacy and noble prestige to the Del Vecchio name. Their marriage is both personal and political, and while genuine affection is present, Marco understands its greater significance in bridging two rival houses. He often works behind the scenes to protect this fragile alliance and shield his wife from the fallout of family disputes."
+  - title: "Role in the Family"
+    element: "Marco functions as Alessandro’s right hand—trusted with administration, logistics, and the quiet diplomacy that sustains the family’s operations. He is not a man of grand vision, but his reliability ensures the Del Vecchio resurgence remains grounded."
+  - title: "Legacy"
+    element: "While Alessandro may be remembered as the reformer who redeemed the Del Vecchios, Marco’s legacy will be as the steady hand who held the family together during the transition. His contributions, though quieter, form the backbone of the family’s long-term stability."
+
 
 
 parents:

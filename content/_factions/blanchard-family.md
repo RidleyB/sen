@@ -51,11 +51,6 @@ The Blanchard family's contributions to Sen's cultural life are unparalleled. Th
 
 Their commitment to public service is not merely symbolic. The Blanchards regularly donate large sums to community projects, sponsoring the construction of public art installations, funding theatre productions, and ensuring that education in the arts remains accessible to all citizens. This devotion to philanthropy has earned them the admiration of the people of Sen, even as it occasionally draws the ire of more conservative aristocrats who view their support for reform with skepticism.
 
-### The Blanchard-Santini Rivalry
-While the Blanchards have generally avoided the more cutthroat power struggles of Sen's aristocracy, they have not been immune to conflict. One of the most notable rivalries in their recent history is with the Santini family. Tensions between the two families emerged over disagreements regarding cultural funding and city-wide initiatives, with the Blanchards advocating for increased funding for the arts and education, while the Santinis prioritized commerce and infrastructure.
-
-These differences in philosophy have led to public clashes between the families, with each vying for influence in the High Terrace, the prestigious district where many aristocrats reside. Despite the tension, both families have been careful to avoid open hostility, preferring to engage in subtle political maneuvering rather than direct confrontation.
-
 ### The Modern Blanchards and Their Legacy
 Today, the Blanchard family is led by Philippe Blanchard, a visionary artist and political reformer who embodies the family's ideals of progress and cultural enrichment. Under his leadership, the Blanchards have continued to expand their influence, not only within Sen but also across the multiverse. Philippe has spearheaded several initiatives aimed at bringing new talent to the city, fostering connections with artists and intellectuals from other realms.
 

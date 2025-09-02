@@ -2,15 +2,22 @@
 title: Lucille Santini
 
 faction:
-  sort: Santini
-  given: Santini
+  sort: "Santini"
+  given: "Santini"
+
+standings:
+  - name: "Santini"
+    desc: "Cherished by her family as a symbol of promise and continuity. Her magical aptitude is a source of pride, though it also sets her apart as someone to be carefully guided."
+  - name: "Blanchard"
+    desc: "Through her mother Isabella, Lucille carries Blanchard blood. She represents a hopeful union of the Santini and Blanchard families, though she is too young to have direct dealings with them."
 
 paragraphs:
   - title: "Personality"
-    element: "Lucille is playful, imaginative, and deeply curious about magic. She often engages in small magical experiments under her mother's guidance, showing a natural aptitude for the arcane arts."
-  - title: "Magical Inclinations"
-    element: "Under Isabella's watchful eye, Lucille's early experiments and studies in magic hint at a promising future. Her potential is evident, and her mother and father will continue to nurture her gift."
-
+    element: "Lucille is deeply curious, especially about magic. She often conducts small experiments under her mother's supervision, showing both boldness and creativity in her approach."
+  - title: "Early Promise"
+    element: "Despite her young age, Lucille demonstrates a natural aptitude for magic. Her affinity mirrors Isabella’s own, strengthening the bond between mother and daughter. These early signs suggest she may one day become a formidable practitioner."
+  - title: "Role in the Family"
+    element: "As Paolo and Isabella’s daughter, Lucille brings renewal to her mother, who finds purpose in nurturing her child’s magical gift. Alongside her younger brother Riccardo, she represents the future of the Santini line, though her destiny seems uniquely tied to arcane pursuits."
 
 parents:
   - name: "Paolo Santini"
