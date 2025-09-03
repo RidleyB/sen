@@ -75,15 +75,3 @@ sidebar:
         url: /factions/order-of-the-open-hand
       - title: Order of the Sacred Eye
         url: /factions/order-of-the-sacred-eye
-  - title: "Other"
-    children:
-      - title: "One-Shot: Crash"
-        url: /crash/
-  - title: Secrets
-    children:
-      - title: "Crash: Script"
-        url: "/devposts/script"
-      - title: "Crash: Challenges"
-        url: "/devposts/challenges"
-      - title: "Crash: Stat Blocks"
-        url: "/devposts/stat-blocks"

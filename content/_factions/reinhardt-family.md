@@ -13,7 +13,7 @@ blurb: "The Reinhardt family is a distinguished Leonin house renowned for their 
 
 <!--more-->
 
-## Family Tree
+## Main Family Tree
 Friedrich Reinhardt, the head of the family, had two sons with two different women; his first wife, Helene, gave birth to Karl. After Helene's death, Friedrich remarried Nina, with whom he had his second son, Phineas.
 
 {% include character-relation-table.html char="Friedrich Reinhardt" maxlevel=2 %}

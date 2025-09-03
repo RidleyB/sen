@@ -15,7 +15,7 @@ blurb: "With deep roots in the arts and culture, the Blanchards excel in enterta
 
 While the Blanchard political family may be small in comparison to others, they make up for in wealth and influence, and their name is carried in other corners of Sen as well, Philippe having many cousins himself. The Blanchard name is synonymous with prestige and entertainment.
 
-## Family Tree
+## Main Family Tree
 Philippe is a visionary known for his strategic thinking and ability to bring grand cultural projects to life. Sophie, his steadfast partner, complements him with her refined taste and keen eye for talent, ensuring that every Blanchard endeavor maintains the highest standards of excellence. Their children, Isabelle and Michel, have inherited their parents' dedication to the arts.
 
 {% include character-relation-table.html char="Philippe Blanchard" maxlevel=2 %}

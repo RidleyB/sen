@@ -2,24 +2,34 @@
 title: Viola Santini
 
 faction:
-  sort: Santini
-  given: Santini
+  sort: "Santini"
+  sort-role: "Matriarch of the Santini family, Viola presides over one of Sen’s most powerful houses. Known to some as the 'Mother of Sen,' her reputation as a benevolent leader is tempered by her cold precision in private politics. Born to Santini prestige, Viola has embodied the family’s authority her entire life. Her marriage to Salvatore Russo softened her rule in the public eye, but since his death she has returned to her sharper, colder ways."
 
 standings:
-  - name: "TODO"
-    desc: "TODO"
+  - name: "Santini"
+    desc: "Viola commands her family with iron discipline and maternal care, balancing both affection and authority. She has positioned the Santinis as aristocratic leaders and protectors of Sen, their wealth and reputation tied to her public image. Her children, siblings, and extended kin all orbit her influence, whether out of loyalty or fear."
+  - name: "Del Vecchio"
+    desc: "The Del Vecchios have been both rivals and uneasy allies. Viola respects Alessandro’s drive to restore his family’s honor but does not forget Ettore’s scandals. The marriage of her sister Sofia into the Del Vecchios remains a sore point, one Viola tolerates but never fully forgave."
+  - name: "Reinhardt"
+    desc: "The Reinhardts are Viola’s bitterest rivals. The broken betrothal between Karl Reinhardt and Francesca Santini was a humiliation she has never forgiven, and the Reinhardts’ rigid sense of justice clashes with her aristocratic pride. Lena Del Vecchio’s recent marriage to Fritz Reinhardt only twists the knife further, ensuring the feud lives on. Outwardly, Viola seeks to improve the relationship between the two households, if only to keep the peace."
+  - name: "Montaigne"
+    desc: "The Montaignes and Santinis enjoy a cautious relationship. Their wealth and mercantile strength complement Santini prestige, but Viola treats them warily, ensuring the aristocracy remains above commerce. Still, her respect for Aurelie Montaigne’s poise keeps the door open to cooperation."
+  - name: "Blanchard"
+    desc: "Viola sees Philippe Blanchard as a schemer whose ambitions could one day rival her own. While they maintain polite relations in public, she keeps a close watch on him, knowing his influence spreads through whispers and debts. To Viola, the Blanchards are less trustworthy than open rivals, for they thrive in the shadows where her authority is less secure."
+  - name: "Other Factions"
+    desc: "Viola has cultivated influence across the Collegium, the Sacred Eye, and other guilds, ensuring the Santinis remain central to Sen’s governance. She rarely deals with such groups directly, instead delegating to trusted agents, but her will is felt all the same."
 
 paragraphs:
   - title: "Personality"
-    element: "Viola is known for her poise, grace, and natural charisma. Her leadership style is marked by compassion, integrity, and strength. She possesses a sharp intellect and an ability to remain calm under pressure, allowing her to navigate the complex political landscape of Sen effectively. Viola is also known for her unwavering devotion to her family and the people of Sen, always placing their needs above her own. Her empathy and ability to connect with others on a personal level have earned her the loyalty and respect of those around her."
-  - title: "Early Life"
-    element: "Viola was born as the eldest daughter of the Santini family. From a young age, she demonstrated a sharp intellect and a voracious appetite for knowledge. Her parents invested heavily in her education, recognizing her potential. Despite the privileges of her upbringing, Viola's childhood was marked by the turbulent political landscape of Sen, which taught her the importance of diplomacy and strategy."
-  - title: "Education and Early Career"
-    element: "Viola's education was extensive, covering a range of subjects from history and politics to philosophy and the arts. She excelled in her studies and took on leadership roles in various school and community organizations. These early experiences laid the foundation for her future role as the head of the Santini family."
-  - title: "Marriage and Family"
-    element: "Viola married Salvatore Russo, a strategic alliance that strengthened both their families' positions within Sen's power structure. Salvatore's political acumen complemented Viola's leadership, forming a formidable partnership. After her parents' deaths and Salvatore's unexpected passing, Viola assumed the role of matriarch of the Santini family. The loss in her family has left Viola a colder version of her former self, but her resolve remains strong."
-  - title: "Leadership and Influence"
-    element: "As the matriarch, Viola has guided the Santini family through numerous challenges. Her influence extends beyond her family to the broader community, where she is respected as a wise and benevolent leader. Viola's commitment to serving the people of Sen has earned her a reputation as a pillar of the community."
+    element: "Viola is commanding, calculating, and fiercely protective of her family. In public she is the warm 'Mother of Sen,' smiling, gracious, and adored by the commonfolk. In private, she is sharp, cold, and uncompromising, wielding her authority without hesitation. Few dare cross her, and fewer still escape her notice."
+  - title: "Personal Life"
+    element: "Viola’s marriage to Salvatore Russo was one of balance: his warmth tempered her sternness, allowing her to embody the benevolent image that won her the city’s love. Since his death a decade ago, she has hardened again, retreating from tenderness into control. She carries herself with dignity, but those close to her see the cracks his absence left behind."
+  - title: "Role in the Family"
+    element: "Viola governs the Santinis as both matriarch and strategist. Every marriage, alliance, and feud is touched by her hand, either as architect or as arbiter. Her siblings Paolo and Sofia complicate her designs — Paolo through stubborn independence, Sofia through her marriage to Marco Del Vecchio — yet Viola keeps them all bound under the Santini banner."
+  - title: "Closeness to the Story"
+    element: "Viola is the gravitational center of Sen’s intrigue. Her authority shapes the gala, her feuds define family conflicts, and her reputation anchors the Santinis’ dominance. Whether as patron, rival, or adversary, every player in Sen measures themselves against her will."
+  - title: "Legacy"
+    element: "Viola’s goal is to ensure the Santinis endure as the unquestioned leaders of Sen. Her legacy, however, is divided — the loving 'Mother of Sen' beloved by the people, and the cold matriarch whose shadow looms over every alliance and betrayal. Which of these images survives depends on how her story ends."
 
 parents:
   - name: "Enzo Santini"

@@ -2,24 +2,32 @@
 title: Paolo Santini
 
 faction:
-  sort: Santini
-  given: Santini
-  sort-role: "Paolo's primary role within the Santini family is that of an advisor. His calm and rational demeanor provides a stabilizing influence, especially during times of crisis. Viola values his insights and often consults him before making significant decisions. Paolo's ability to remain impartial and think strategically makes him an indispensable asset to the family."
+  sort: "Santini"
+  sort-role: "As brother to Viola and Sofia, Paolo serves as advisor within the Santini household. His calm, rational demeanor and diplomatic skill make him an invaluable stabilizer during times of crisis."
+  given: "Santini"
+  given-role: "Born into the Santini family, Paolo has dedicated himself to preserving its influence through mediation, negotiation, and careful counsel rather than through direct rule."
 
 standings:
-  - name: "TODO"
-    desc: "TODO"
+  - name: "Santini"
+    desc: "Paolo is a trusted voice in Viola’s ear, often consulted before she commits to major decisions. While not as commanding as his sister, his impartiality and reasoned advice provide balance to the family’s more fiery personalities."
+  - name: "Blanchard"
+    desc: "Through his marriage to Isabella Blanchard, Paolo has forged a bond with the Blanchard family. This tie tempers relations between the two houses, though Viola remains cautious of Philippe’s ambitions. Paolo’s diplomacy helps keep tensions manageable."
+  - name: "Del Vecchio"
+    desc: "Paolo treats the Del Vecchios with quiet pragmatism. He respects Alessandro’s reforms and recognizes their growing importance but remains watchful, given his sister Sofia’s volatile place in their household."
+  - name: "Reinhardt"
+    desc: "Paolo maintains a polite but distant stance with the Reinhardts. While Viola’s feud burns hot, Paolo’s cooler demeanor keeps open the possibility of dialogue, even if reconciliation is unlikely."
+  - name: "Montaigne"
+    desc: "Paolo finds the Montaignes agreeable, their mercantile pragmatism aligning well with his own preference for practical solutions over pride. He occasionally engages them in negotiations where their interests overlap."
 
 paragraphs:
   - title: "Personality"
-    element: "TODO"
+    element: "Paolo is calm, rational, and diplomatic, preferring reason over confrontation. His ability to remain impartial makes him a valued advisor and mediator, though some mistake his measured approach for a lack of ambition."
   - title: "Personal Life"
-    element: "Paolo is married to Isabella Santini, formerly Isabella Blanchard. Together, they have two children: Riccardo, aged 10, and Lucille, aged 6. His family life is characterized by a strong bond and mutual respect, with Isabella supporting him in his endeavors while nurturing their young children."
-  - title: "Political Influence"
-    element: "Though not at the forefront of leadership, Paolo's influence is felt throughout the family's dealings. He is often the one to mediate disputes, offer alternative perspectives, and ensure that all options are considered before a course of action is taken. His background in diplomacy and negotiation has earned him the respect of both allies and adversaries within Sen."
-  - title: "Family Dynamics"
-    element: "Paolo's relationship with his wife, Isabella, is one of mutual respect and partnership. Isabella, formerly a member of the Blanchard family, has integrated into the Santini household and supports Paolo in his advisory role. Their children, Riccardo and Lucille, are being raised with a strong sense of duty and family loyalty, guided by the values instilled by their parents."
-
+    element: "Paolo is married to Isabella Santini, formerly Isabella Blanchard. Their marriage is strong, built on mutual respect and partnership. Together they are raising two children — Riccardo, age 10, and Lucille, age 6."
+  - title: "Role in the Family"
+    element: "Paolo’s influence lies not in commanding authority but in shaping it. He ensures all options are considered before actions are taken, often tempering Viola’s sharp decisiveness with reasoned counsel. His presence is a stabilizing one, both for the family’s politics and its internal harmony."
+  - title: "Closeness to the Story"
+    element: "Though not at the forefront of Sen’s intrigue, Paolo’s steady hand is woven through every Santini decision. His ties to both Viola and Isabella’s Blanchard heritage give him reach across family lines, making him a quiet but indispensable figure in maintaining the city’s fragile balance."
 
 parents:
   - name: "Enzo Santini"

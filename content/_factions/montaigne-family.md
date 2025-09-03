@@ -15,7 +15,7 @@ blurb: "The Montaigne family has long been a cornerstone of political influence 
 
 In addition to their prowess in politics, the Montaignes have established themselves as advocates for scholarly pursuits, particularly within the esteemed halls of the Collegium Arcanum. Through their longstanding patronage and involvement with the Collegium, the Montaigne family has played a pivotal role in advancing magical knowledge, scientific innovation, and academic excellence in Sen. Their dedication to fostering a culture of learning and enlightenment has not only enriched the city's intellectual landscape but has also contributed to its reputation as a center of magical scholarship and discovery.
 
-## Family Tree
+## Main Family Tree
 Henri Montaigne's marriage to Giulia Santini, a union that brought together two influential families, further solidified the Montaignes' position within Sen's elite. Giulia's untimely passing was a significant loss, but her legacy endures through their daughter, Amelie, who is poised to carry forward the family's traditions of scholarship and civic duty.
 
 {% include character-relation-table.html char="Henri Montaigne" maxlevel=2 %}

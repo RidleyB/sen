@@ -4,19 +4,18 @@ title: Nina Reinhardt
 faction:
   sort: Reinhardt
   given: Bianchi
-  sort-role: "TODO"
-  given-role: "TODO"
+  sort-role: "As Friedrich Reinhardt’s wife, Nina holds the title of matron within the household, though her influence is undercut by strained family ties at times."
+  given-role: ""
 
 standings:
-  - name: "TODO"
-    desc: "TODO"
+  - name: "Reinhardt"
+    desc: "Nina’s place within the Reinhardt family is fraught. She holds rank as Friedrich’s wife, but she is mistrusted by his first son, Karl, who sees her as an interloper. Her presence often sparks division rather than unity."
 
 paragraphs:
   - title: "Personality"
-    element: "TODO"
+    element: "Nina is proud, manipulative, and calculating. She knows she will never command the same respect as a blood-born Reinhardt, so she compensates by clinging to Friedrich’s authority and asserting herself in family matters where she is resented."
   - title: "Personal Life"
-    element: "TODO"
-
+    element: "Her marriage to Friedrich grants her wealth and standing, but not comfort. Though she outwardly plays the role of a dutiful wife, whispers suggest she pushed hard for the match out of ambition more than affection. She often feuds with Karl sometimes openly, at times with cutting remarks disguised as pleasantries."
 
 partners:
   - name: "Friedrich Reinhardt"
@@ -44,7 +43,7 @@ char_data:
   - element_title: "Eyes"
     element: ""
 
-blurb: "A recent addition to the Reinhardts, Nina is the second wife to Friedrich, scion of their house. Together they begat Phineas, the new heir to the Reinhardt dynasty."
+blurb: "A more recent addition to the Reinhardts, Nina is the second wife to Friedrich, scion of their house. Together they begat Phineas, a new heir to the Reinhardt dynasty."
 ---
 
 {% include character-content.html %}

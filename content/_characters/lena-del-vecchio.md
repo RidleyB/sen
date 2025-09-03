@@ -2,20 +2,22 @@
 title: Lena Del Vecchio
 
 faction:
-  sort: Del-Vecchio
-  given: Del-Vecchio
-  sort-role: "Lena plays a crucial role as a skilled diplomat and negotiator, acting as a liaison with rival families and foreign powers. Her charm and wit make her an invaluable asset in maintaining and fostering relationships that benefit the Del Vecchio family's standing and influence in Sen."
+  sort: "Del Vecchio"
+  sort-role: "A daughter of Marco Del Vecchio and Sofia Santini, Lena’s position in the family has recently come into question following her controversial betrothal to Fritz Reinhardt."
 
 standings:
-  - name: "TODO"
-    desc: "TODO"
+  - name: "Del Vecchio"
+    desc: "Lena’s betrothal to Fritz was a surprise to the Del Vecchios, but ultimately Alessandro and Marco treat it with measured pragmatism. While the match complicates their political web, Lena remains family, and they see her union with Fritz as a potential—if risky—bridge."
+  - name: "Santini"
+    desc: "Sofia Santini, Lena’s mother, is furious about the wedding. To her, Lena’s choice is not just disobedience but a personal betrayal, aligning with the very family she resents most. Relations between mother and daughter are now strained to the breaking point."
+  - name: "Reinhardt"
+    desc: "By accepting Fritz Reinhardt's proposal, Lena has chosen to bind herself to a household long at odds with her mother’s. Some Reinhardts accept her with courtesy, while others distrust her Santini bloodline. Lena herself is determined to make the marriage work, despite its political baggage."
 
 paragraphs:
   - title: "Personality"
-    element: "Lena is a free spirit with a sharp mind, skilled in diplomacy and negotiation. Despite her natural inclination towards independence, she often has to conceal her true nature from her overbearing mother, Sofia. Lena balances her duties to her family with her personal desires, navigating the delicate line between obedience and self-expression."
+    element: "Lena is headstrong, idealistic, and stubborn. She prides herself on making choices for herself rather than for her family’s expectations, though she rarely considers the wider consequences. Her boldness often borders on recklessness."
   - title: "Personal Life"
-    element: "TODO"
-
+    element: "Fritz's proposal to Lena was made quietly, without the blessing of either of their parents. When the truth emerged, Sofia’s fury was swift and public, leaving Lena caught between loyalty to her future husband and the ire of her bloodline. She and Fritz share genuine affection, but it is a love that comes at the price of family unity."
 
 parents:
   - name: "Marco Del Vecchio"
@@ -47,7 +49,7 @@ char_data:
   - element_title: "Eyes"
     element: ""
 
-blurb: "Daughter of Marco and Sofia Del Vecchio. Skilled in diplomacy and negotiation. Acts as a liaison with rival families and foreign powers."
+blurb: "A daughter of Marco Del Vecchio and Sofia Santini, Lena’s position in the family has recently come into question following her controversial betrothal to Fritz Reinhardt."
 ---
 
 {% capture relationships_text %}

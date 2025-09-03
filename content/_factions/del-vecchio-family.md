@@ -13,7 +13,7 @@ blurb: "The Del Vecchio family is a prominent house known for its deep roots in 
 
 <!--more-->
 
-## Family Tree
+## Main Family Tree
 Ettore Del Vecchio is the estranged former scion of the Del Vecchio family. He took his family's formidable legacy and squandered it with corruption and criminal scheming. Together, he and his wife Priscilla had two children, Alessandro and Marco. 
 
 {% include character-relation-table.html char="Ettore Del Vecchio" maxlevel=1 %}

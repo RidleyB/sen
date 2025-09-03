@@ -1,6 +1,6 @@
 ---
 title: An Invitation
-excerpt: "You are formally invited to join the us for an evening of elegance,
+excerpt: "You are formally invited to join us for an evening of elegance,
 entertainment, and enlightenment at their esteemed estate in Sen..."
 
 header:
@@ -10,14 +10,14 @@ header:
 
 *Esteemed Guests,*
 
-*You are formally invited to join the us for an evening of elegance,
+*You are formally invited to join us for an evening of elegance,
 entertainment, and enlightenment at their esteemed estate in Sen. As
-pillars of our beloved city, the Santinis extend this gracious
+pillars of our beloved city, we extend this gracious
 invitation to the esteemed members of our vibrant community, including
 distinguished guests from the realms of politics, business, culture, and
 academia.*
 
-*The splendor of the Santini estate awaits you, where opulent
+*The splendor of the Santini estate awaits you; where opulent
 surroundings and gracious hospitality converge to create an
 unforgettable experience. Immerse yourself in the enchanting ambiance of
 our grand gala, where you will be treated to an array of captivating

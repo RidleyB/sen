@@ -2,19 +2,24 @@
 title: Luca Del Vecchio
 
 faction:
-  sort: Del-Vecchio
-  given: Del-Vecchio
-  sort-role: "Luca is savvy in business and trade, managing investments and deals with outside business partners under the supervision of his father, Marco Del Vecchio. His keen business acumen and strategic thinking make him a vital part of the family's financial operations."
+  sort: "Del Vecchio"
+  sort-role: "A younger member of the Del Vecchio family, Luca has taken to finance and trade with sharp instinct. He works closely with his father Marco and uncle Alessandro to maintain the family’s commercial footing."
 
 standings:
-  - name: "TODO"
-    desc: "TODO"
+  - name: "Del Vecchio"
+    desc: "Luca is considered one of the family’s rising minds, showing an early knack for numbers, contracts, and trade routes. He often works alongside Gabriella, his cousin, and the two are regarded as a capable pair of the next generation."
+  - name: "Santini"
+    desc: "Through his grandmother Sofia Santini, Luca carries Santini blood, though his interactions with that side of the family are limited. The tension between his mother’s pride and his father’s pragmatism leaves him walking a careful line."
+  - name: "Other Families"
+    desc: "Luca’s dealings with the other great families are limited but professional. His role is mostly in bookkeeping and trade negotiations, not high politics, though his sharpness has been noted by those who watch the younger generation closely."
 
 paragraphs:
   - title: "Personality"
-    element: "Luca is analytical and methodical, excelling in the realms of business and trade. He values efficiency and precision, often focusing on long-term gains and strategic partnerships. Although he shares a close bond with his twin sister Lena, they are individualistic and pursue their own distinct paths within the family."
+    element: "Luca is clever, methodical, and ambitious in his own quiet way. He values precision over flair, and unlike many of his peers, he prefers contracts and ledgers to balls and speeches. He can be curt, but his efficiency makes him respected among those who work with him."
   - title: "Personal Life"
-    element: "Luca Del Vecchio has been immersed in the world of business and trade from a young age. Under the guidance of his father, he has developed a sharp mind for investments and strategic partnerships, ensuring the Del Vecchio family's continued financial success. His individualistic nature sets him apart from his twin sister Lena, but their strong sibling bond allows them to support each other in their respective roles. Luca's commitment to the family's prosperity and his analytical approach to business make him a key figure in the Del Vecchio's financial affairs."
+    element: "Still young, Luca has yet to be married or tied into larger alliances. His life revolves around trade halls, merchant ledgers, and long hours spent in quiet study under Alessandro’s guidance. He admires Gabriella’s political skill and often tries to match her accomplishments in his own sphere of expertise."
+  - title: "Closeness to the Story"
+    element: "Luca may not hold the spotlight, but his competence makes him one of the quiet forces ensuring the Del Vecchio resurgence lasts. His generation represents the family’s future — one built on reform, trade, and careful maneuvering."
 
 parents:
   - name: "Marco Del Vecchio"
@@ -42,7 +47,7 @@ char_data:
   - element_title: "Eyes"
     element: ""
 
-blurb: "Son of Marco and Sofia Del Vecchio. Savvy in business and trade. Manages the investments and deals with outside business partners under supervision of his father."
+blurb: "A younger member of the Del Vecchio family, Luca has taken to finance and trade with sharp instinct. He works closely with his father Marco and uncle Alessandro to maintain the family’s commercial footing."
 ---
 
 {% capture relationships_text %}
