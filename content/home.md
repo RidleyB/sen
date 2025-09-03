@@ -34,14 +34,3 @@ Throughout the city and the world of Sen's political elite, there are whispers o
 terror across the city.
 
 Through fated circumstance, you find yourself attending a grand gala at the Santini estate, whether through formal invitation, employment arrangements, more clandestine intentions, or something else altogether. Viola Santini has gathered the area's political elite to address the growing threat of the figure known as **The Violet Lady**.
-
-> While Sen and the Violet Lady have appeared previously in the Oster campaign, I can assure those who did not take part that that story has no bearing on this one; during the course of that campaign Sen was primarily shrouded in mystery, and the Violet Lady was portrayed very differently to how she is in this story. As of writing this, I have no intention of linking the two stories; I'm merely re-using concepts and ideas I've already established in my own writing. If anyone has any concerns about any content relating to the previous campaign I ran, reach out to me and we can discuss.
-{: .notice}
-
-I plan on running the story over a few months- no set date on when it will start.
-
-# Coming Soon:
-- <div class="todo">Description/Pages for characters- currently, none of their links work.</div>
-- <div class="todo">Detailed description of Sen's layout</div>
-- <div class="todo">Rules and Restrictions - more houserules and info about playing.</div>
-- <div class="todo">Anything else you're looking for!</div>
