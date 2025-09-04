@@ -97,7 +97,7 @@ excerpt: "Sennites embrace a rich tapestry of polytheistic beliefs that intricat
 {% if post.deity.pantheon == "sssarvass" %}{% include collapsible.html post=post %}{% endif %}
 {% endfor %}
 <br>
-<p>The Yuan-ti of Sssarvass worship a deity many have theorized to be the same as Fos'uhl, the Sennite god of magic and duality. They share similar depictions and tenets, leading many to beleve the Yuan-ti to be blessed by Fos'uhl.</p>
+<p>The Yuan-ti of Sssarvass worship a deity many have theorized to be the same as Azythar, the Sennite god of magic and duality. They share similar depictions and tenets, leading many to beleve the Yuan-ti to be blessed by Azythar.</p>
 {% for post in site.deities %}
 {% if post.deity.pantheon == "sssarvass2" %}{% include collapsible.html post=post %}{% endif %}
 {% endfor %}

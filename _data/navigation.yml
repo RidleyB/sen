@@ -18,6 +18,8 @@ sidebar:
         url: /content/rules-and-restrictions
       - title: 5e Content
         url: /5e-content/
+      - title: Recent News
+        url: /content/recent-news
   - title: "Lore: General"
     url: /lore/
     children:

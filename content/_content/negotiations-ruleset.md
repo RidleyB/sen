@@ -7,6 +7,8 @@ A negotiation begins when the heroes ask something of an NPC and the DM deems th
 
 The heroes can strike a favorable deal if they maximize an NPC’s interest by making arguments that invoke the NPC’s motivations and avoid their pitfalls — but they have to do all that before the NPC’s patience wears out.
 
+<!--more-->
+
 ## Interest
 An NPC's **interest** shows how eager they are to make a deal with the heroes.  
 

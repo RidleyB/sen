@@ -1,0 +1,34 @@
+{% assign search = include.search | downcase %}
+{% assign results = "" | split: "" %}
+
+{% assign content = p.content %}
+
+{%- comment -%} Regular pages {%- endcomment -%}
+{% for p in site.pages %}
+  {% assign content = p.content | downcase %}
+  {% if content contains search %}
+    {% assign results = results | push: p %}
+  {% endif %}
+{% endfor %}
+
+{%- comment -%} Custom collections {%- endcomment -%}
+{% for coll in site.collections %}
+  {% assign cname = coll.label %}
+  {% for p in site[cname] %}
+    {% assign content = p.content | downcase %}
+    {% if content contains search %}
+      {% assign results = results | push: p %}
+    {% endif %}
+  {% endfor %}
+{% endfor %}
+
+{% if results.size > 0 %}
+  <h3>Pages that reference "{{ include.search }}"</h3>
+  <ul>
+  {% for r in results %}
+    <li><a href="{{ r.url | relative_url }}">{{ r.title | default:r.url }}</a></li>
+  {% endfor %}
+  </ul>
+{% else %}
+  <p>No references found for "{{ include.search }}".</p>
+{% endif %}

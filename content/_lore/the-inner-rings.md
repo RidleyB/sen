@@ -51,53 +51,15 @@ The Astra Archives are one of the most important repositories of knowledge in Se
 - **Hall of History:** Displays artifacts and records chronicling Sen's rich history and cultural heritage.
 
 <br>
-# Estates and Manors
+## Estates and Manors
 
-At the border between the inner and outer rings, the estates and manors of Sen's governing bodies are situated. These luxurious residences belong to the aristocratic leaders who shape the city's policies and direction. The location of these estates allows the leaders to enjoy the refinement and elegance of the inner ring while remaining accessible to their constituents in the outer rings. The mansions are surrounded by lush gardens and ornate fences, symbolizing the blend of power and approachability that defines Sen's leadership.
+At the border between the inner and outer rings lie the estates and manors of Sen’s ruling families. These residences are more than homes — they are living symbols of prestige, designed to impress guests and remind constituents of their owners’ status. Typical estates feature sprawling gardens, ornate walls and gates, private halls for entertaining, and the kind of architectural grandeur that ensures no visitor forgets who holds power in the city.
 
-<br>
-## Santini Estate
+While most estates share this sense of refinement, several stand out for their unique character:
 
-The Santini Estate is one of the largest and oldest estates in the city. Owned by the influential Santini family, it is a vast area showcasing their opulence and power. The estate is renowned for its lush gardens and grand architecture.
+- The Santini Estate is among the grandest, with vast gardens, a sweeping party hall for galas, and a family crypt that reinforces their lineage. Its size and history make it one of the city’s most recognized landmarks.
+- Reinhardt Manor is built less like a palace and more like a fortress, with training grounds and barracks reflecting their militaristic values. It emphasizes discipline and defense over opulence.
+- The Blanchard Villa highlights natural beauty, renowned for its botanical gardens and galleries. It’s less a fortress or palace and more a cultivated retreat that reflects the family’s artistic leanings.
+- The Del Vecchio Estate tells a humbler story — once lavish, much of its former glory was stripped away under Ettore Del Vecchio’s scandals. It remains stately, but now its vineyard and restrained charm speak to the family’s resilience and reform.
 
-- **Grand Party Hall:** A lavish hall used for hosting large gatherings and events.
-- **Private Gardens:** Beautifully maintained gardens that reflect the Santini's wealth and taste.
-- **Family Crypt:** A resting place for the Santini ancestors.
-
-<br>
-## Reinhardt Manor
-
-The Reinhardt Manor is more of a fortress than a home, reflecting the military nature of the Reinhardt family. It is heavily fortified, with high walls and defensive structures, showcasing their focus on strength and security.
-
-- **Training Grounds:** Extensive facilities for training soldiers and practicing combat.
-- **Barracks:** Accommodations for the Reinhardt family's personal guard.
-
-<br>
-## Blanchard Villa
-
-The Blanchard Villa focuses on natural beauty, seamlessly integrating with the surrounding landscape. The villa is renowned for its extensive gardens and serene atmosphere, offering a peaceful retreat from the bustling city.
-
-- **Botanical Gardens:** Home to a variety of rare and exotic plants.
-- **Art Gallery:** Showcases a collection of artworks and sculptures, reflecting the Blanchard family's appreciation for the arts.
-
-<br>
-## Montaigne Villa
-
-The Montaigne Villa strikes a balance between structure and natural beauty. It features elegant architecture complemented by lush gardens and open spaces, reflecting the refined taste of the Montaigne family.
-
-- **Sunken Garden:** A beautifully designed garden that blends seamlessly with the villa's architecture.
-- **Music Hall:** A hall dedicated to musical performances and gatherings.
-- **Library:** A private library housing a vast collection of books and rare manuscripts.
-
-<br>
-## Del Vecchio Estate
-
-Once an opulent display of wealth, the Del Vecchio Estate has been stripped of much of its grandeur to pay off fines and tithes left by Alessandro's father's criminal legacy. Despite this, it remains a sizeable and beautiful estate, reflecting the Del Vecchio's enduring presence in Sen.
-
-- **Main House:** A stately residence with a mix of old-world charm and modern simplicity.
-- **Vineyard:** A small but productive vineyard that contributes to the family's modest income.
-
-<br>
-## Other Estates
-
-The city is vast; there are many other opulent and extravagant estates, each with their own quirks and unique features.
+Beyond these, the city holds countless other estates, each displaying its own quirks — music halls, rare libraries, private menageries — all testaments to the wealth, ambition, and taste (or lack thereof) of Sen’s aristocracy.

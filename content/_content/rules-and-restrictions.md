@@ -2,6 +2,8 @@
 title: "Rules and Restrictions"
 ---
 
+<!--more-->
+
 ## House Rules
 
 ### Hidden Death Saves
