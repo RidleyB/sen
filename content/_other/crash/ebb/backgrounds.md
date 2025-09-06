@@ -3,7 +3,7 @@ title: "Backgrounds"
 disable_title: true
 permalink: "/crash/backgrounds"
 header:
-  overlay_image: /assets/images/crash-1.jpg
+  overlay_image: /assets/images/commerce-1.jpg
   overlay_filter: 0.5
 ---
 
@@ -20,7 +20,6 @@ header:
 
 
 </style>
-
 {% include background.html name="pioneer" collapsible=true %}
 {% include background.html name="officer" collapsible=true%}
 {% include background.html name="envoy" collapsible=true%}

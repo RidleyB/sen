@@ -1,6 +1,10 @@
 ---
 title: Races
 permalink: "/lore/races"
+
+header:
+  overlay_image: assets/images/sacred-eye-1.png
+  overlay_filter: 0.5
 ---
 
 {% capture race_list %}
@@ -20,6 +24,6 @@ Sen is a melting pot of cultures, where a diverse range of races from across the
 Below are some brief descriptions of demographics found in the city. This is not a comprehensive list of all the races Sen's gates have seen, just the most prominent:  
 
 > DM Note: If you're looking to play something specific that isn't listed here, let me know and we can talk about it. 
-{: .notice}
+{: .notice--info}
 
 {{ race_list }}

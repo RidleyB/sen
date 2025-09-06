@@ -1,6 +1,11 @@
 
-{% capture urlContentMethod %}expand('{{ include.post.url }}'){% endcapture %}
-{% capture titleContentMethod %}expand('{{ include.title | slugify }}'){% endcapture %}
+{% capture urlContentMethod %}
+	expand('{{ include.post.url }}')
+{% endcapture %}
+
+{% capture titleContentMethod %}
+	expand('{{ include.title | slugify }}')
+{% endcapture %}
 
 {% if include.post %}
 

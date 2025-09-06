@@ -11,6 +11,18 @@ header:
   overlay_filter: 0.5
 ---
 
+{% capture image1 %}
+  <figure class="align-center">
+    <img src="../assets/images/crash/ebb/guild-poster.png" alt="image" class="image">
+  </figure> 
+{% endcapture %}
+
+{% capture image2 %}
+  <figure class="align-center">
+    <img src="../assets/images/crash/ebb/astral-spire.png" alt="image" class="image">
+  </figure> 
+{% endcapture %}
+
 <h1 id="overview" style="visibility: hidden; margin: 0px; padding: 0px;">Overview</h1>
 
 {{ page.blurb }}
@@ -49,11 +61,15 @@ The Guild of Discovery remains a beacon of exploration and courage, inspiring ne
 ### Astral Spire
 The guild's headquarters, known as the Astral Spire, is a grand tower equipped with magical portals and advanced observatories. Located near the city's center in the inner ring, the Astral Spire stands as a monument to the guild's achievements. It houses the celestial map and the archives, serving as a center for ongoing exploration and a hub for aspiring adventurers.
 
+{{ image2 }}
+
 ## Trivia
 - The guild's emblem, a starburst with an open gateway at its center, is a symbol of exploration and unity.
-- The Astral Spire, the guild's headquarters, is equipped with its own Sennite Gatway and advanced observatories, facilitating ongoing missions and research.
+- The Astral Spire, the guild's headquarters, is equipped with its own Sennite Gateways and advanced observatories, facilitating ongoing missions and research.
 - Each successful mission was commemorated with a new star added to the guild's celestial map, displayed prominently in the Astral Spire.
 - The guild maintained a comprehensive archive of adventure logs, artifacts, and maps, which remain a valuable resource for scholars and explorers.
+
+{{ image1 }}
 
 {% comment %}
 # Excerpts

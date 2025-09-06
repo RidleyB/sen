@@ -1,6 +1,10 @@
 ---
 title: Worlds
 permalink: "/lore/worlds"
+
+header:
+  overlay_image: assets/images/zaratal-2.jpg
+  overlay_filter: 0.5
 ---
 
 {% capture sen %}

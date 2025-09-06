@@ -1,16 +1,18 @@
 sidebar: 
-  - title: "Directory"
+  - title: "Content"
+    children:
+      - title: Playable Races
+        url: /lore/races
+      - title: Rules & Restrictions
+        url: /rules
+  - title: "Lore"
     children:
       - title: "The Celestial City"
         url: /lore/the-celestial-city
-      - title: Connected Worlds
-        url: /lore/worlds
       - title: Guild of Discovery
         url: /lore/guild-of-discovery
-      - title: Races
-        url: /lore/races
-      - title: Deities
-        url: /lore/deities
+      - title: Connected Worlds
+        url: /lore/worlds
 
   - title: "Handouts"
     children:

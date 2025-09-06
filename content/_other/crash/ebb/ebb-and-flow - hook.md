@@ -3,12 +3,25 @@ title: "Ebb and Flow - Hook"
 toc: true
 ---
 
+{% capture image1 %}
+  <figure class="align-right">
+    <img src="assets/images/crash/ebb/disc-kiosk.png" alt="image" class="image" style="width: 312px;height: 312px;">
+  </figure> 
+{% endcapture %}
+
+{% capture image2 %}
+  <figure class="align-center">
+    <img src="assets/images/crash/ebb/gateway.png" alt="image" class="image">
+  </figure> 
+{% endcapture %}
+
 Welcome daring adventurers, and thanks for choosing to participate in an ongoing adventure series known as Crash! This site will hopefully lay out everything you need to know to get started on creating your character for this one-shot, as well as some surrounding lore for those interested.
 
 ---
 
 # The Story
 <br>
+{{ image1 }}
 **The Guild of Discovery:** a vanguard of explorers, scholars, and daring adventurers who push beyond the known to illuminate the dark corners of existence. Among their ranks, you stand as one of the few entrusted with the most dangerous assignments — the **Crash Teams**.
 
 Today, you’ve drawn one of the most unusual missions in recent Guild history.
@@ -34,10 +47,11 @@ Into Plibt. Into the unknown.
 
 Before the unknown becomes *you*.
 
+{{ image2 }}
+
 ---
 
 # Rules and Restrictions
 * This is a D&D5e adventure- if you are not familiar with this ruleset, ya best get to book-learnin'.
 * Please have your character backstory run by me prior to playing. Any level of depth is ok, but roleplay and lore-digging is always encouraged.
 * Each player **must choose** one of the five provided backgrounds. You are after all, a Guild of Discovery member! You can check them out [here](crash/backgrounds).
-* HOUSERULES TODO

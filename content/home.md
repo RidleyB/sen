@@ -5,7 +5,7 @@ blurb: A one-shot for Guildhall 2025
 
 header:
    excerpt: "Welcome, players!"
-   overlay_image: /assets/images/plibt-1.png
+   overlay_image: /assets/images/crash/ebb/sen-streeta.png
    overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
 
 ---
