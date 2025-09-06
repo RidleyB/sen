@@ -12,11 +12,11 @@ url: "https://ridleyb.github.io"
 baseurl: "/sen"
 title: Crash
 title_separator: "|"
-name: &gmname "Demivin"
+name: &gmname "Guildmaster Demivin"
 logo: "/assets/images/logos/discovery-logo.png"
 email: adam.brown.x.ridley@gmail.com
-description: A planned 5e story taking place in the Celestial city of Sen.
-github_username:  RidleyB
+description: "Crash! After landing on Plibt, 6 guild operatives must identify and recover the remains of the team that came before..."
+github_username: "RidleyB"
 
 domain: ridleyb.github.io
 url: https://ridleyb.github.io
