@@ -14,10 +14,10 @@ type: "background"
 You are trained to extract insight under pressure. Choose one of the following benefits:
 
 - **Field Theorist:** When you take the Help action to assist an ally with a skill check involving Intelligence, Wisdom, or Constitution, they gain a bonus equal to your proficiency bonus in addition to advantage.
-- **Empirical Calm:** When you or an ally within 10 feet fails a Wisdom or Charisma saving throw, you can use your reaction to provide grounding logic or soothing rationale. That creature may immediately reroll the saving throw and use the higher result. You can use this this feature equal to your proficiency bonus. You regain the uses of this feature after a long rest.
+- **Empirical Calm:** When you make an skill or ability check, you may choose to use your Intelligence or Wisdom for the roll in place of the called upon ability. You may use this feature a number of times equal to your proficiency bonus, regaining all expended uses on a long rest.
 - **Field Work:** You learn one cantrip of your choice from the Wizard spell list. Intelligence is your spellcasting ability for it. Additionally, when you cast a spell as a ritual, you can reduce its casting time to 1 minute instead of the normal 10 minutes. You can use this ability twice per long rest.
 
-Additionally once per short rest, you can automatically succeed on a check to identify the nature, function, or purpose of a device, creature, or environmental hazard (DM discretion).
+Additionally, once per long rest when you make a check to identify the nature, function, or purpose of a device, creature, or environmental hazard, you may treat the number rolled on the die as 20.
 
 ### Suggested Characteristics
 

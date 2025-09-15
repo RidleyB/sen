@@ -5,6 +5,14 @@ sidebar:
         url: /lore/races
       - title: Rules & Restrictions
         url: /rules
+
+  - title: "Handouts"
+    children:
+      - title: "Backgrounds"
+        url: /crash/backgrounds
+      - title: "Inspiration"
+        url: /crash/inspiration
+
   - title: "Lore"
     children:
       - title: "The Celestial City"
@@ -13,10 +21,3 @@ sidebar:
         url: /lore/guild-of-discovery
       - title: Connected Worlds
         url: /lore/worlds
-
-  - title: "Handouts"
-    children:
-      - title: "Backgrounds"
-        url: /crash/backgrounds
-      - title: "Inspiration"
-        url: /crash/inspiration
