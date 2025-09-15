@@ -8,20 +8,33 @@ header:
 
 <!--more-->
 
-## House Rules
+> Any more houserules, limitations on 5e content, or any other related info will be posted here.
 
-### Hidden Death Saves
-The DM rolls death saving throws for unconscious characters, only informing of the result upon death, or revival.
+## Free Feat
+When creating a character of 1st level or higher, you gain one feat of your choice. You must still meet any prerequisites for the feat you select.
 
-### Better Health Potions
-You may spend a bonus action to drink a potion to gain it's regular effects. You may also use a standard action to drink a potion. If you do so this way, you instead heal the max amount of hit points the health potion provides.
+## Critical Hits
+When you score a critical hit, treat all damage dice from the attack as if you had rolled their maximum value. After doing so, roll the attack’s damage dice as normal and add the result. Apply your ability modifier and any other bonuses only once.
 
-### Sides Initiative
-Players initiatives will be averaged and contested against enemies' initiative average. If the players win, they act first, all together rather than individual turns. On the enemies' turn, they do the same.
+## Flanking
+When you and an ally position yourselves on opposite sides of a creature, you flank it. A creature you flank grants you and your ally a +2 bonus to attack rolls against it.
 
-### Push the Roll
-When you fail a skill check, you may choose to attempt the skill check again, by "pushing" the roll. If you fail on the second attempt, something bad will happen, at the DM's discretion. You may only push a roll once per day, regardless of outcome.
+A creature two or more size categories larger than you cannot be flanked by you.
 
+## Hidden Death Saves
+When you are unconscious and making death saving throws, the DM rolls these checks in secret. You are not informed of the results until you either regain consciousness or die.
 
-> DM Note: Any more houserules, limitations on 5e content, or any other related info will be posted here.
-{: .notice--info}
+## Better Health Potions
+You can drink a potion as a bonus action, gaining its effects as normal.
+
+Alternatively, you can drink a potion as an action. When you do so, the potion restores the maximum number of hit points it can restore, instead of rolling.
+
+## Sides Initiative
+At the start of combat, the DM rolls initiative for all creatures as normal. Instead of tracking each character’s initiative individually, the DM determines the average initiative result for the player characters and for their opponents. Compare the two averages: the side with the higher average acts first.
+
+All members of a side take their turns together in any order they choose. Once all members of one side have acted, the other side takes its turn.
+
+## Push the Roll
+When you fail an ability check, you can choose to push the roll and attempt the check again.
+
+If the second attempt also fails, the DM determines a negative consequence in addition to the failure. You can push a roll only once per long rest, regardless of the outcome.

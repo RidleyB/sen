@@ -24,7 +24,7 @@ Welcome daring adventurers, and thanks for choosing to participate in an ongoing
 {{ image1 }}
 **The Guild of Discovery:** a vanguard of explorers, scholars, and daring adventurers who push beyond the known to illuminate the dark corners of existence. Among their ranks, you stand as one of the few entrusted with the most dangerous assignments — the **Crash Teams**.
 
-Today, you’ve drawn one of the most unusual missions in recent Guild history.
+Today, you’ve been drafted into one of the most unusual missions in recent Guild history.
 
 The world is called **Plibt**, named after the only sound its native inhabitants — the **Plasmoids** — made when first contacted. A recent research expedition to Plibt went dark 18 hours ago; no signals, no return party. The only thing that made it back was a single data spike, pulsing with indecipherable psychic residue... and a location marker.
 
@@ -41,11 +41,7 @@ This is a world where thoughts echo, flesh bends, and identity is fluid. The lin
 * **Survive** exposure to Plibt's alien biosphere and psychic resonance.
 * **Return** before your minds or bodies become part of the world itself.
 
-The portal flares! You steel your nerves, and step forward.
-
-Into Plibt. Into the unknown.
-
-Before the unknown becomes *you*.
+The portal flares! You steel your nerves, and step forward... into the unknown!
 
 {{ image2 }}
 
