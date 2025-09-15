@@ -5,8 +5,8 @@ type: "background"
 
 *You are the mind behind the mission — the one trusted to observe, record, and analyze the incomprehensible. While others wield blades or bark orders, you parse reality itself, chasing understanding in the chaos of the unknown.*
 
-**Skill Proficiencies:** Arcana, Insight
-**Tool Proficiencies:** Alchemist’s supplies or Calligrapher’s supplies
+**Skill Proficiencies:** Arcana, Insight<br>
+**Tool Proficiencies:** Alchemist’s supplies or Calligrapher’s supplies<br>
 **Equipment:** A Guild researcher’s robe, a set of alchemist’s or calligrapher’s tools (your choice), a journal bound in waterproof hide, a set of ink and pens, and a pouch containing 10 gp
 
 ### Feature: Academic Fieldwork

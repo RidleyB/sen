@@ -5,8 +5,8 @@ type: "background"
 
 *You're not here to take in the sights — you're here to make sure everyone else lives long enough to do so. You stand at the edge of every campfire, eyes outward, weapon ready. The Guild's greatest minds don’t mean much if something tears them apart before they can write it down. You're trained, prepared, and when the mission goes loud — you're first in and last out.*
 
-**Skill Proficiencies:** Athletics, Intimidation
-**Tool Proficiencies:** Smith’s tools or Tinker’s tools
+**Skill Proficiencies:** Athletics, Intimidation<br>
+**Tool Proficiencies:** Smith’s tools or Tinker’s tools<br>
 **Equipment:** A worn Guild uniform reinforced with light armor plating, a set of manacles, a signal whistle, a whetstone, and a pouch containing 10 gp
 
 ### Feature: Defender’s Resolve
