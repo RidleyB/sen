@@ -5,7 +5,7 @@ type: "background"
 
 *You are the "boots-on-the-ground" explorer — the first to step into the unknown, the one who maps the path forward. You've trained to endure the wilderness, chart the chaos, and return with truth carved into your memory like lines on a map. When the others falter, you press on. Because if you don’t, no one will know what lies beyond.*
 
-**Skill Proficiencies:** Survival, Investigation  
+**Skill Proficiencies:** Survival, Nature or Stealth
 **Tool Proficiencies:** Cartographer’s tools or Navigator’s tools  
 **Languages:** One of your choice  
 **Equipment:** A set of common clothes, a journal, a set of cartographer’s tools or navigator’s tools (your choice), a map case containing an incomplete map of an unknown region, and a pouch containing 10 gp

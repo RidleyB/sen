@@ -13,9 +13,9 @@ type: "background"
 
 As a Guild Security Officer, you've been trained to act decisively under pressure and protect your team at all costs. Choose one of the following benefits:
 
-- **Guardian Instinct:** When a creature you can see within 5 feet of you is targeted by an attack, you can impose disadvantage on the attack roll as a reaction. You can use this feature a number of times equal to your proficiency bonus.
-- **Threat Assessment:** You have advantage on Wisdom (Perception) checks to detect hostile creatures or signs of danger (such as blood, disturbed terrain, or broken equipment). Additionally, you have advantage on Intelligence (Investigation) checks to determine the cause of injury or damage to structures, bodies, or equipment.
-- **Linebreaker:** You're trained in shock-and-awe tactics. You may attempt to shove or grapple as a bonus action a number of times equal to your Strength modifier (minimum once).
+- **Guardian Instinct:** When a creature you can see within 5 feet of you is targeted by an attack, you can impose disadvantage on the attack roll as a reaction. You can use this feature a number of times equal to your proficiency bonus. You regain the uses of this feature with a long rest.
+- **Threat Assessment:** You have advantage on Wisdom (Perception) checks to detect hostile creatures or signs of danger (such as blood, disturbed terrain, or broken equipment). Additionally, you have advantage on Wisdom (Medicine) checks to determine the cause of injury to bodies, or Intelligence (Investigation) checks on damage to structures or equipment.
+- **Linebreaker:** You're trained in shock-and-awe tactics. You may attempt to shove or grapple as a bonus action a number of times equal to your Constitution modifier (minimum once).
 
 ### Suggested Characteristics
 

@@ -5,7 +5,7 @@ type: "background"
 
 *You are the mind behind the mission — the one trusted to observe, record, and analyze the incomprehensible. While others wield blades or bark orders, you parse reality itself, chasing understanding in the chaos of the unknown.*
 
-**Skill Proficiencies:** Arcana, Insight<br>
+**Skill Proficiencies:** Arcana, History or Medicine<br>
 **Tool Proficiencies:** Alchemist’s supplies or Calligrapher’s supplies<br>
 **Equipment:** A Guild researcher’s robe, a set of alchemist’s or calligrapher’s tools (your choice), a journal bound in waterproof hide, a set of ink and pens, and a pouch containing 10 gp
 
@@ -14,8 +14,10 @@ type: "background"
 You are trained to extract insight under pressure. Choose one of the following benefits:
 
 - **Field Theorist:** When you take the Help action to assist an ally with a skill check involving Intelligence, Wisdom, or Constitution, they gain a bonus equal to your proficiency bonus in addition to advantage.
-- **Empirical Calm:** When you or an ally within 10 feet fails a Wisdom saving throw against fear or confusion, you can use your reaction to provide grounding logic or soothing rationale. That creature may immediately reroll the saving throw. You can use this this feature once per long rest.
-- **Field Work:** Learn one cantrip from the Wizard spell table. Additionally, once per day you can use a ritual casting time of 1 minute instead of 10 minutes for any spell you cast as a ritual. 
+- **Empirical Calm:** When you or an ally within 10 feet fails a Wisdom or Charisma saving throw, you can use your reaction to provide grounding logic or soothing rationale. That creature may immediately reroll the saving throw and use the higher result. You can use this this feature equal to your proficiency bonus. You regain the uses of this feature after a long rest.
+- **Field Work:** You learn one cantrip of your choice from the Wizard spell list. Intelligence is your spellcasting ability for it. Additionally, when you cast a spell as a ritual, you can reduce its casting time to 1 minute instead of the normal 10 minutes. You can use this ability twice per long rest.
+
+Additionally once per short rest, you can automatically succeed on a check to identify the nature, function, or purpose of a device, creature, or environmental hazard (DM discretion).
 
 ### Suggested Characteristics
 

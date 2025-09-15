@@ -18,3 +18,5 @@ sidebar:
     children:
       - title: "Backgrounds"
         url: /crash/backgrounds
+      - title: "Inspiration"
+        url: /crash/inspiration

@@ -5,7 +5,7 @@ type: "background"
 
 *You are the one entrusted to lead when others falter. The mantle of command weighs heavy, especially in a Crash mission where failure means becoming trapped on an alien world, or worse.*
 
-**Skill Proficiencies:** Persuasion, Insight<br>
+**Skill Proficiencies:** Perception, Deception or Intimidation<br>
 **Tool Proficiencies:** Navigator’s tools, one of your choice<br>
 **Languages:** One of your choice<br>
 **Equipment:** A worn captain’s insignia, a personal logbook with mission notes, a Guild-issued compass etched with your name, and a pouch containing 15 gp
@@ -14,10 +14,10 @@ type: "background"
 
 You’ve been trained to lead under extreme pressure. Choose two of the following benefits:
 
-- **Crisis Leadership:** When an ally within 30 feet fails a saving throw, you can use your reaction to shout a command or warning. They may reroll and must take the new result. You can use this feature once per long rest.
-- **Tactical Coordination:** You may use the Help action as a bonus action a number of times equal to your proficiency bonus per long rest.
-- **Resolve of the Leader:** When an ally is frightened, charmed, or stunned, you may spend your reaction to grant them an immediate saving throw against the effect (no advantage). You may do this once per long rest.
-- **Strategic Mapping:** You can recall battlefield layouts and enemy positions with great clarity. When in an environment you've studied (or observed for at least 10 minutes), you have advantage on Intelligence checks to navigate, predict movement, or avoid ambushes.
+- **Crisis Leadership:** When an ally within 30 feet fails a saving throw, you can use your reaction to shout a command or warning. They may reroll and must take the higher result. You can use this feature twice per long rest.
+- **Tactical Coordination:** You may use the Help action as a bonus action.
+- **Resolve of the Leader:** When an ally is frightened, charmed, or stunned, you may spend your reaction to grant them an immediate saving throw against the effect (no advantage). You may do a number of times equal to your proficiency bonus. You regain the uses of this feature after a long rest.
+- **Strategic Mapping:** You have an exceptional memory for terrain and tactical positions. If you spend at least 10 minutes observing an area, you cannot be surprised while there. In addition, you have advantage on Dexterity (Stealth) checks made to set up an ambush in that area.
 
 ### Suggested Characteristics
 
