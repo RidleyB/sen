@@ -4,8 +4,8 @@ toc: true
 ---
 
 {% capture image1 %}
-  <figure class="align-right">
-    <img src="assets/images/crash/ebb/disc-kiosk.png" alt="image" class="image" style="width: 312px;height: 312px;">
+  <figure class="align-center">
+    <img src="assets/images/crash/ebb/disc-kiosk.png" alt="image" class="image">
   </figure> 
 {% endcapture %}
 
@@ -15,39 +15,44 @@ toc: true
   </figure> 
 {% endcapture %}
 
-Welcome daring adventurers, and thanks for choosing to participate in an ongoing adventure series known as Crash! This site will hopefully lay out everything you need to know to get started on creating your character for this one-shot, as well as some surrounding lore for those interested.
+{% capture image3 %}
+  <figure class="align-center">
+    <img src="assets/images/crash/ebb/plibt-2.png" alt="image" class="image">
+  </figure> 
+{% endcapture %}
 
----
+*Welcome, daring adventurers, to Crash! — an ongoing series of perilous missions undertaken by the Guild of Discovery. This one-shot introduces your characters to the strange world of Plibt, where body and mind are never entirely your own.*
 
-# The Story
-<br>
+## The Guild of Discovery 
+
+The Guild is a coalition of explorers, scholars, and adventurers dedicated to venturing beyond the known and charting the uncharted. Among its ranks are the Crash Teams; small, highly trained units deployed into unstable or hazardous worlds.
+
+Your characters are members of one such team.
+
 {{ image1 }}
-**The Guild of Discovery:** a vanguard of explorers, scholars, and daring adventurers who push beyond the known to illuminate the dark corners of existence. Among their ranks, you stand as one of the few entrusted with the most dangerous assignments — the **Crash Teams**.
 
-Today, you’ve been drafted into one of the most unusual missions in recent Guild history.
+## The World of Plibt
+Plibt takes its name from the only sound made by its native inhabitants, the Plasmoids, when first encountered. The Guild established a research mission there weeks ago, but 18 hours ago all contact ceased. No signals. No survivors.
 
-The world is called **Plibt**, named after the only sound its native inhabitants — the **Plasmoids** — made when first contacted. A recent research expedition to Plibt went dark 18 hours ago; no signals, no return party. The only thing that made it back was a single data spike, pulsing with indecipherable psychic residue... and a location marker.
+Only a single data spike returned, pulsing with indecipherable psychic residue and locked to a single location within the alien world.
 
-**Your team has been chosen to investigate.**
+{{ image3 }}
 
-Your mission is not to rescue — not exactly. The last team was well aware of the risks. Your orders are to retrieve their research, assess what went wrong, and extract yourselves before exposure sets in. You’ve been warned: prolonged contact with Plibt changes people. Sometimes permanently.
+## Mission Briefing
 
-This is a world where thoughts echo, flesh bends, and identity is fluid. The line between self and other will blur. The line between explorer and specimen may blur too.
+Your orders are these:
 
+- Recover the data and biological samples from the missing research team.
+- Survive exposure to Plibt’s shifting environment.
+- Return before you suffer the same fate as the previous team.
 
-### **Your Objectives Are Clear:**
+The Guild’s warning is clear: prolonged contact with Plibt alters both mind and body. Some never return. Others have returned… different.
 
-* **Recover** the data and biological samples from the missing research team.
-* **Survive** exposure to Plibt's alien biosphere and psychic resonance.
-* **Return** before your minds or bodies become part of the world itself.
-
-The portal flares! You steel your nerves, and step forward... into the unknown!
-
-{{ image2 }}
-
----
-
-# Rules and Restrictions
+## Rules and Restrictions
 * This is a D&D5e adventure- if you are not familiar with this ruleset, ya best get to book-learnin'.
 * Please have your character backstory run by me prior to playing. Any level of depth is ok, but roleplay and lore-digging is always encouraged.
 * Each player **must choose** one of the five provided backgrounds. You are after all, a Guild of Discovery member! You can check them out [here](crash/backgrounds).
+
+{{ image2 }}
+
+The unknown awaits!
