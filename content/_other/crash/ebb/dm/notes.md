@@ -62,6 +62,7 @@ At **8 ticks**, the character is fully assimilated into the Crown, crystallizing
 * **Guild Medical Kit:** A sturdy steel case containing salves, bandages, and strange-smelling draughts. *Effect:* Functions as 3x **Potions of Healing**.
 * **Resonant Chisel (Brannic’s Tool):** A heavy iron chisel with a crystalline core. Designed to chip obsidian samples. *Effect:* Counts as a simple melee weapon (1d6 bludgeoning), dealing an extra 1d6 thunder damage to crystalline creatures. On a natural 20, it fractures crystal with resonant shock, killing crystalline creatures outright.
 * **SPELL SCROLL Scroll of Fireball (Hidden):** Buried beneath collapsed obsidian near the ruined ward circle. *Context:* Sybil’s contingency plan if the ward failed — a last-ditch attempt to burn crystalline growths away. *"Scribbled in Sybil's writing is a small note on top of an arcane scroll. It reads: "JIC".*
+* **Potion of Heroism**
 
 ---
 

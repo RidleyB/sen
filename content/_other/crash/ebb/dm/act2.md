@@ -26,47 +26,6 @@ This camp represents the first team's early optimism. If searched, the players f
 	* **Arcana DC 13:** *The circle is a psychic ward, designed to shield against invasive telepathic contact. Without a power source, it lies dormant. You figure with some supplies you could gather around the camp, you could recreate this ward elsewhere.*
 	* **Arcana DC 18:** *The ward shows evidence of strain. Whatever pressed against it was not gentle curiosity, but a persistent, probing pressure. The failure seems less like sabotage, more like overwhelming force.*
 
-## Skill Challenge: Sinkholes
-
-**Read Aloud:**<br>
-*The trail ahead leads across shallow pools of slick, black ooze. At first, the surface seems stable, but then—without warning—the ground ripples like disturbed water. With a wet collapse, one pool caves inward, exposing jagged crystal beneath. The air fills with a sharp tang of iron and ozone as the ooze hisses against the stone, releasing vapor like smoke from a smothered fire. More pools nearby begin to churn, threatening to give way.*
-
-**DC:** 14, standard for targeted skills, disadvantage for untargeted.<br>
-**Complexity:** 3/2 per character (successes/failures)
->Award advantage for creative skill uses. **Creative**, not a stretch.
-{: .notice--info}
-
-### Targeted Skills
-
-- **Survival / Nature:** Predict which ooze pools are unstable by observing subtle ripples, color shifts, or bubbling.
-
-- **Acrobatics**: Leap across narrow stable ridges of hardened ooze.
-
-- **Athletics**: Haul a teammate out when they sink or collapse part of a path into a safer slope.
-
-- **Perception**: Notice faint glimmers of crystal beneath the ooze, warning of a thin surface above caverns.
-
-- **Arcana / Religion**: Recognize that the ooze is “rejecting” areas where crystal is growing upward from the Crown’s expansion, causing the rapid shifts.
-
-### Complications (Failures)
-
-- A character slips into a sinkhole: restrained, sinking 10 ft. into a crystalline cavern below. Another must act quickly to save them (Athletics or Rope usage).
-- Shards of crystal spike upward as the caverns expand, dealing 2d6 piercing damage to anyone in range.
-- Lingering vapors from the ooze impose Disadvantage on the next check (burning eyes/throat).
-
-### Success Outcome
-
-- The party crosses safely, but with the eerie awareness that Plibt itself is restructuring beneath them.
-- They gain a narrative clue: crystalline growth is pushing upward into ooze pockets, forcing the world into violent flux.
-
-### Failure Outcome
-
-- One or more characters fall briefly into the crystalline caverns below, suffering damage and emerging coated in faint crystalline residue (first tick toward Unhappening).
-- The path forward is destabilized — forcing the party to detour, losing time before exposure sets in.
-
-*You look down at your arms, and see a super-fine coating of crystal dust clinging to your skin. You try to brush it off, but instead you feel is press into your skin, and disappear entirely. You feel them sink in, leaving faint lines of light that pulse once before fading. The echo lingers in your chest, like your heartbeat no longer belongs to you alone.*
-
-
 ## Camp Beta – Violence
 
 **Read Aloud:**
@@ -130,6 +89,50 @@ Soon after leaving Camp Gamma, the party is confronted by crystalline hybrids.
 This combat encounter should feel tragic. PCs with ties to the Guild may recognize names. Researcher PCs may identify the condition as “Unhappening with crystal interference.”
 
 Suggested stat blocks: *Wight* or *Ghast* with crystalline resistance (resist nonmagical bludgeoning/piercing/slashing).
+
+## Skill Challenge: Sinkholes (MIGHT SKIP THIS)
+
+**Read Aloud:**<br>
+*The trail ahead leads across shallow pools of ooze, like the sinkhole canyon from before. This time instead, the ooze is stained black, and the area seems hot and humid. At first, the surface seems stable, but then—without warning—the ground ripples like disturbed water. With a wet collapse, one pool caves inward, exposing jagged crystal beneath. Caustic mist fills the air, and you're hit with a sharp tang of iron and ozone as the ooze hisses and spits, releasing vapor like smoke from a smothered fire. More pools nearby begin to churn, threatening to give way.*
+
+*In the new cratered area below, you see a faint glittering as the hazy sunlight illuminates the sinkhole.*
+
+**DC:** 14, standard for targeted skills, disadvantage for untargeted.<br>
+**Complexity:** 3/2 per character (successes/failures)
+>Award advantage for creative skill uses. **Creative**, not a stretch.
+{: .notice--info}
+
+### Targeted Skills
+
+- **Survival / Nature:** Predict which ooze pools are unstable by observing subtle ripples, color shifts, or bubbling.
+
+- **Acrobatics**: Leap across narrow stable ridges of hardened ooze.
+
+- **Athletics**: Haul a teammate out when they sink or collapse part of a path into a safer slope.
+
+- **Perception**: Notice faint glimmers of crystal beneath the ooze, warning of a thin surface above caverns.
+
+- **Arcana / Religion**: Recognize that the ooze is “rejecting” areas where crystal is growing upward from the Crown’s expansion, causing the rapid shifts.
+
+### Complications (Failures)
+
+- A character slips into a sinkhole: restrained, sinking 10 ft. into a crystalline cavern below. Another must act quickly to save them (Athletics or Rope usage).
+- Shards of crystal spike upward as the caverns expand, dealing 2d6 piercing damage to anyone in range.
+- Lingering vapors from the ooze impose Disadvantage on the next check (burning eyes/throat).
+
+### Success Outcome
+
+- The party crosses safely, but with the eerie awareness that Plibt itself is restructuring beneath them.
+- They gain a narrative clue: crystalline growth is pushing upward into ooze pockets, forcing the world into violent flux.
+
+### Failure Outcome
+
+- One or more characters fall briefly into the crystalline caverns below, suffering damage and emerging coated in faint crystalline residue (first tick toward Unhappening).
+- The path forward is destabilized — forcing the party to detour, losing time before exposure sets in.
+
+*You look down at your arms, and see a super-fine coating of crystal dust clinging to your skin. You try to brush it off, but instead you feel is press into your skin, and disappear entirely. You feel them sink in, leaving faint lines of light that pulse once before fading. The echo lingers in your chest, like your heartbeat no longer belongs to you alone.*
+
+
 
 {% endcapture %}
 

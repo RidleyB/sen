@@ -54,6 +54,66 @@ Encounters in this section should emphasize **atmosphere and unease** rather tha
 * Reflections in the mist showing the party’s faces, but subtly altered.
 * A whisper that calls a PC by name.
 
+## Skill Challenge
+
+### **Area 1 – The Fork**
+
+*The trail fractures into two paths, each swallowed by creeping ooze. To the north, the way glimmers faintly, as if something lurks beneath the surface. To the east, the ground is darker and irregular, trembling faintly as though waiting to collapse.*
+
+* **Choice:** Players decide to go **north (1a)** or **east (1b)**.
+
+### **1a – Sticky Chamber (North)**
+
+*The air grows thick and oppressive, a syrupy humidity clinging to your skin. You notice faint glimmers in the translucent walls around you — bones, gear, and… faces. Then the ground beneath you shifts with a sickly slurp, and a massive, semi-transparent cube surges forward.*
+
+* **Encounter:** **Gelatinous Cube**
+
+  * The terrain is slick; failed Dex saves may restrain characters in sticky ooze patches.
+  * Reward: After defeating the Cube, players can free a half-dissolved pack containing a **Potion of Greater Healing** or a **Scroll of Fireball** (high Investigation DC).
+* **Exits:** Connects to **Area 2** and **Area 3**.
+
+
+### **1b – The Weeping Path (East)**
+
+*This route feels unstable from the start: the ground sloshes underfoot, every step threatening to give way. Strange humming echoes faintly from below, as though the world is sighing in protest.*
+
+* **Mechanics:** Each character must make a **Dexterity saving throw (DC 13)** or sink waist-deep.
+
+  * Failure: take **2d6 acid damage** and gain **1 Unhappening tick**.
+  * Success: Press on, but the party emerges weary.
+* **Exits:** Connects to **Area 3**.
+
+
+### **Area 2 – Lost Remains**
+
+*Half-sunken in the translucent ground lies the broken frame of a Guild explorer, their badge fused into warped gear. What little remains seems to have been preserved by the ooze.*
+
+* **Reward:** High DC Investigation (15–17) uncovers one of the following (choose from list):
+* **Dead End.**
+
+### **Area 3 – The Ridge**
+
+*The ground narrows into a slick ridge of hardened ooze, forcing you to edge along carefully. Below, a yawning sinkhole seethes with bubbling acid and jagged crystal teeth, opening and closing as though breathing.*
+
+* **Choice:** Players must **Sidle along the ridge** (Dex or Acrobatics DC 14) or **risk the sinkhole**.
+* **Failing the Ridge Check:** Roll 1d4 consequence:
+
+  1. Lose a pack item (falls into the acid).
+  2. Take **2d10 acid damage**.
+  3. Gain **1 Unhappening tick** (contact with crystallized vapor).
+  4. Get knocked prone, forcing another ally to help.
+* **Exit:** Leads to **Area 4**.
+
+### **Area 4 – Safe Junction**
+
+*For the first time in what feels like hours, the ground stabilizes beneath you. No shifting, no bubbling, no distant hums. Just silence.*
+
+* **Guild Marker:** With a Perception DC 13, characters spot a **Guild sigil etched into hardened ooze** — a subtle mark left by the previous team. **Effect:** Any character who finds the mark regains **1 Inspiration**.
+
+### **Area 5 – Ooze Pools (Final Hazard)**
+
+Like the ridge, but needing two successess before two failures. Be creative.
+
 ## A Likeness
 
 **Read Aloud:**<br>
