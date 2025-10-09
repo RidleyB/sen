@@ -1,5 +1,5 @@
 ---
-title: "DM Directory"
+title: "Main DM Directory"
 permalink: "/devposts/dmdir"
 ---
 
@@ -7,11 +7,9 @@ If you've made it here, and you're not the DM of this adventure, I advise you he
 
 {% capture page-content %}
 
-- [Notes](../crash/ebb/dm/dont-look/notes)<br>
-- [Act 1](../crash/ebb/dm/dont-look/act1)<br>
-- [Act 2](../crash/ebb/dm/dont-look/act2)<br>
-- [Act 3](../crash/ebb/dm/dont-look/act3)<br>
-- [Act 4](../crash/ebb/dm/dont-look/act4)<br>
+- [The Big Break](../devposts/dmdir-bb)<br>
+- [Ebb and Flow](../devposts/dmdir-ebb)<br>
+- [The Ember Tomb](../devposts/dmdir-tet)<br>
 
 {% endcapture %}
 

@@ -3,21 +3,11 @@ sidebar:
     children:
       - title: Playable Races
         url: /lore/races
-      - title: Rules & Restrictions
-        url: /rules
-
-  - title: "Handouts"
-    children:
-      - title: "Backgrounds"
-        url: /crash/backgrounds
-      - title: "Inspiration"
-        url: /crash/inspiration
-
-  - title: "Lore"
-    children:
       - title: "The Celestial City"
         url: /lore/the-celestial-city
       - title: Guild of Discovery
         url: /lore/guild-of-discovery
-      - title: Connected Worlds
-        url: /lore/worlds
+  - title: "Crash"
+    children:
+      - title: The Ember Tomb
+        url: /
