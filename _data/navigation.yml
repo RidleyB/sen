@@ -1,13 +1,14 @@
 sidebar: 
-  - title: "Content"
-    children:
-      - title: Playable Races
-        url: /lore/races
-      - title: "The Celestial City"
-        url: /lore/the-celestial-city
-      - title: Guild of Discovery
-        url: /lore/guild-of-discovery
   - title: "Crash"
     children:
       - title: The Ember Tomb
         url: /
+
+  - title: "Setting Content"
+    children:
+      - title: "The Celestial City"
+        url: /lore/the-celestial-city
+      - title: Guild of Discovery
+        url: /lore/guild-of-discovery
+      - title: Playable Races
+        url: /lore/races
