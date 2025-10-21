@@ -126,7 +126,6 @@ defaults:
         overlay_filter: 0.5
       layout: single
       disable_title: true
-      secret: false
       disable_pagination: true
       excerpt_separator: <!--more-->
       sidebar:
@@ -135,38 +134,23 @@ defaults:
   - scope:
       path: "content/_character"
     values:
-      layout: single-character
       category: character
-      toc: true
-      toc_sticky: true
-      sidebar:
-        nav: sidebar
 
   - scope:
       path: "content/_lore"
     values:
       category: lore
-      toc: true
-      toc_sticky: true
-      sidebar:
-        nav: sidebar
 
   - scope:
       path: "content/_locations"
     values:
       category: locations
-      toc: true
-      toc_sticky: true
-      sidebar:
-        nav: sidebar
 
   - scope:
       path: "content/_races"
     values:
       caption: ""
       category: races
-      toc: true
-      toc_sticky: true
 
   - scope:
       path: "content/_devposts"

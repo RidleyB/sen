@@ -4,7 +4,7 @@
 
 #main {
   @include clearfix;
-  margin-left: auto;
+  margin-left: 5%;
   margin-right: auto;
   padding-left: 1em;
   padding-right: 1em;
@@ -203,6 +203,7 @@ body {
     }
 
     .wrapper {
+      margin-left: 5%;
       padding-left: 1em;
       padding-right: 1em;
 
@@ -211,7 +212,7 @@ body {
       }
     }
 
-    .page__title,
+    .page__title
     .page__meta,
     .page__lead,
     .btn {
