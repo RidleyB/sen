@@ -1,7 +1,7 @@
 ---
 title: "Magic & Mysticism"
 header:
-   excerpt: "*“Tarry not the blessings you have been given; seek no others.”*"
+   excerpt: "*“Do not take for granted the blessings you have been given; seek no others.”*"
 ---
 
 Arcane magic is everywhere and nowhere in Mordt — **pervasive, but restricted**. The Ascendants wield it freely, claiming only they have been “perfected” enough to bear the Dawn’s flame. Mortals who practice it without sanction are heretics, rebels, or smugglers of forbidden knowledge.

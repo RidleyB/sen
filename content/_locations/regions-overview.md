@@ -10,7 +10,7 @@ a {
 }
 </style>
 
-{% assign lore_with_region = site.lore | where_exp: "item", "item.region" %}
+{% assign lore_with_region = site.locations | where_exp: "item", "item.region" %}
 {% assign sorted_lore = lore_with_region | sort: "region" %}
 
 {% for page in sorted_lore %}

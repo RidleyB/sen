@@ -3,8 +3,8 @@ title:  "Ashes of the Fallen"
 permalink: /
 
 header:
-   excerpt: "*“Darkness fell, and the light answered.”*"
-   overlay_image: /assets/images/crash/crash3/embertomb-bw.png
+   excerpt: "*“Darkness fell, and I answered.”*"
+   overlay_image: /assets/images/mordt/oubliette-half.png
    overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
 
 ---
@@ -43,6 +43,6 @@ Your story begins where all revolutions do: **in chains.**
 
 The Mordt awaits your discovery:
 
-- Read about the different [regions of Nimyria](/lore/regions-overview).
-- Learn what [ancestries](/lore/races) are available.
+- Read about the different [regions of Nimyria](locations/regions-overview).
+- Learn what [ancestries](/races) are available.
 - Explore the [history of Nimyria](/lore/history).

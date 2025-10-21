@@ -1,5 +1,7 @@
 ---
 title: Vaelmoor
+header:
+  excerpt: "*“A city of shimmering glass; reflecting and brilliant.”*"
 ---
 
 Vaelmoor stands as a glittering metropolis of marble towers and mirrored streets. Ascendants walk its plazas like demigods, while humans and Nimyrians labor in the depths of the city’s underworks — the Warrens — where little light reaches.

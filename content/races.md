@@ -1,10 +1,10 @@
 ---
-title: Races
+title: People of Nimyria
 permalink: "/lore/races"
 
 header:
   excerpt: "*“Light, illuminate us all.”*"
-  overlay_image: assets/images/sacred-eye-1.png
+  overlay_image: assets/images/mordt/dawnspire-half.png
   overlay_filter: 0.5
 ---
 
@@ -12,6 +12,6 @@ header:
 {% assign sorted_race = races | sort: "race" %}
 
 {% for page in sorted_race %}
-## [{{ page.title }}](/sen{{ page.url }})
+## [{{ page.title }}](/sen{{ page.url }}) {% if page.title contains "Ascendant" %}(Not Playable){% endif %}
 {{ page.excerpt }}
 {% endfor %}

@@ -16,10 +16,10 @@ The main source of light Mordt recieves comes from the **Dawnspire**, a citadel 
 
 As the light stretches outwards, its strength wanes along the outer edges of the continent. While Inner Nimyria and the Silver Marches recieve plenty of warmth and light from the Dawnspire, the outer provinces of Palor and Farshade recieve less of the bounty provided by Nimyr.
 
-### Day
+## Day
 
 Day is defined by the period when the Dawnspire shines brightest, offering the feeling of an overcast day throughout the Nimyrian countryside. The light from the spire offers warmth for the people, and light for crops and vegetables to grow and flourish. Due to the location of the Dawnspire, the "sun" comes from the northeast section of Mordt, low on the horizon, giving the impression of a perpetual sunrise.
 
-### Night
+## Night
 
 Night is defined by the period when the Dawnspire dims, offering a period of twilight for those to rest from a day's work. The light never leaves the sky, instead giving a feeling of perpetual sunset.

@@ -63,11 +63,11 @@ sidebar:
       - title: Sunder
         url: /locations/sunder
 
-  - title: "Places of Interest"
-    children:
-      - title: Dawnspire
-        url: /poi/dawnspire
-      - title: Vaelmoor
-        url: /poi/vaelmoor
-      - title: Oubliette
-        url: /poi/oubliette
+ # - title: "Places of Interest"
+ #   children:
+ #     - title: Dawnspire
+ #       url: /poi/dawnspire
+ #     - title: Vaelmoor
+ #       url: /poi/vaelmoor
+ #     - title: Oubliette
+ #       url: /poi/oubliette
