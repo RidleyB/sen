@@ -10,10 +10,10 @@ minimal_mistakes_skin: "dark"
 locale: "en-US"
 url: "https://ridleyb.github.io"
 baseurl: "/sen"
-title: Crash
+title: Ashes of the Fallen
 title_separator: "|"
-name: &gmname "Guildmaster Demivin"
-logo: "/assets/images/logos/discovery-logo.png"
+name: &gmname "Adam"
+logo: "/assets/images/logos/ashes.png"
 email: adam.brown.x.ridley@gmail.com
 description: ""
 github_username: "RidleyB"
@@ -74,15 +74,11 @@ collections:
     output: true
     permalink: :collection/:title
 
-  characters:
+  character:
     output: true
     permalink: :collection/:title
 
-  content:   
-    output: true
-    permalink: :collection/:title
-
-  other:   
+  poi:
     output: true
     permalink: :collection/:title
 
@@ -90,19 +86,7 @@ collections:
     output: true
     permalink: :collection/:title
 
-  deities:   
-    output: true
-    permalink: :collection/:title
-
-  worlds:   
-    output: true
-    permalink: :collection/:title
-
-  5econtent:
-    output: true
-    permalink: :collection/:title
-
-  journal:
+  locations:   
     output: true
     permalink: :collection/:title
 
@@ -147,50 +131,13 @@ defaults:
         nav: sidebar
 
   - scope:
-      path: "content/_content"
-    values:
-      category: content
-      excerpt_separator: <!--more-->
-      header:
-        overlay_image: /assets/images/sen-splash-2.jpg
-        overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-        caption: ""
-      sidebar:
-        nav: sidebar
-
-  - scope:
-      path: "content/_characters"
+      path: "content/_character"
     values:
       layout: single-character
-      sidebar_ext:
-        before_nav: true
-        image: true
-        excerpt: true
-        title: true
-      category: characters
-      toc: true
-      toc_sticky: true
-      sidebar:
-        nav: sidebar
-      char_data:
-        - element_title: "Pronouns"
-        - element_title: "Race"
-        - element_title: "Age"
-        - element_title: "Height"
-        - element_title: "Hair"
-        - element_title: "Skin"
-        - element_title: "Eyes"
-      dead: false
-
-  - scope:
-      path: "content/_factions"
-    values:
-      sidebar_ext:
-        before_nav: true
-        image: true
-        excerpt: true
-        title: true
-      category: factions
+      header:
+        overlay_image: /assets/images/sen-splash-1.jpg
+        overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
+      category: character
       toc: true
       toc_sticky: true
       sidebar:
@@ -199,15 +146,22 @@ defaults:
   - scope:
       path: "content/_lore"
     values:
-      sidebar_ext:
-        before_nav: true
-        excerpt: true
-        title: true
       header:
         overlay_image: /assets/images/sen-splash-1.jpg
         overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-        caption: ""
       category: lore
+      toc: true
+      toc_sticky: true
+      sidebar:
+        nav: sidebar
+
+  - scope:
+      path: "content/_locations"
+    values:
+      header:
+        overlay_image: /assets/images/sen-splash-1.jpg
+        overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
+      category: locations
       toc: true
       toc_sticky: true
       sidebar:
@@ -216,46 +170,14 @@ defaults:
   - scope:
       path: "content/_races"
     values:
-      sidebar_ext:
-        before_nav: true
-        title: true
-        image: true
+      header:
+        overlay_image: /assets/images/sen-splash-1.jpg
+        overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
+        caption: ""
       category: races
       toc: true
       toc_sitcky: true
-
-  - scope:
-      path: "content/_deities"
-    values:
-      sidebar_ext:
-        before_nav: true
-        title: true
-      category: deities
-      toc: true
-      toc_sitcky: true
-
-  - scope:
-      path: "content/_worlds"
-    values:
-      sidebar_ext:
-        before_nav: true
-        title: true
-        image: true
-      category: worlds
-      toc: true
-      toc_sitcky: true
-
-  - scope:
-      path: "content/_5econtent"
-    values:
-      category: 5econtent
-
   - scope:
       path: "content/_devposts"
     values:
       category: devposts
-
-  - scope:
-      path: "content/journal"
-    values:
-      category: journal

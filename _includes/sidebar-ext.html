@@ -1,4 +1,4 @@
-﻿{% if page.sidebar_ext.image %}
+{% if page.sidebar_ext.image %}
   {% include sidebar-image.html %}
 {% endif %}
 
@@ -7,15 +7,15 @@
 {% endif %}
 
 {% if page.sidebar_ext.excerpt %}
-  {% include sidebar-excerpt.html %}
+  {% include sidebar-excerpt.html content=page.excerpt %}
 {% endif %}
 
 {% if page.char_data %}
   {% include character.html data=page.char_data %}
 {% endif %}
-<br>
 
 {% if page.children or page.parents or page.siblings or page.partners %}
+<br>
   {% include character-family.html %}
 {% endif %}
 
