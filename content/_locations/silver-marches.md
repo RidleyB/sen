@@ -13,7 +13,3 @@ The Silver Marches form the fertile heart of Nimyria, a vast central expanse tha
 
 **Geography:**  
 Rolling plains stretch endlessly across the Marches, broken only by shimmering irrigation canals and distant spires of white stone. The soil glitters faintly under sunlight, giving the region its name. During the height of the day, heat waves ripple like polished glass, and at night, faint reflections of the Dawnspire shimmer across the horizon. Despite its beauty, the Marches feel eerily uniform- the result of centuries of divine and imperial cultivation.
-
-**Trivia & Notes:**  
-- Locals take quiet pride in the phrase, *“As goes the Marches, so goes the Empire.”*  
-- Rumors persist that the fertility of the soil has begun to wane farther from the Dawnspire’s light, though officials deny it.

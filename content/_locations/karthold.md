@@ -17,6 +17,3 @@ The island is barren and hostile- jagged cliffs rising from a gray sea, its surf
 **Places of Interest**
 
 - **Oubliette:** A fortress-prison carved into the stone at the heart of Karthold, acting as the central hub to its inner workings.
-- **The Iron Causeway:** The main lifeline between the Oubliette and Karthold's coastline, the Iron Causeway is a fortified road lined with ever-burning braziers of silver flame.
-- **The Wastes of Veir** — An abandoned quarry field now flooded with toxic water, home to warped wildlife and desperate escapees.
-

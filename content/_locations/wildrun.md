@@ -13,8 +13,3 @@ Wildrun is a vast and untamed island northeast of the mainland, home mainly to b
 
 **Geography:**  
 Dense cold jungles and moss-covered fens cover most of Wildrun, broken by deep valleys and rivers that flow between the hills. The air is heavy with a cold humidity. Ancient stone ruins lie buried beneath roots and vines — fragments of a civilization that may predate even Nimyr’s rise. Storms often circle the island’s edges, making approach by sea treacherous and unpredictable.
-
-**Trivia & Notes:**  
-- The beastfolk speak in guttural tones and mimicry; some claim they understand Common, but this has never been substantiated.
-- Imperial scouts who venture inland often vanish without a trace — their gear later found strung between trees like trophies.  
-- Beastmen pelts and trophies are illegal to trade within Nimyria, though black markets thrive on them.  

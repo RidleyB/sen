@@ -13,8 +13,3 @@ The Isles of Ash and Frost are a scattered chain of barren islands along Nimyria
 
 **Geography:**  
 The isles are stark and lifeless — jagged stone, thin snow, and volcanic glass crusting their shores. The air is cold even under sunlight, and the sea surrounding them is known for sudden shifts between steaming warmth and frigid fog.
-
-
-**Trivia & Notes:**  
-- Mariners call them *“the Breathless Isles,”* for no wind seems to stir once one nears their coasts.  
-- Cartographers mark the region as “uninhabitable,” though updated charts are conspicuously rare.  
