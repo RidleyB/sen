@@ -27,7 +27,7 @@ North of the mainland, where the light grows dim lies Karthold- the empire’s e
 
 At the heart of the island looms the Oubliette, the underground fortress-prison that oversees the mines. Its walls are said to be fused with living silver — a gift from the Ascendants themselves — and its Warden, Malrec, is one of their kind. Here, the Ascendants’ word is law, and their light is as cruel as it is divine.		
 
-**It is within these depths that you find yourself**. You bear your own reasons for being here — wrongfully imprisoned, a rebel in hiding, or a criminal in truth — yet all share the same truth: in Karthold, no one leaves alive.
+**It is within these depths that you find yourself**. You bear your own reasons for being here -wrongfully imprisoned, a rebel in hiding, or a criminal in truth— yet all share the same truth: in Karthold, no one leaves alive.
 
 ## RISE FROM THE ASHES
 
