@@ -24,3 +24,22 @@ Long ago, entire villages vanished beneath this curse, and it is said the first 
 Few who return from such encounters remain unchanged. Some bear the scars of the beasts. Others speak of hearing their names whispered by unseen voices in the night. The Church claims the curse is a punishment for turning from the Argent Light; others claim it is a sickness born of the land itself, a reminder that Mordt has not forgotten what it was before the Dawnspire rose.
 
 Whatever its source, the Beastman’s Curse endures. Whether the Isle of Wildrun, in the dim of Farshade or the deep reaches of the Dust, eyes gleam in the dark—watching, waiting, remembering what humanity once was.
+
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+<figure class="align-center" style="width:50%;">
+  <img src="../assets/images/mordt/mordt-logo-transparent.png" alt="image" class="image">
+</figure>
+
+
+<div style="text-align: center;"><i>
+The hills doth shift where no light shines<br>
+and winds carry voices that forget their names.<br>
+Rivers twist like whispered lies,<br>
+and stones remember the weight of eyes.<br>
+<br>
+The trees lean close, yet never speak,<br>
+and night drips slow 'twixt bones of day.<br>
+All who wander taste the world’s own curse,<br>
+and are shaped by the land's cruel way.<br>
+</i></div>

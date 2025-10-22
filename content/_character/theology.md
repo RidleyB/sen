@@ -13,3 +13,22 @@ Paladins once stood as the Empire’s holy enforcers — armored vessels of Nimy
 > **Paladins** in play: Player paladins may be renegade templars, wandering knights, or reborn oathkeepers who swear themselves to an unknown calling. 
 
 > **Clerics** in play: Player clerics may begin as lost believers, rogue healers, or outcasts of the Empire’s church. Their faith may feel uncertain or self-driven — a **search for the true light** rather than blind service to the silver dawn.
+
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+<figure class="align-center" style="width:50%;">
+  <img src="../assets/images/mordt/nimyr-logo-transparent.png" alt="image" class="image">
+</figure>
+
+
+<div style="text-align: center;"><i>
+His light is sharp, it never lies,<br>
+it draws a truth that none can hide.<br>
+From dark to light, the world did turn,<br>
+From ashes to fire, the world did burn.<br>
+<br>
+All that is secret shivers near,<br>
+all that remains will bend and bend.<br>
+Nimyr holds the world at its wounds,<br>
+and will to it's bitter end.<br>
+</i></div>
