@@ -14,3 +14,6 @@ Inner Nimyria is the heartland of the Ascended Nimyrians — a gleaming coastal 
 **Geography:**  
 The region stretches along the eastern coast of the continent, marked by rolling silver-grass plains and calm, mist-covered shores. Rivers shimmer faintly at dawn, reflecting the distant light of the Spire, and crystalline growths are common along cliff faces — some said to hum with a low resonance. Inland, scattered groves and tranquil lakes create a landscape both serene and strangely ordered, as if shaped by divine intention rather than nature.
 
+<figure class="align-center">
+  <img src="../assets/images/mordt/{{ page.title | slugify }}.png" alt="image" class="image">
+</figure> 

@@ -118,8 +118,7 @@ defaults:
       path: ""
     values:
       header:
-        overlay_image: /assets/images/mordt/dawnspire2.png
-        overlay_filter: 0.5
+        overlay_image: /assets/images/mordt/dawnspire-half.png
       layout: single
       disable_title: true
       disable_pagination: true

@@ -6,6 +6,13 @@ header:
    excerpt: "*“They saw true darkness, and lost their humanity as a result.”*"
 ---
 
+{% capture image %}
+<figure class="align-right" style="width:50%;">
+  <img src="../assets/images/mordt/beastman.png" alt="image" class="image">
+</figure>
+{% endcapture %}
+
+{{ image }}
 There are places in Mordt where the light of Nimyr fades, where the wind carries voices that are not quite human, and where the earth itself seems to whisper in hunger. In these forsaken reaches, men are known to lose themselves; to hunger, to fear, to madness. The scholars of Vaelmoor call it **feral rot**, but the common folk know it by another name: the **Beastman’s Curse**.
 
 <!--more-->

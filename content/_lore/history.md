@@ -7,13 +7,13 @@ header:
 ## The Age of Exodus (Year ???)
 *“The skies burned, and the stars went dark.”*
 
-The first stories speak of a **cataclysm on humanity’s original world** — a collapse of light and matter so total that whole nations vanished overnight. The survivors fled through celestial rifts and planar fractures, carried on desperate magic and divine mercy.
+The first stories speak of a **cataclysm on humanity’s original world**, a collapse of light and matter so total that whole nations vanished overnight. The survivors fled through celestial rifts and planar fractures, carried on desperate magic and divine mercy.
 
-One great fleet of refugees found a cold, twilight world — **Mordt** — shrouded in storms and silence. They built crude settlements along the coasts and plains, but the soil was barren, the sky dim, and monsters thrived in every shadow.
+One great fleet of refugees found a cold, twilight world -**Mordt**- shrouded in storms and silence. They built crude settlements along the coasts and plains, but the soil was barren, the sky dim, and monsters thrived in every shadow.
 
 **This period was marked by:**
 
-* The **loss of history** — humanity’s libraries, gods, and knowledge burned away.
+* The **loss of history**- humanity’s libraries, gods, and knowledge burned away.
 * The rise of **fragmented kingships**, tribes, and warlords.
 * Constant **conflict and famine**, as the refugees fought over meager warmth and food.
 * The **beastmen** appeared. Once human, now devolved by isolation, cold, and a strange curse.
@@ -36,7 +36,7 @@ Within a century, the rest of humankind either converted or fled into the countr
 ## The Age of the Spire (Year 301–600 A.C.)
 *“The bridge between heaven and hell was raised.”*
 
-With the Covenant sealed, Nimyr’s followers began constructing the **Dawnspire** atop a great mountain. The structure was not built by mortal hands alone — it was *grown* from light and stone, said to pierce both heaven and the Dawn Below.
+With the Covenant sealed, Nimyr’s followers began constructing the **Dawnspire** atop a great mountain. The structure was not built by mortal hands alone; it was wrought from light and stone, said to pierce both heaven and the Dawn Below.
 
 When the Spire was completed, Nimyr’s power fully entered Mordt. The land around it flourished: crops grew, winters thawed, and disease waned. But so too did the **touch of shadow and free will** — the people’s minds turned ever toward their burning god.
 
@@ -51,7 +51,7 @@ When the Spire was completed, Nimyr’s power fully entered Mordt. The land arou
 
 The **Nimyrian Empire** reached its zenith. Under the guidance of the Nimyr, roads of silver glass connected cities, temples burned eternally, and Nimyr’s worship became the law of the land.
 
-But the farther one traveled from Vaelmoor, the weaker the Spire’s warmth grew — and the more the **old world’s darkness stirred.** Increased reports of strange attacks on remote settlements that has people whispering the monster's name; vampire.
+But the farther one traveled from Vaelmoor, the weaker the Spire’s warmth grew, and the more the **old world’s darkness stirred.** Increased reports of strange attacks on remote settlements that has people whispering the monster's name; vampires.
 
 Beyond the Empire’s light:
 
@@ -63,12 +63,12 @@ By its end, the Empire’s perfection began to rot. The Ascended ruled as gods, 
 ## The Age of Fracture (Year 801–Present A.C.)
 *“The light still burns.”*
 
-Now, over **fifteen centuries since the first human landed on Mordt**, the Empire endures — vast, mighty, but fraying.
+Now, over **fifteen centuries since the first human landed on Mordt**, the Empire endures- vast, mighty, but fraying.
 
 * The **Ascended** fight among themselves, each claiming to speak Nimyr’s will.
 * The **regular Nimyrians (Tieflings)** are weary, many doubting the promise of ascension.
 * **Humans** live as servants, farmers, and rebels, their memory of freedom passed in secret songs.
-* **The Dawnspire** still burns, its light reaching across the heartlands — but every year, it dims slightly.
+* **The Dawnspire** still burns, its light reaching across the heartlands.
 
 Whispers say Nimyr’s power wanes because **his domain feeds on belief**, and faith is fading. If the Spire falls, **Nimyr’s light dies with it.**
 
@@ -78,4 +78,4 @@ And somewhere, in the dark between provinces, **the first embers of rebellion sp
 
 The Nimyrian calendar begins at the moment **King Vaelor accepted Nimyr’s pact**.
 
-All official records are dated **A.C. — “After the Covenant.”**
+All official records are dated **A.C.-  “After the Covenant.”**

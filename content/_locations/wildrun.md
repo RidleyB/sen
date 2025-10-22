@@ -13,3 +13,7 @@ Wildrun is a vast and untamed island northeast of the mainland, home mainly to b
 
 **Geography:**  
 Dense cold jungles and moss-covered fens cover most of Wildrun, broken by deep valleys and rivers that flow between the hills. The air is heavy with a cold humidity. Ancient stone ruins lie buried beneath roots and vines — fragments of a civilization that may predate even Nimyr’s rise. Storms often circle the island’s edges, making approach by sea treacherous and unpredictable.
+
+<figure class="align-center">
+  <img src="../assets/images/mordt/{{ page.title | slugify }}.png" alt="image" class="image">
+</figure> 

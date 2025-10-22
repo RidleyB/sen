@@ -17,3 +17,7 @@ The island is barren and hostile- jagged cliffs rising from a gray sea, its surf
 **Places of Interest**
 
 - **Oubliette:** A fortress-prison carved into the stone at the heart of Karthold, acting as the central hub to its inner workings.
+
+<figure class="align-center">
+  <img src="../assets/images/mordt/{{ page.title | slugify }}.png" alt="image" class="image">
+</figure> 
