@@ -46,6 +46,8 @@ lsi: false
 incremental: false
 footer_scripts: true
 
+timezone: America/New_York
+
 kramdown:
   input: GFM
   hard_wrap: false
