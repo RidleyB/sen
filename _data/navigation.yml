@@ -39,6 +39,8 @@ sidebar:
         url: /races/ascendant
       - title: Dhampir
         url: /races/dhampir
+      - title: "Slavery & Imprisoment"
+        url: /lore/slavery
 
   - title: "Regions of Nimyria"
     children:
