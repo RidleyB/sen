@@ -31,15 +31,24 @@ Whatever its source, the Beastman’s Curse endures. Whether the Isle of Wildrun
   <img src="../assets/images/mordt/mordt-logo-transparent.png" alt="image" class="image">
 </figure>
 
-
 <div style="text-align: center;"><i>
-The hills doth shift where no light shines<br>
-and winds carry voices that forget their names.<br>
-Rivers twist like whispered lies,<br>
-and stones remember the weight of eyes.<br>
+Once there was a gentle man,<br>
+Who feared no night, nor shadowed land.<br>
+He lit no lamps, he brought no friends,<br>
+And walked alone to meet his end.<br>
 <br>
-The trees lean close, yet never speak,<br>
-and night drips slow 'twixt bones of day.<br>
-All who wander taste the world’s own curse,<br>
-and are shaped by the land's cruel way.<br>
+The dark, it whispered soft and low,<br>
+It promised things he’d yearned to know.<br>
+He listened close, he let it in,<br>
+And thus the night became his skin.<br>
+<br>
+It filled his chest, it cracked his frame,<br>
+'Til gentle man was not the same.<br>
+His teeth grew sharp, his nails grew long,<br>
+His gentle face turned very wrong.<br>
+<br>
+Now when the lamps burn faint or fade,<br>
+And darkness seeps through mist and glade,<br>
+So mind yourself when dark appears,<br>
+The gentle man is always near.<br>
 </i></div>

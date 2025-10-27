@@ -27,8 +27,8 @@ it draws a truth that none can hide.<br>
 From dark to light, the world did turn,<br>
 From ashes to fire, the world did burn.<br>
 <br>
-All that is secret shivers near,<br>
-all that remains will bend and bend.<br>
-Nimyr holds the world at its wounds,<br>
+All that is secret will shiver and fear,<br>
+all that remains will bend.<br>
+Ahe light holds the whole world at its wounds,<br>
 and will to it's bitter end.<br>
 </i></div>
