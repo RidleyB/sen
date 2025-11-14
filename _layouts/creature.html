@@ -1,0 +1,336 @@
+---
+layout: default
+---
+
+<style>
+
+.page
+{
+    width: 100%;
+}
+
+.stat-block h1
+{
+    font-family: "Calluna",Georgia,serif;
+    text-align: left;
+    padding: 0;
+    color: #922610;
+    font-size: 23px;
+    line-height: 1.2em;
+    margin: 10px 0 0;
+    letter-spacing: 1px;
+    font-variant: small-caps;
+    font-weight: bold;
+}
+
+.stat-block h2
+{
+    font-family: "Calluna",Georgia,serif;
+    color: #333;
+    text-align: left;
+    padding: 0;
+    font-weight: normal;
+    font-style: italic;
+    font-size: 12px;
+    line-height: 1.2em;
+    margin: 0 0 10px;
+}
+
+.stat-block h3
+{
+    font-family: "Calluna",Georgia,serif;
+    line-height: 1.2em;
+    text-align: left;
+    border-bottom: 1px solid #7A200D;
+    color: #7A200D;
+    font-size: 21px;
+    font-variant: small-caps;
+    font-weight: normal;
+    letter-spacing: 1px;
+    padding: 0 0 10px;
+    text-indent: 5px;
+    margin: 0 0 10px;
+}
+
+.stat-block p
+{
+    font-family: "Calluna",Georgia,serif;
+}
+
+.stat-block 
+{
+    font-family: "Calluna",Georgia,serif;
+    font-weight: 400;
+    color: #333;
+    font-size: 13.5px;
+    line-height: 1.2em;
+    box-sizing: border-box;
+    max-width: 100%;
+    text-align: left;
+    vertical-align: top;
+    width: 50%;
+    min-width: 280px;
+    background: #FDF1DC;
+    padding: 5px 10px 20px;
+    box-shadow: 0 0 1.5em #867453;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.stat-block .section-left
+{
+    font-family: "Calluna",Georgia,serif;
+    font-weight: 400;
+    color: #333;
+    font-size: 13.5px;
+    line-height: 1.2em;
+    text-align: left;
+}
+
+.creature-heading
+{
+    font-family: "Calluna",Georgia,serif;
+    font-weight: 400;
+    color: #333;
+    font-size: 13.5px;
+    line-height: 1.2em;
+    text-align: left;
+}
+
+.tapered-rule
+{
+    font-family: "Calluna",Georgia,serif;
+    font-weight: 400;
+    font-size: 13.5px;
+    line-height: 1.2em;
+    text-align: left;
+    display: block;
+    width: 100%;
+    height: 5px;
+    border: none;
+    color: #922610;
+    fill: #922610;
+    stroke: #922610;
+}
+
+.top-stats
+{
+    font-family: "Calluna",Georgia,serif;
+    font-weight: 400;
+    color: #333;
+    font-size: 13.5px;
+    line-height: 1.2em;
+    text-align: left;
+}
+
+.property-line .first
+{
+    font-family: "Calluna",Georgia,serif;
+    font-weight: 400;
+    color: #333;
+    font-size: 13.5px;
+    text-align: left;
+    text-indent: -1em;
+    padding-left: 1.1em;
+    line-height: 1.4em;
+    margin: 8px 0 0;
+}
+
+.property-line
+{
+    font-family: "Calluna",Georgia,serif;
+    font-weight: 400;
+    color: #333;
+    font-size: 13.5px;
+    text-align: left;
+    text-indent: -1em;
+    padding-left: 1.1em;
+    line-height: 1.4em;
+}
+
+.property-line .last
+{
+    font-family: "Calluna",Georgia,serif;
+    font-weight: 400;
+    color: #333;
+    font-size: 13.5px;
+    text-align: left;
+    text-indent: -1em;
+    padding-left: 1.1em;
+    line-height: 1.4em;
+    margin: 0 0 10px;
+}
+
+.property-line p
+{
+    font-family: "Calluna",Georgia,serif;
+    font-weight: 400;
+    text-align: left;
+    text-indent: -1em;
+    padding: 0;
+    display: inline;
+    margin: 0;
+    color: #922610;
+    font-size: 13.5px;
+    line-height: 1.2em;
+}
+
+.property-line h4
+{
+    font-family: "Calluna",Georgia,serif;
+    text-align: left;
+    text-indent: -1em;
+    padding: 0;
+    font-weight: bold;
+    display: inline;
+    margin: 0;
+    font-size: 13.5px;
+    line-height: 1.2em;
+    color: #7A200D;
+}
+
+.tapered-rule .top-gap .bottom-gap
+{
+    font-family: "Calluna",Georgia,serif;
+    font-weight: 400;
+    font-size: 13.5px;
+    line-height: 1.2em;
+    text-align: left;
+    display: block;
+    width: 100%;
+    height: 5px;
+    border: none;
+    color: #922610;
+    fill: #922610;
+    stroke: #922610;
+    margin: 10px 0;
+}
+
+.abilities
+{
+    font-family: "Calluna",Georgia,serif;
+    font-weight: 400;
+    font-size: 13.5px;
+    line-height: 1.2em;
+    text-align: center;
+    color: #922610;
+}
+
+.ability, .ability-dexterity, .ability-strength, .ability-constitution, .ability-intelligence, .ability-wisdom, .ability-charisma
+{
+    font-family: "Calluna",Georgia,serif;
+    font-weight: 400;
+    text-align: center;
+    color: #922610;
+    display: inline-block;
+    vertical-align: middle;
+    width: 15.5%;
+    min-width: 40px;
+    font-size: 12px;
+    line-height: 1em;
+}
+
+</style>
+
+<script>
+function popoutFirstStat() {
+  const stat = document.querySelector('.stat-block');
+  if (!stat) return;
+  const popup = window.open("", "statpopup", "width=400,height=600,resizable=no");
+
+  // Clone stylesheet links into popup
+  Array.from(document.querySelectorAll('link[rel="stylesheet"], style')).forEach(node => {
+    popup.document.head.appendChild(node.cloneNode(true));
+  });
+
+  popup.document.body.innerHTML = stat.outerHTML;
+  popup.document.title = stat.querySelector('h2')?.textContent || "Stat Block";
+}
+</script>
+
+{% if page.header.overlay_color or page.header.overlay_image or page.header.image %}
+  {% include page__hero.html %}
+{% elsif page.header.video.id and page.header.video.provider %}
+  {% include page__hero_video.html %}
+{% endif %}
+
+{% assign breadcrumbs_enabled = site.breadcrumbs %}
+{% if page.breadcrumbs != null %}
+  {% assign breadcrumbs_enabled = page.breadcrumbs %}
+{% endif %}
+{% if page.url != "/" and breadcrumbs_enabled %}
+  {% unless paginator %}
+    {% include breadcrumbs.html %}
+  {% endunless %}
+{% endif %}
+
+<div id="main" role="main">
+  {% include sidebar.html %}
+
+  <article class="page" itemscope itemtype="https://schema.org/CreativeWork">
+    {% if page.title %}<meta itemprop="headline" content="{{ page.title | replace: '|', '&#124;' | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
+    {% if page.excerpt %}<meta itemprop="description" content="{{ page.excerpt | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
+    {% if page.date %}<meta itemprop="datePublished" content="{{ page.date | date_to_xmlschema }}">{% endif %}
+    {% if page.last_modified_at %}<meta itemprop="dateModified" content="{{ page.last_modified_at | date_to_xmlschema }}">{% endif %}
+
+    <div class="page__inner-wrap">
+      {% unless page.header.overlay_color or page.header.overlay_image %}
+        <header>
+          {% if page.title -%}
+          {% if page.disable_title == false %}
+          <h1 id="page-title" class="page__title" itemprop="headline">
+            <a href="{{ page.url | absolute_url }}" itemprop="url">{{ page.title | markdownify | remove: "<p>" | remove: "</p>" }}</a>
+          </h1>
+          {% endif %}
+          {%- endif %}
+          {% include page__meta.html %}
+        </header>
+      {% endunless %}
+
+      <section class="page__content" itemprop="text">
+        {% if page.toc %}
+          <aside class="sidebar__right {% if page.toc_sticky %}sticky{% endif %}">
+            <nav class="toc">
+              <header><h4 class="nav__title"><i class="fas fa-{{ page.toc_icon | default: 'file-alt' }}"></i> {{ page.toc_label | default: site.data.ui-text[site.locale].toc_label | default: "On this page" }}</h4></header>
+              {% include toc.html sanitize=true html=content h_min=1 h_max=6 class="toc__menu" skip_no_ids=true %}
+            </nav>
+          </aside>
+        {% endif %}
+        {{ content }}
+
+        {% comment %}AFTER CONTENT INJECTION{% endcomment %}
+        <button onclick="popoutFirstStat()">Popout Stat Block -></button>
+        {% include post-content.html %}
+        {% comment %}AFTER CONTENT INJECTION END{% endcomment %}
+
+        {% if page.link %}<div><a href="{{ page.link }}" class="btn btn--primary">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
+      </section>
+
+      <footer class="page__meta">
+        {% if site.data.ui-text[site.locale].meta_label %}
+          <h4 class="page__meta-title">{{ site.data.ui-text[site.locale].meta_label }}</h4>
+        {% endif %}
+        {% include page__taxonomy.html %}
+        {% include page__date.html %}
+      </footer>
+
+      {% if page.share %}{% include social-share.html %}{% endif %}
+
+      {% include post_pagination.html %}
+    </div>
+
+    {% if jekyll.environment == 'production' and site.comments.provider and page.comments %}
+      {% include comments.html %}
+    {% endif %}
+  </article>
+
+  {% comment %}<!-- only show related on a post page when `related: true` -->{% endcomment %}
+  {% if page.id and page.related and site.related_posts.size > 0 %}
+    {% include page__related.html posts=site.related_posts %}
+  {% comment %}<!-- otherwise show recent posts if no related when `related: true` -->{% endcomment %}
+  {% elsif page.id and page.related %}
+    {% include page__related.html posts=site.posts %}
+  {% endif %}
+</div>
