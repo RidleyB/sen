@@ -1,3 +1,30 @@
+main:
+  - title: General
+    url: /
+  - title: People
+    url: /people/
+
+people:
+  - title: "Players"
+    children:
+    - title: "Creed"
+      url: /people/creed
+    - title: "Seethe"
+      url: /people/seethe
+    - title: "Sonata"
+      url: /people/sonata
+    - title: "Victor"
+      url: /people/victor
+    - title: "Zeraph"
+      url: /people/zeraph
+
+  - title: "NPCs"
+    children:
+    - title: "Kael'ith"
+      url: /people/kaelith
+    - title: "Riot"
+      url: /people/riot
+
 sidebar: 
   - title: "General"
     children:

@@ -100,6 +100,10 @@ collections:
     output: true
     permalink: :collection/:title
 
+  people:
+    output: true
+    permalink: :collection/:title
+
 
 include:
 - .htaccess
@@ -141,6 +145,18 @@ defaults:
       path: "content/_character"
     values:
       category: character
+
+  - scope:
+      path: "content/_people"
+    values:
+      header: false
+      sidebar_ext:
+        before_nav: true
+        image: true
+        title: true
+      category: people
+      sidebar:
+        nav: people
 
   - scope:
       path: "content/_lore"

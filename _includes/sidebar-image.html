@@ -1,13 +1,12 @@
 {% if page.sidebar_ext.image %}
+
   {% if include.image %}
+
     <img src="{{ include.image }}" alt="image" class="center">
+
   {% else %}
-  {% assign all_factions = site.all_factions | split : ", " %}
-  {% assign pageFaction = page.faction.sort | downcase %}
-    {% for faction in all_factions %}
-      {% if faction == pageFaction %}
-        <img src="{{ site.url | append: site.baseurl | append: site.path_logo | append: faction | append: ".png" }}" alt="image" class="center">
-      {% endif %}
-    {% endfor %}
+
+    <img src="{{ site.url | append: site.baseurl | append: "/assets/images/people/" | append: page.title | append: ".png" }}" alt="image" class="center">
+
   {% endif %}
 {% endif %}
