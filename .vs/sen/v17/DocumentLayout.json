@@ -140,7 +140,7 @@
               "RelativeDocumentMoniker": "content\\_sessions\\session1.md",
               "ToolTip": "C:\\Users\\Adam\\the-celestial-city\\content\\_sessions\\session1.md",
               "RelativeToolTip": "content\\_sessions\\session1.md",
-              "ViewState": "AQIAAIEAAAAAAAAAAAAAAI0AAAAAAAAA",
+              "ViewState": "AQIAAIAAAAAAAAAAAAAAAI0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
               "WhenOpened": "2025-11-13T16:20:05.087Z",
               "EditorCaption": ""
@@ -155,8 +155,7 @@
               "RelativeToolTip": "content\\_lore\\slavery.md",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2025-10-27T17:49:42.76Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-27T17:49:42.76Z"
             },
             {
               "$type": "Document",
@@ -180,8 +179,7 @@
               "RelativeToolTip": "content\\_character\\druidism.md",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2025-10-22T18:21:36.459Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-22T18:21:36.459Z"
             },
             {
               "$type": "Document",
@@ -193,8 +191,7 @@
               "RelativeToolTip": "content\\_character\\theology.md",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2025-10-22T18:19:57.932Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-22T18:19:57.932Z"
             },
             {
               "$type": "Document",
@@ -218,8 +215,7 @@
               "RelativeToolTip": "content\\_lore\\beastmans-curse.md",
               "ViewState": "AQIAAA4AAAAAAAAAAAAIwCoAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2025-10-22T00:01:22.78Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-22T00:01:22.78Z"
             },
             {
               "$type": "Document",
@@ -291,8 +287,7 @@
               "RelativeToolTip": "content\\_locations\\inner-nimyria.md",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2025-10-21T23:35:43.638Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-21T23:35:43.638Z"
             },
             {
               "$type": "Document",
@@ -316,8 +311,7 @@
               "RelativeToolTip": "content\\_locations\\the-isles.md",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2025-10-21T23:35:43.48Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-21T23:35:43.48Z"
             },
             {
               "$type": "Document",
@@ -329,8 +323,7 @@
               "RelativeToolTip": "content\\_locations\\the-dust.md",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2025-10-21T23:35:43.392Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-21T23:35:43.392Z"
             },
             {
               "$type": "Document",
@@ -342,8 +335,7 @@
               "RelativeToolTip": "content\\_locations\\sunder.md",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2025-10-21T23:35:43.333Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-21T23:35:43.333Z"
             },
             {
               "$type": "Document",
@@ -386,8 +378,7 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
               "WhenOpened": "2025-10-21T03:44:23.86Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -414,8 +405,7 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
               "WhenOpened": "2025-10-21T03:44:13.398Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Bookmark",
@@ -435,8 +425,7 @@
               "RelativeToolTip": "_sass\\minimal-mistakes\\skins\\_dark.scss",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-10-21T18:29:39.368Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-21T18:29:39.368Z"
             },
             {
               "$type": "Document",
@@ -448,8 +437,7 @@
               "RelativeToolTip": "_sass\\minimal-mistakes\\_masthead.scss",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-10-21T18:21:15.904Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-21T18:21:15.904Z"
             },
             {
               "$type": "Document",
@@ -461,8 +449,7 @@
               "RelativeToolTip": "_sass\\minimal-mistakes\\_page.scss",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-10-21T18:12:04.484Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-21T18:12:04.484Z"
             },
             {
               "$type": "Document",
@@ -486,8 +473,7 @@
               "RelativeToolTip": "_layouts\\single.html",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAABkAAACHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-10-21T18:07:34.795Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-21T18:07:34.795Z"
             },
             {
               "$type": "Document",
@@ -499,8 +485,7 @@
               "RelativeToolTip": "_sass\\minimal-mistakes\\_variables.scss",
               "ViewState": "AQIAAH4AAAAAAAAAAAAAAJYAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-10-21T18:01:23.305Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-21T18:01:23.305Z"
             },
             {
               "$type": "Document",
@@ -512,8 +497,7 @@
               "RelativeToolTip": "_sass\\minimal-mistakes\\_sidebar.scss",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-10-21T18:00:55.895Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-21T18:00:55.895Z"
             },
             {
               "$type": "Document",
@@ -525,8 +509,7 @@
               "RelativeToolTip": "assets\\css\\main.scss",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAI8AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-10-21T03:45:18.92Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-21T03:45:18.92Z"
             }
           ]
         }

@@ -3,7 +3,7 @@ title: The Beastman's Curse
 sidebar_ext:
   title: false
 header:
-   excerpt: "*“They saw true darkness, and lost their humanity as a result.”*"
+   excerpt: "*“Rotten, fetid, forgotten; tarry not in the dark”*"
 ---
 
 {% capture image %}

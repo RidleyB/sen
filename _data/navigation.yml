@@ -3,65 +3,81 @@ sidebar:
     children:
     - title: "Overview"
       url: /
-    - title: Nimyr, the Argent Dawn
-      url: /lore/nimyr
-    - title: Regions of Nimyria
-      url: /locations/regions-overview
-    - title: People of Nimyria
-      url: /lore/races
+    - title: Time & Calendar
+      url: /lore/calendar
+
+  - title: "The Nimyrian Empire"
+    children:
+    - title: "Arcanum Vincularis"
+      url: "/lore/vincularis"
     - title: History of Nimyria
       url: /lore/history
+    - title: Nimyr, the Argent Dawn
+      url: /lore/nimyr
+    - title: People of Nimyria
+      url: /lore/races
+    - title: Regions of Nimyria
+      url: /locations/regions-overview
+    - title: "Slavery"
+      url: /lore/slavery
+    - title: "Thralldom"
+      url: "/lore/thralldom"
+
+  - title: "Outside the Empire"
+    children: 
+    - title: Ashborn Druids
+      url: /lore/ashborn-druids
     - title: The Beastman's Curse
       url: /lore/beastmans-curse
-    - title: Calendar
-      url: /lore/calendar
-    - title: "Slavery & Imprisonment"
-      url: /lore/slavery
+    - title: The Pale Banner
+      url: /lore/the-pale-banner
+    - title: Vampires
+      url: /lore/vampires
 
   - title: "Character Origins"
     children:
     - title: Druidism
       url: /character/druidism
-    - title: Theology
-      url: /character/theology
-    - title: The Silent Way
+    - title: Monasticism
       url: /character/silent-way
-    - title: Magic & Mysticism
+    - title: Mysticism
       url: /character/magic
+    - title: Theism
+      url: /character/theism
     - title: Vampirism
       url: /character/vampirism
 
-  - title: "People of Nimyria"
+  - title: "Ancestries"
     children:
-      - title: Human
-        url: /races/human
-      - title: Tielfing
-        url: /races/tiefling
       - title: Ascendant
         url: /races/ascendant
       - title: Dhampir
         url: /races/dhampir
+      - title: Human
+        url: /races/human
+      - title: Tielfing
+        url: /races/tiefling
 
-  - title: "Regions of Nimyria"
+  - title: "Regions"
     children:
-      - title: Inner Nimyria
-        url: /locations/inner-nimyria
-      - title: The Silver Marches
-        url: /locations/silver-marches
-      - title: Palor
-        url: /locations/palor
-      - title: Farshade
-        url: /locations/farshade
-      - title: Karthold
-        url: /locations/karthold
-      - title: Wildrun
-        url: /locations/wildrun
       - title: The Dust
         url: /locations/the-dust
+      - title: Farshade
+        url: /locations/farshade
+      - title: Inner Nimyria
+        url: /locations/inner-nimyria
       - title: The Isles of Ash & Frost
         url: /locations/the-isles
+      - title: Karthold
+        url: /locations/karthold
+      - title: Palor
+        url: /locations/palor
+      - title: The Silver Marches
+        url: /locations/silver-marches
       - title: Sunder
         url: /locations/sunder
+      - title: Wildrun
+        url: /locations/wildrun
 
  # - title: "Places of Interest"
  #   children:

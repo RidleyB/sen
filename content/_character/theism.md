@@ -1,5 +1,5 @@
 ---
-title: Theology
+title: Theism
 header:
    excerpt: "*“Listen well to my voice.”*"
 ---
