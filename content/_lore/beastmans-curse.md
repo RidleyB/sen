@@ -25,6 +25,8 @@ Few who return from such encounters remain unchanged. Some bear the scars of the
 
 Whatever its source, the Beastman’s Curse endures. Whether the Isle of Wildrun, in the dim of Farshade or the deep reaches of the Dust, eyes gleam in the dark—watching, waiting, remembering what humanity once was.
 
+***More can be learned about the Beastman's Curse.***
+
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 <figure class="align-center" style="width:50%;">
