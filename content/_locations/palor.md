@@ -15,5 +15,5 @@ Palor lies at the northern tip of Nimyria. A wind-beaten highland where Nimyr’
 Jagged highlands and frozen moors dominate the Paloran landscape. The soil is poor and thin, and most settlements cling to the rocky coastlines where the sea still provides. Constant wind carries a low, whistling hum. Locals say it’s the voice of Nimyr, grown distant and cold. Nights are long and cold, while days bring only brief relief and dim misty light.
 
 <figure class="align-center">
-  <img src="../assets/images/mordt/{{ page.title | slugify }}.png" alt="image" class="image">
+  <img src="../assets/images/{{ page.title | slugify }}.png" alt="image" class="image">
 </figure> 

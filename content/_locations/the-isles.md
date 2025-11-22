@@ -15,5 +15,5 @@ The Isles of Ash and Frost are a scattered chain of barren islands along Nimyria
 The isles are stark and lifeless — jagged stone, thin snow, and volcanic glass crusting their shores. The air is cold even under sunlight, and the sea surrounding them is known for sudden shifts between steaming warmth and frigid fog.
 
 <figure class="align-center">
-  <img src="../assets/images/mordt/the-isles.png" alt="image" class="image">
+  <img src="../assets/images/the-isles.png" alt="image" class="image">
 </figure> 

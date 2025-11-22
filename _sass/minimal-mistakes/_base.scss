@@ -208,6 +208,7 @@ figure {
     border-radius: $border-radius;
     -webkit-transition: $global-transition;
     transition: $global-transition;
+    background: url('/assets/images/placeholder.png') center/cover no-repeat;
   }
 
   > a {

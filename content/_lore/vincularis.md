@@ -7,7 +7,7 @@ header:
 {% capture image1 %}
 
 <figure class="align-right" style="width:50%;">
-  <img src="../assets/images/mordt/vincularis.png" alt="image" class="image">
+  <img src="../assets/images/vincularis.png" alt="image" class="image">
 </figure> 
 
 {% endcapture%}

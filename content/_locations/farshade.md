@@ -17,5 +17,5 @@ Here Nimyr's light shines dimmer, though still visible and able to account for t
 Cliff-lined coasts and storm-tossed bays shape Farshade’s rugged beauty. The region is often veiled in mist, its air thick with the scent of brine and decay. Inland, rolling heaths and low forests hide ruins of the first Ascended settlements- now overrun by moss and rain. The sea crashes endlessly against black stone shores, said to echo the pulse of Nimyr’s dying light.
 
 <figure class="align-center">
-  <img src="../assets/images/mordt/{{ page.title | slugify }}.png" alt="image" class="image">
+  <img src="../assets/images/{{ page.title | slugify }}.png" alt="image" class="image">
 </figure> 

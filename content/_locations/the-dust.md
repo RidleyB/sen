@@ -21,5 +21,5 @@ There are two stretches of such a road; one in the **central region**, the other
 A barren sea of gray sand and cracked earth defines The Dust. The ground is laced with veins of pale glass, formed where lightning strikes the dry plains. The air carries a fine, stinging grit that seeps into lungs and cloth alike. Temperatures drop sharply at night, and the cold wind — constant and dry — whispers like distant voices. Occasional dunes rise like frozen waves, marking the remains of long-buried structures or roads that once led somewhere.
 
 <figure class="align-center">
-  <img src="../assets/images/mordt/{{ page.title | slugify }}.png" alt="image" class="image">
+  <img src="../assets/images/{{ page.title | slugify }}.png" alt="image" class="image">
 </figure> 

@@ -13,8 +13,8 @@ Ascendants are the immortal servants of Nimyr, Tiefling elevated beyond mortalit
 {: .notice--info}
 
 <figure class="align-left" style="width:48%;">
-  <img src="../assets/images/mordt/ascendant1.png" alt="image" class="image">
+  <img src="../assets/images/ascendant1.png" alt="image" class="image">
 </figure>
 <figure class="align-right" style="width:48%;">
-  <img src="../assets/images/mordt/ascendant2.png" alt="image" class="image">
+  <img src="../assets/images/ascendant2.png" alt="image" class="image">
 </figure> 

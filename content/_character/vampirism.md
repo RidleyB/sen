@@ -15,7 +15,7 @@ All vampires, however distant their lineage or controlled their thirst, share on
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 <figure class="align-center" style="width:50%;">
-  <img src="../assets/images/mordt/thagar-logo-transparent.png" alt="image" class="image">
+  <img src="../assets/images/thagar-logo-transparent.png" alt="image" class="image">
 </figure>
 
 

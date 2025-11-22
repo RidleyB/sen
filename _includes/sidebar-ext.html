@@ -1,25 +1,3 @@
-{% if page.sidebar_ext.image %}
-  {% include sidebar-image.html %}
-{% endif %}
-
-{% if page.sidebar_ext.title %}
-  {% include sidebar-title.html %}
-{% endif %}
-
-{% if page.sidebar_ext.excerpt %}
-  {% include sidebar-excerpt.html content=page.excerpt %}
-{% endif %}
-
-{% if page.char_data %}
-  {% include character.html data=page.char_data %}
-{% endif %}
-
-{% if page.children or page.parents or page.siblings or page.partners %}
-<br>
-  {% include character-family.html %}
-{% endif %}
-
-{% if page.char_data or page.children or page.parents or page.siblings or page.partners %}
-  <br><h3>Navigation</h3>
-  <div class="page__subtitle"></div>
-{% endif %}
+{% include sidebar-image.html %}
+{% include sidebar-title.html %}
+{% include sidebar-excerpt.html content=page.sidebar_ext.excerpt %}

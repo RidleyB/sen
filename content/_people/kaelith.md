@@ -2,4 +2,4 @@
 title: "Kaelith"
 ---
 
-***More to come...***
+Met in Karthold prison, attempting to save Riot from execution.

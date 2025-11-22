@@ -4,7 +4,7 @@ permalink: "/lore/races"
 
 header:
   excerpt: "*“Light, illuminate us all.”*"
-  overlay_image: assets/images/mordt/dawnspire-half.png
+  overlay_image: assets/images/dawnspire-half.png
   overlay_filter: 0.5
 ---
 

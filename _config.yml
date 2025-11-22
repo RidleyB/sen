@@ -5,7 +5,7 @@
 # yourself editing this file very often, consider using Jekyll's data files
 # feature for the data you need to update frequently.
 
-minimal_mistakes_skin: "dark"
+minimal_mistakes_skin: "custom"
 
 locale: "en-US"
 url: "https://ridleyb.github.io"
@@ -13,7 +13,7 @@ baseurl: "/sen"
 title: Ashes of the Fallen
 title_separator: "|"
 name: &gmname "Adam"
-logo: "/assets/images/logos/ashes.png"
+logo: "/assets/images/logo.png"
 email: adam.brown.x.ridley@gmail.com
 description: ""
 github_username: "RidleyB"
@@ -100,6 +100,10 @@ collections:
     output: true
     permalink: :collection/:title
 
+  dev-sessions:
+    output: true
+    permalink: :collection/:title
+
   people:
     output: true
     permalink: :collection/:title
@@ -133,7 +137,7 @@ defaults:
       path: ""
     values:
       header:
-        overlay_image: /assets/images/mordt/dawnspire-half.png
+        overlay_image: /assets/images/dawnspire-half.png
       layout: single
       disable_title: true
       disable_pagination: true
@@ -149,19 +153,30 @@ defaults:
   - scope:
       path: "content/_people"
     values:
+      layout: single-character
       header: false
       sidebar_ext:
         before_nav: true
         image: true
-        title: true
       category: people
       sidebar:
-        nav: people
+        nav: story
 
   - scope:
       path: "content/_lore"
     values:
       category: lore
+
+  - scope:
+      path: "content/_sessions"
+    values:
+      category: sessions
+      layout: single-character
+      header: false
+      toc: true
+      toc_sticky: true
+      sidebar:
+        nav: story
 
   - scope:
       path: "content/_locations"
@@ -185,12 +200,16 @@ defaults:
       category: creatures
       layout: creature
       header: false
-      sidebar: false
+      sidebar:
+        nav: dev
 
   - scope:
-      path: "content/_sessions"
+      path: "content/_dev-sessions"
     values:
-      category: sessions
+      category: dev-sessions
       layout: session
       header: false
-      sidebar: false
+      toc: true
+      toc_sticky: true
+      sidebar:
+        nav: dev

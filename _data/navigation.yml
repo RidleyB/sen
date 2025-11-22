@@ -1,10 +1,17 @@
 main:
-  - title: General
+  - title: World
     url: /
-  - title: People
-    url: /people/
+  - title: Story
+    url: /story/
 
-people:
+story:
+  - title: The Story So Far
+    children:
+    - title: "Session #1 - Riot"
+      url: /sessions/session1
+    - title: "Session #2 - Riot (Continued)"
+      url: /sessions/session2
+      disabled: true
   - title: "Players"
     children:
     - title: "Creed"
@@ -106,11 +113,14 @@ sidebar:
       - title: Wildrun
         url: /locations/wildrun
 
- # - title: "Places of Interest"
- #   children:
- #     - title: Dawnspire
- #       url: /poi/dawnspire
- #     - title: Vaelmoor
- #       url: /poi/vaelmoor
- #     - title: Oubliette
- #       url: /poi/oubliette
+dev:
+  - title: Dev Sessions
+    children:
+    - title: "Session #1 - Riot"
+      url: /dev-sessions/session1
+    - title: "Session #2 - Riot (Continued)"
+      url: /dev-sessions/session2
+  - title: "Creatures"
+    children:
+    - title: "Starving Beastman"
+      url: /creatures/starving-beastman

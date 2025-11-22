@@ -8,7 +8,7 @@ header:
 
 {% capture image %}
 <figure class="align-right" style="width:50%;">
-  <img src="../assets/images/mordt/beastman.png" alt="image" class="image">
+  <img src="../assets/images/beastman.png" alt="image" class="image">
 </figure>
 {% endcapture %}
 
@@ -30,7 +30,7 @@ Whatever its source, the Beastman’s Curse endures. Whether the Isle of Wildrun
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 <figure class="align-center" style="width:50%;">
-  <img src="../assets/images/mordt/mordt-logo-transparent.png" alt="image" class="image">
+  <img src="../assets/images/mordt-logo-transparent.png" alt="image" class="image">
 </figure>
 
 <div style="text-align: center;"><i>

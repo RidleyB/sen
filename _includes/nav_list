@@ -7,10 +7,14 @@
 	  {% assign navigation = site.data.navigation[navname] %}
 	  {% for nav in navigation %}
 
+	  {% if nav.disabled == true %}
+	    {% continue %}
+	  {% endif %}
+
 	  {% unless site.url contains "localhost" %}
-	    {% if nav.title == "Secrets" %}
-	      {% continue %}
-	    {% endif %}
+	  {% if nav.title == "Secrets" %}
+	  {% continue %}
+	  {% endif %}
 	  {% endunless %}
 
 	  <li>			
@@ -21,14 +25,29 @@
           {% endif %}
 
           {% if nav.children != null %}
+		  
           <ul>
-            {% for child in nav.children %}
+
+			  {% for child in nav.children %}
+
+			  {%  if child.disabled == true %}
+			  <li>
+				  <a style="color: #7a8288">{{ child.title }}</a>
+			  </li>
+			{% else %}
               <li><a href="{{ child.url | relative_url }}"{% if child.url == page.url %} class="active"{% endif %}>{{ child.title }}</a></li>
+			{% endif %}
 			  {% for subchild in child.subchildren %}
-              <li style="margin-left:12px; color: #bbb;"><a href="{{ subchild.url | relative_url }}"{% if subchild.url == page.url %} class="active"{% endif %}>{{ subchild.title }}</a></li>
+			  <li style="margin-left:12px; color: #bbb;"><a href="{{ subchild.url | relative_url }}"{% if subchild.url == page.url %} class="active"{% endif %}>{{ subchild.title }}</a></li>
+			  
+			  
             {% endfor %}
+			
+			
             {% endfor %}
           </ul>
+		  
+		  
           {% endif %}
         </li>
       {% endfor %}

@@ -4,7 +4,7 @@ permalink: /
 
 header:
    excerpt: "*“Darkness fell, and I answered.”*"
-   overlay_image: /assets/images/mordt/oubliette-half.png
+   overlay_image: /assets/images/oubliette-half.png
    overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
 
 ---
@@ -12,7 +12,7 @@ header:
 {% capture image1 %}
 
 <figure class="align-right" style="width:32.5%;">
-  <img src="assets/images/mordt/nimyr.png" alt="image" class="image">
+  <img src="assets/images/nimyr.png" alt="image" class="image">
 </figure> 
 
 {% endcapture%}
@@ -20,7 +20,7 @@ header:
 {% capture image2 %}
 
 <figure class="align-center">
-  <img src="assets/images/mordt/oubliette.png" alt="image" class="image">
+  <img src="assets/images/oubliette.png" alt="image" class="image">
 </figure> 
 
 {% endcapture%}

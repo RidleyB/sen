@@ -17,7 +17,7 @@ Paladins once stood as the Empire’s holy enforcers — armored vessels of Nimy
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 <figure class="align-center" style="width:50%;">
-  <img src="../assets/images/mordt/nimyr-logo-transparent.png" alt="image" class="image">
+  <img src="../assets/images/nimyr-logo-transparent.png" alt="image" class="image">
 </figure>
 
 
