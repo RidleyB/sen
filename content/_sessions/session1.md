@@ -47,7 +47,7 @@ The prisoners are returned to their group cell after another day of forced labor
 
 ### Riot’s Arrival
 
-That evening, a new prisoner is thrown into the cell. He is a tiefling who has been beaten nearly to death. Victor drags the man into the shadows to feed, but Creed intervenes with telepathic magic. He rouses the stranger long enough for him to give his name: Riot. Victor descides ultimately not to feed on the man. On closer inspection, the man's knuckles bear two tattoos in stylized script that read RIOT and RUIN.
+That evening, a new prisoner is thrown into the cell. He is a tiefling who has been beaten nearly to death. Victor drags the man into the shadows to feed, but Creed intervenes with telepathic magic. He rouses the stranger long enough for him to give his name: Riot. Victor decides ultimately not to feed on the man. On closer inspection, the man's knuckles bear two tattoos in stylized script that read RIOT and RUIN.
 
 Later that night Sonny and Creed quietly consider an escape using picks and miner’s acid. They decide the plan is too risky for now.
 

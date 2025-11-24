@@ -1,5 +1,11 @@
 ---
-title: Session 0
+title: Session 1
+sidebar_ext:
+  sticky: true
+
+page_content_viewer:
+  - title: "Starving Beastman"
+    url: "sen/creatures/starving-beastman"
 ---
 
 ## The Oubliette

@@ -1,3 +1,256 @@
+<style>
+
+.stat-block h1
+{
+    font-family: "Calluna",Georgia,serif;
+    text-align: left;
+    padding: 0;
+    color: #922610;
+    font-size: 23px;
+    line-height: 1.2em;
+    margin: 10px 0 0;
+    letter-spacing: 1px;
+    font-variant: small-caps;
+    font-weight: bold;
+}
+
+.stat-block h2
+{
+    font-family: "Calluna",Georgia,serif;
+    color: #333;
+    text-align: left;
+    padding: 0;
+    font-weight: normal;
+    font-style: italic;
+    font-size: 12px;
+    line-height: 1.2em;
+    margin: 0 0 10px;
+}
+
+.stat-block h3
+{
+    font-family: "Calluna",Georgia,serif;
+    line-height: 1.2em;
+    text-align: left;
+    border-bottom: 1px solid #7A200D;
+    color: #7A200D;
+    font-size: 21px;
+    font-variant: small-caps;
+    font-weight: normal;
+    letter-spacing: 1px;
+    padding: 0 0 10px;
+    text-indent: 5px;
+    margin: 0 0 10px;
+}
+
+.stat-block p
+{
+    font-family: "Calluna",Georgia,serif;
+}
+
+.stat-block 
+{
+    font-family: "Calluna",Georgia,serif;
+    font-weight: 400;
+    color: #333;
+    font-size: 13.5px;
+    line-height: 1.2em;
+    box-sizing: border-box;
+    max-width: 100%;
+    text-align: left;
+    vertical-align: top;
+    width: 50%;
+    min-width: 280px;
+    background: #FDF1DC;
+    padding: 5px 10px 20px;
+    box-shadow: 0 0 1.5em #867453;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.stat-block .section-left
+{
+    font-family: "Calluna",Georgia,serif;
+    font-weight: 400;
+    color: #333;
+    font-size: 13.5px;
+    line-height: 1.2em;
+    text-align: left;
+}
+
+.creature-heading
+{
+    font-family: "Calluna",Georgia,serif;
+    font-weight: 400;
+    color: #333;
+    font-size: 13.5px;
+    line-height: 1.2em;
+    text-align: left;
+}
+
+.tapered-rule
+{
+    font-family: "Calluna",Georgia,serif;
+    font-weight: 400;
+    font-size: 13.5px;
+    line-height: 1.2em;
+    text-align: left;
+    display: block;
+    width: 100%;
+    height: 5px;
+    border: none;
+    color: #922610;
+    fill: #922610;
+    stroke: #922610;
+}
+
+.top-stats
+{
+    font-family: "Calluna",Georgia,serif;
+    font-weight: 400;
+    color: #333;
+    font-size: 13.5px;
+    line-height: 1.2em;
+    text-align: left;
+}
+
+.property-line .first
+{
+    font-family: "Calluna",Georgia,serif;
+    font-weight: 400;
+    color: #333;
+    font-size: 13.5px;
+    text-align: left;
+    text-indent: -1em;
+    padding-left: 1.1em;
+    line-height: 1.4em;
+    margin: 8px 0 0;
+}
+
+.property-line
+{
+    font-family: "Calluna",Georgia,serif;
+    font-weight: 400;
+    color: #333;
+    font-size: 13.5px;
+    text-align: left;
+    text-indent: -1em;
+    padding-left: 1.1em;
+    line-height: 1.4em;
+}
+
+.property-line .last
+{
+    font-family: "Calluna",Georgia,serif;
+    font-weight: 400;
+    color: #333;
+    font-size: 13.5px;
+    text-align: left;
+    text-indent: -1em;
+    padding-left: 1.1em;
+    line-height: 1.4em;
+    margin: 0 0 10px;
+}
+
+.property-line p
+{
+    font-family: "Calluna",Georgia,serif;
+    font-weight: 400;
+    text-align: left;
+    text-indent: -1em;
+    padding: 0;
+    display: inline;
+    margin: 0;
+    color: #922610;
+    font-size: 13.5px;
+    line-height: 1.2em;
+}
+
+.property-line h4
+{
+    font-family: "Calluna",Georgia,serif;
+    text-align: left;
+    text-indent: -1em;
+    padding: 0;
+    font-weight: bold;
+    display: inline;
+    margin: 0;
+    font-size: 13.5px;
+    line-height: 1.2em;
+    color: #7A200D;
+}
+
+.tapered-rule .top-gap .bottom-gap
+{
+    font-family: "Calluna",Georgia,serif;
+    font-weight: 400;
+    font-size: 13.5px;
+    line-height: 1.2em;
+    text-align: left;
+    display: block;
+    width: 100%;
+    height: 5px;
+    border: none;
+    color: #922610;
+    fill: #922610;
+    stroke: #922610;
+    margin: 10px 0;
+}
+
+.abilities
+{
+    font-family: "Calluna",Georgia,serif;
+    font-weight: 400;
+    font-size: 13.5px;
+    line-height: 1.2em;
+    text-align: center;
+    color: #922610;
+}
+
+.ability, .ability-dexterity, .ability-strength, .ability-constitution, .ability-intelligence, .ability-wisdom, .ability-charisma
+{
+    font-family: "Calluna",Georgia,serif;
+    font-weight: 400;
+    text-align: center;
+    color: #922610;
+    display: inline-block;
+    vertical-align: middle;
+    width: 15.5%;
+    min-width: 40px;
+    font-size: 12px;
+    line-height: 1em;
+}
+
+{% if page.sidebar_ext.sticky %}
+
+.sidebar {
+  position: -webkit-sticky;
+  position: sticky;
+  top: 2em; // adjust depending on your header height
+  overflow-y: auto;
+  max-height: calc(100vh - #{$nav-height} - 2em);
+}
+{% endif %}
+
+</style>
+
 {% include sidebar-image.html %}
 {% include sidebar-title.html %}
 {% include sidebar-excerpt.html content=page.sidebar_ext.excerpt %}
+
+{% if page.page_content_viewer %}
+  {% for element in page.page_content_viewer %}
+  {% assign element_title = element.title %}
+
+    {% for c in site.collections %}
+      {% for p in c.docs %}
+        {% if p.title == element_title %}
+          {{ p.content }}
+        {% endif %}
+      {% endfor %}
+    {% endfor %}
+
+  {% endfor %}
+{% endif %}

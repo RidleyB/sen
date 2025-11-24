@@ -16,7 +16,7 @@ name: &gmname "Adam"
 logo: "/assets/images/logo.png"
 email: adam.brown.x.ridley@gmail.com
 description: ""
-github_username: "RidleyB"
+github_username: "Ridley"
 
 domain: ridleyb.github.io
 url: https://ridleyb.github.io
@@ -193,6 +193,9 @@ defaults:
       path: "content/_devposts"
     values:
       category: devposts
+      header: false
+      sidebar:
+        nav: dev
 
   - scope:
       path: "content/_creatures"
