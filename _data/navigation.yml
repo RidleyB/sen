@@ -7,9 +7,11 @@ main:
 story:
   - title: The Story So Far
     children:
-    - title: "Session #1 - Riot"
+    - title: "Session #1 - Riot I"
       url: /sessions/session1
-    - title: "Session #2 - Riot (Continued)"
+    - title: "Session #2 - Riot II"
+      url: /sessions/session2
+    - title: "Session #3 - Blacktide"
       url: /sessions/session2
       disabled: true
   - title: "Players"

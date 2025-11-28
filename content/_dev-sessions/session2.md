@@ -18,17 +18,6 @@ I gave Victor a keyring with a key on it- I'm going to make a correction that in
 - 4x Miner's Tonics -> Minor Action, heal 4hp.
 - 60sp pieces in a leather pouch
 
-| d8    | Loot Item                      | Description                                                                                                                           |
-| ----- | ------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------- |
-| **1** | **Miner’s Carbide Lamp**       | Burns 1 hour, dim light 20 ft. Doesn’t go out from wind/splash. If shattered: 5 ft. flash, DC 10 Con or blinded 1 round.              |
-| **2** | **Powdered Chalk Pouch**       | Enough for 30 marks. Beastmen avoid areas marked with it (superstition).                                                              |
-| **3** | **Old Survey Tools**           | Rusted compass, plumb bob, cracked slate. Grants **+1 to Investigation checks to map tunnels**.                                       |
-| **4** | **Stale Rations**              | 2 days of bland food. Beastmen refuse to eat it.                                                                                      |
-| **5** | **Alchemical Stabilizer Vial** | Hardens unstable stone instantly. Can negate a cave-in hazard or give **advantage on checks to prevent falling rubble** (1 use).      |
-| **6** | **Twine & Pitons**             | 40 ft. strong twine + 6 iron pitons. Useful for ledges, securing paths, marking trail.                                                |
-| **7** | **Miner’s Tonics (2)**         | Each grants **advantage on a Con save vs. exhaustion/hazard**, or heals **1d4 HP**.                                                   |
-| **8** | **Ledger of Strange Notation** | Old supply ledger overwritten with coded smuggler symbols. Contains notes confirming the runoff tunnels lead to the sea. Value: 5 gp. |
-
 ## Collapse into the Caves
 
 Beyond the raised guard post, the corridor narrows sharply. Chunks of masonry and jagged beams form a jagged barricade. The air is thick, musty, and heavy with dust and smoke. You can feel the faint tremor of the earlier explosion in your bones, a persistent hum of instability.

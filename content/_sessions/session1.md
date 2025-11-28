@@ -35,6 +35,8 @@ gallery2:
 snippet: "The party narrowly escapes an execution when an explosion collapses the courtyard into the abandoned depths, forcing them to fight through Beastmen in the dark. With Kaelith’s help and Riot gravely injured, the group begins a desperate flight towards freedom."
 ---
 
+# Session 1: Riot I
+
 ### Party Introduction
 
 The prisoners are returned to their group cell after another day of forced labor in the mines. Their food is moldy, the water stale, and their prospects bleak. The group consists of:
