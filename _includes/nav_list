@@ -35,8 +35,12 @@
 			          </li>
 			              {% for subchild in child.subchildren %}
 			              <li style="margin-left:12px; color: #bbb;">
-					          <a href="{{ subchild.url | relative_url }}"{% if subchild.url == page.url %} class="active"{% endif %}>{{ subchild.title }}</a>
-			              </li>  
+	                          {% if subchild.disabled == true %}
+							      <div>{{ subchild.title }}</div>
+							  {% else%}
+							      <a href="{{ subchild.url | relative_url }}"{% if="" subchild.url =""= page.url="" %} class="active"{% endif="" %}>{{ subchild.title }}</a>
+							  {% endif %}
+						  </li>  
                           {% endfor %}
 	                  {% endif %}
                  {% endfor %}
