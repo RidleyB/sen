@@ -17,6 +17,7 @@ logo: "/assets/images/logo.png"
 email: adam.brown.x.ridley@gmail.com
 description: ""
 github_username: "Ridley"
+favicon: /assets/images/logo.png
 
 domain: ridleyb.github.io
 url: https://ridleyb.github.io
@@ -127,10 +128,6 @@ exclude:
    - .vs
    - _notincluded/
    - _devposts/dm/.git/
-
-# custom global variables
-
-path_logo: /assets/images/logos/
 
 defaults:
   - scope:

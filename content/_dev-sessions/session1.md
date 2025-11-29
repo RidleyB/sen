@@ -5,7 +5,6 @@ sidebar_ext:
 
 page_content_viewer:
   - title: "Starving Beastman"
-    url: "sen/creatures/starving-beastman"
 ---
 
 ## The Oubliette

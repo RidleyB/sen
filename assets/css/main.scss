@@ -171,7 +171,7 @@ search: false
   padding: 0 14px;
 }
 
-.active, .collapsible:hover {
+.collapsible:active, .collapsible:hover {
   background-color: #555;
 }
 

@@ -1,0 +1,12 @@
+{% if navname == "dev" %}
+<ul>
+	<span class="nav__sub-title">Sessions</span>
+	{% for session in site.dev-sessions %}
+	    <li><a href="{{ session.url | relative_url }}"{% if session.url == page.url %} class="active"{% endif %}>{{ session.title }}</a></li>
+    {% endfor %}
+	<span class="nav__sub-title">Creatures</span>
+	{% for creature in site.creatures %}
+	    <li><a href="{{ creature.url | relative_url }}"{% if creature.url == page.url %} class="active"{% endif %}>{{ creature.title }}</a></li>
+    {% endfor %}
+</ul>
+{% endif %}
