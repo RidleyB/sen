@@ -109,7 +109,6 @@ sidebar:
         subchildren: 
           - title: "Blacktide"
             url: "/poi/blacktide"
-            disabled: true
           - title: "The Oubliette"
             url: "/poi/oubliette"
 
