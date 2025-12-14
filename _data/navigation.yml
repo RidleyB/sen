@@ -108,11 +108,10 @@ sidebar:
         url: /locations/karthold
         subchildren: 
           - title: "Blacktide"
-            url: /poi/blacktide
-            disabled: true
+            url: "/poi/blacktide"
           - title: "The Oubliette"
-            url: /poi/oubliette
-            disabled: true
+            url: "/poi/oubliette"
+
       - title: Palor
         url: /locations/palor
       - title: The Silver Marches

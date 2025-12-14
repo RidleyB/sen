@@ -93,7 +93,7 @@ They are not openly hostile unless provoked, but trust comes slowly. Every outsi
 **Notes:**
 * The Old Keelhouse is quieter and more respectable than The Scuttle’s Lantern, attracting older sailors or merchants who prefer conversation and a safe place to rest.
 * Rooms are small and sparse but provide basic comfort; meals are hearty, simple, and designed for travelers used to rough living.
-* Tollin may offer information about Blacktide, nearby smuggling routes, or the harbor if persuaded or paid.
+* Tollin may offer information about Blacktide or the harbor.
 
 ---
  
@@ -119,8 +119,6 @@ They are not openly hostile unless provoked, but trust comes slowly. Every outsi
 
 **Notes:**
 * Siren knows every smuggler crew by name and reputation; she won't gossip to outsiders, however.
-* Her inn is where the mutinous members of the smuggler crew often drink—eavesdropping or tailing attempts begin here.
-* The Captain (who Kael’ith knows) of the Cold Bitch avoids The Scuttle’s Lantern specifically because his crew members start trouble here.
 * A brawl can break out at any moment if the party pushes the wrong sailor or mentions the prison too loudly.
 
 ## Shops
@@ -148,7 +146,7 @@ They are not openly hostile unless provoked, but trust comes slowly. Every outsi
 | Chalk (1 piece)      | 1 cp                    |
 | Pitons (10)          | 3 sp                    |
 
-**Owner:** **Kessa Brindle**, a sharp-eyed Tiefling with reddish-brown skin, small curved horns, and a faint scent of salt and tar about her. She is quick with a grin and quicker to notice anyone attempting to pilfer from her barrels. Kessa knows the comings and goings of Blacktide’s residents and sailors alike, and is willing to share information for coin or favors.
+**Owner:** **Kessa Brindle**, a sharp-eyed Tiefling with reddish-brown skin, small curved horns, and a faint scent of tar about her. She is quick with a grin and quicker to notice anyone attempting to pilfer from her barrels. Kessa knows the comings and goings of Blacktide’s residents and sailors alike, and is willing to share information for coin or favors.
 
 **Location:** Midway up the ridge stairway.
 
@@ -192,9 +190,9 @@ They are not openly hostile unless provoked, but trust comes slowly. Every outsi
 **Location:** Lower end of the upper ridge
 
 **Notes:**
-• Pickaxes, light hammers, and pitons are discounted due to local demand among miners and dockworkers.
-• Some martial weapons have been discounted due to military surplus, though armor remain standard PHB pricing.
-• Smithing tools like tongs and hammers reflect small local discount where feasible.
+* Pickaxes, light hammers, and pitons are discounted due to local demand among miners and dockworkers.
+* Some martial weapons have been discounted due to military surplus, though armor remain standard PHB pricing.
+* Smithing tools like tongs and hammers reflect small local discount where feasible.
 
 ---
 
@@ -204,17 +202,17 @@ They are not openly hostile unless provoked, but trust comes slowly. Every outsi
 
 *A cluttered cave of shelves, crates, and dangling trinkets. Every surface is piled with curios: driftwood carvings, old sextants, glowing bottles, and salvaged ornaments from shipwrecks. Nothing is organized, yet somehow Eldeen knows exactly where everything sits. The shop crackles with faint magical residue. Tiny flickers of light, soft hums, and the occasional whispering charm. Walking inside feels like entering the belly of an eccentric collector’s ship.*
 
-| Stock                                                                | Price      |
-| -------------------------------------------------------------------- | ---------- |
-| **Curios & Trinkets**                                                | * gp each  |
-| **Miner's Tonic**                                                    | 1 gp       |
-| **Potion of Clarity**                                                | 5 gp       |
-| **Alchemist’s Fire (small flask)**                                   | 5 sp       |
-| **x1 Grease (Scroll)**                                               | 5 gp       |
-| **x1 Shield (Scroll)**                                               | 5 gp       |
-| **x1 Acid Spray (Scroll)**                                           | 5 gp       |
-| **x1 Detect Magic (Scroll)**                                         | 7 gp       |
-| **Special Offer (Free Miner's Tonic with every purchase**            | -          |
+| Stock                                                            | Price      |
+| ---------------------------------------------------------------- | ---------- |
+| Curios & Trinkets                                                | * gp each  |
+| Miner's Tonic                                                    | 1 gp       |
+| Potion of Clarity                                                | 5 gp       |
+| Alchemist’s Fire (small flask)                                   | 5 sp       |
+| x1 Grease (Scroll)                                               | 5 gp       |
+| x1 Shield (Scroll)                                               | 5 gp       |
+| x1 Acid Spray (Scroll)                                           | 5 gp       |
+| x1 Detect Magic (Scroll)                                         | 7 gp       |
+| Special Offer (Free Miner's Tonic with every purchase            | -          |
 
 **Owner:** **Eldeen Gannet**, an eccentric elderly Tiefling with pale lavender skin, delicate curved horns, and bright gold eyes. Eldeen constantly chats with her merchandise as if it were alive, rattling off the history of every trinket and salvage piece she owns. She is sharp-minded and curious, often willing to trade favors or information for unusual items.
 
@@ -225,3 +223,4 @@ They are not openly hostile unless provoked, but trust comes slowly. Every outsi
 * Curios are mostly aesthetic, occasionally functional, and often tied to shipwreck salvage or superstition.
 * Minor magic items are curated from adventuring finds and scavenged stock. Many of the magic items and scrolls are covered in dust.
 * The Miner’s Tonic is included with every purchase, adding appeal for miners and coastal workers.
+* Eldeen isn't afraid to barter in favours.
