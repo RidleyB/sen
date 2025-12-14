@@ -38,7 +38,7 @@
         {% include nav_list nav=page.sidebar.nav %}
       {% endif %}
     
-      {% if page.sidebar_ext != null and page.sidebar_ext.before_nav %}
+      {% if page.sidebar_ext.before_nav %}
         {% unless page.sidebar_ext.before_nav == true %}
           {% include sidebar-ext.html %}
         {% endunless %}

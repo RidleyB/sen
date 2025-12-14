@@ -178,7 +178,7 @@ They are not openly hostile unless provoked, but trust comes slowly. Every outsi
 | Club                   | 1 sp                    |
 | Mace                   | 5 gp                    |
 | Chain shirt            | 50 gp                   |
-| Breastplate            | 400 gp                  |
+| Breastplate            | 200 gp                  |
 | Shield                 | 5 gp                    |
 | Grappling hook         | 2 gp                    |
 | Hammer, smith’s (tool) | 8 sp                    |

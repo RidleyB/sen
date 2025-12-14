@@ -213,3 +213,5 @@ defaults:
       toc_sticky: true
       sidebar:
         nav: dev
+      sidebar_ext:
+        before_nav: false

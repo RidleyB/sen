@@ -6,6 +6,7 @@ page_content_viewer:
   - title: Sailor
   - title: Boatswain
   - title: Commoner
+  - title: "Karthold Beastman"
 ---
 
 ## Overview
@@ -244,3 +245,301 @@ Imperials begin tightening the noose:
 1. *"Ah, welcome! Every trinket here has a tale. Perhaps you’ll write one of your own today."*
 2. *"Miner’s tonic? Take one—on the house. Adventures are easier with a clear head, yes?"*
 3. *"Curious what you seek… a spell, a charm, a story? I can provide all three, for the right price or favor."*
+
+
+
+## Side Quest: Shell Game
+
+**Hook**
+A harried Blacktide resident corners the party near the wharf, sleeves rolled up, smelling of brine and smoke.
+
+**NPC:** **Marra Teln** (human, dockworker’s widow)
+Her stilt-house sits half over the water. The **lower section beneath the floorboards**—storage, nets, crab pots—has been overtaken.
+
+> “They came up with the tide. Big ones. Mean ones. I can hear ’em scraping at night. I just want my house back.”
+
+**Offer:**
+
+* A handful of **silver coins** (enough to matter, not enough to haggle hard over)
+* **30 rations of dried crab meat** (salted, smoky, surprisingly good)
+
+### **The Situation**
+
+Unusually aggressive **giant crabs** have nested beneath the house’s lower platform. The reason isn’t magical—just ecological and local:
+
+* A cracked barrel of **fish oil and offal** leaked during the last storm
+* The scent attracted crabs in numbers
+* The confined space made them territorial and violent
+
+The crabs now block access to:
+
+* Crab pots and nets
+* A small skiff tied beneath the house
+* Structural supports that, if damaged further, could collapse part of the home
+
+## **Location Layout**
+
+**Under-House Crawlspace (Tide-Washed)**
+
+* Low clearance (4–5 ft in places)
+* Slick planks and hanging kelp
+* Waist-deep water at high tide, ankle-deep at low
+* Barnacles and old nails everywhere
+
+**Environmental Hazards:**
+
+* Slippery footing (Dex checks if moving fast or fighting recklessly)
+* Sudden surges as waves roll under the wharf
+* One weakened support beam—too much force risks partial collapse
+
+## **Creatures**
+
+Use **Giant Crab** stat blocks (MM), adjusted narratively:
+
+* Hardened shells scarred from nets and hooks
+* One larger “alpha” crab nesting near the oil barrel
+* Crabs fight aggressively but do not pursue beyond the lower level
+
+Optional tweak:
+
+* +1 AC to reflect barnacle-thick shells
+* The largest crab has slightly more HP, not a different stat block
+
+---
+
+## **Approaches**
+
+**1. Direct Clearing**
+Straightforward combat in tight quarters.
+Fast, noisy, draws attention from nearby dockhands.
+
+**2. Lure & Trap**
+
+* Use fish, oil, or rations to draw crabs out into open water
+* Tip over crab pots or nets to restrain them
+* Safer, slower, less structural damage
+
+**3. Environmental Solution**
+
+* Seal or remove the leaking barrel
+* Collapse part of the crawlspace intentionally to deny access
+* Requires care to avoid damaging the house
+
+Failure or recklessness risks:
+
+* Breaking a support beam
+* Soaking supplies stored below
+* Reducing the final silver reward
+
+---
+
+## **Complications (Optional)**
+
+* The tide starts coming in mid-encounter
+* A dock rival heckles or bets against the party
+* One crab escapes and scuttles toward a neighboring house
+
+---
+
+## **Resolution**
+
+Once cleared:
+
+* Marra inspects the damage, relieved but still angry
+* She pays as promised:
+
+  * **Silver coin**
+  * **30 rations of dried crab meat**
+* If the house is left mostly intact, she throws in:
+
+  * A warm meal
+  * Favorable word spread among dock residents
+
+**World Impact:**
+The party gains a reputation as people willing to handle *unpleasant local problems*, not just big heroic ones—useful in Blacktide.
+
+---
+
+## **Tone**
+
+Messy, cramped, briny, faintly absurd—but grounded.
+This is Blacktide survival work, not glory.
+
+
+## Side Quest: The Rotting Hull
+
+* Retrieve **medicinal ship-fungus** growing on a wrecked vessel along the coast.
+* The ship has been grounded for **over a decade**.
+* Eldeen hasn’t visited in “some time” (long enough for conditions to have changed).
+* She provides:
+
+  * Rough directions along the rocks
+  * A small sketch of what the *useful* fungus looks like
+  * A warning about unstable timbers
+
+She does **not** mention violet fungus—she doesn’t know it’s there.
+
+### Location: The Wreck
+
+**Name (local):** *The Graywake* (optional, if asked)
+
+**Approach Description:**
+
+* Half-buried in shingle and kelp
+* Hull split open, ribs exposed
+* Constant damp wind and surf
+* Wood is soft, spongy, and blackened with rot
+* Thick fungal mats crawl through the interior beams
+
+The air smells **earthy**, not salty.
+
+### **1. Reaching the Wreck**
+
+| Check            | Result                          |
+| ---------------- | ------------------------------- |
+| DEX (Acrobatics) | Navigate slick rocks safely     |
+| STR (Athletics)  | Climb into the broken hull      |
+| Failure          | Slips, minor damage, loud noise |
+
+### 2. Identifying the Medicinal Fungus
+
+| Check                     | Result                                       |
+| ------------------------- | -------------------------------------------- |
+| WIS (Medicine / Survival) | Correctly identify the pale medicinal fungus |
+| INT (Nature)              | Notice unusual coloration among the mycelium |
+| Failure                   | Risk harvesting the wrong growth             |
+
+**Key Detail:**
+Some of the growth is *too vivid*, too reactive when disturbed.
+
+## 3. Hidden Threat — Violet Fungus
+
+* The violet fungus has **grown dormant**, blending into the surrounding mycelium.
+* It does **not** animate until:
+
+  * Touched
+  * Cut
+  * Or disturbed by careless movement
+
+| Check (Optional Warning) | Result                               |
+| ------------------------ | ------------------------------------ |
+| WIS (Perception)         | Subtle twitching fibers              |
+| INT (Nature)             | Realization this isn’t normal fungus |
+| Failure                  | Fungus animates during harvesting    |
+
+### **Encounter: Violet Fungus**
+
+Use **Violet Fungus (MM)** as written.
+
+**Environmental Tweaks (Optional):**
+
+* Difficult terrain from rot and growth
+* Low ceiling, narrow corridors
+* Collapsing boards if combat drags on
+
+This should feel:
+
+* Sudden
+* Claustrophobic
+* Punishing if careless
+
+### Escalation Threat: Beastmen Drawn to the Wreck
+
+### Why They’re Here
+
+* The wreck sits near an **old inland game trail** that’s fallen out of use.
+* Rot, fungus, and the scent of blood or disturbed growth attract scavengers.
+* The Beastmen have learned that **storms and wrecks mean easy prey**.
+
+They are not initially present.
+
+### Trigger Conditions
+
+The Beastmen arrive if **any one** of the following occurs:
+
+* The party spends **too long** inside or around the wreck
+  *(~30–45 in-game minutes, or heavy deliberation)*
+* Excessive noise:
+
+  * Combat with the violet fungus
+  * Repeated loud failures (falling, collapsing boards)
+* **Two or more failed checks** related to harvesting, movement, or navigation
+
+You can telegraph this before the ambush:
+
+* Distant clattering on stone
+* Low, animalistic calls carried by the wind
+* Shapes moving along the cliffline
+
+### The Ambush
+
+* **3 Beastmen**
+  *(Use the Shadowdark Beastman or reskinned Bandit / Thug equivalents if staying strictly 5e-adjacent; otherwise standard Beastmen from your system.)*
+
+### Tactics
+
+* They wait until:
+
+  * The party is divided
+  * Or focused on harvesting
+* One Beastman blocks the exit or retreat path
+* They prefer **overwhelm and drag**, not prolonged combat
+* If one falls quickly, the others hesitate but don’t flee immediately
+
+This fight should feel:
+
+* Messy
+* Close-range
+* Desperate, not tactical
+
+**Primary Reward:**
+
+* **Medicinal Ship-Fungus**
+  * Eldeen uses it to brew tonics and poultices
+  * Reinforces her role as a minor alchemical node in Blacktide
+* Old ship’s log (waterlogged, partial)
+* Rusted personal effects (1d20 gp)
+* A curious trinket Eldeen didn’t expect (discount, favor, or rumor)
+
+### Ship Log Excerpt – The Greywake (Revised)
+
+The logbook is swollen with seawater, its leather cover stiff with salt. Most pages are ruined, but one entry—written in a steady, practiced hand—remains legible.
+
+> **Log of the Greywake**
+> **8th Mark, 23rdth Shade, 1019**
+>
+> Sighted an unmarked brig at dawn, running no colors. Altered course west, but she gained on us with the wind. By midmorning, she closed to cannon range.
+>
+> Exchanged fire twice. Took a hit below the waterline on the starboard side—frame cracked, holding but barely. Lost two hands to splinters and shot.
+>
+> Enemy broke off after damaging our rudder. We made for the nearest lee, but the hull worsened faster than expected. Ordered nonessential cargo thrown overboard.
+>
+> At dusk, the Greywake grounded hard along a rocky shelf beneath a low hill. Sea carried us in, not out. Crew made shore safely with what we could carry.
+>
+> Ship is a loss. May she serve as shelter until rescue or passage can be found.
+
+No further entries follow. The remaining pages are blank or ruined by water, suggesting the crew abandoned the log when survival took priority.
+
+
+### **Return to Eldeen**
+
+If the party:
+
+* Successfully retrieves the fungus
+* Mentions the violet fungus
+
+Eldeen reacts with interest, not fear.
+> *“Ah. Of course it did. Left alone long enough, everything sharpens.”*
+
+**Reward Options:**
+
+* Free Miner’s Tonic for each PC
+* Discount on future purchases
+* A **rumor** related to the lockbox or mutinous crew
+* Eldeen quietly vouches for the party in Blacktide
+
+If they fail or bring back tainted fungus:
+
+* Eldeen notices immediately
+* Mild disappointment, no punishment
+* She warns them they were lucky
