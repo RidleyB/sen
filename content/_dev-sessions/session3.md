@@ -171,6 +171,51 @@ Imperials begin tightening the noose:
 * Piers observed
 * Leaving becomes time-sensitive and hostile
 
+## Details on Harrivale
+
+Harrivale is a modest inland settlement roughly **a half-day’s journey** from Blacktide, depending on weather and the state of the coastal road. The route climbs away from the sea through scrub hills and broken stone, making Harrivale feel more stable and orderly by contrast.
+
+The town exists primarily as a **garrison and administrative hub**. A permanent **imperial detachment** is stationed there—large enough to patrol the roads, escort prisoners, and project authority into nearby settlements, but not large enough to meaningfully invest in them. Most soldiers rotate through Harrivale rather than settling, giving the place a transient, watchful feel.
+
+Harrivale is known for:
+
+* **Road control and toll collection** along the inland routes of Karthold
+* **Military storage and mustering**, including arms, rations, and prisoner transfers
+* **Stonecutting and quarry work**, supplying dressed stone for imperial projects
+* A reputation for being **safe, dull, and tightly regulated**
+
+Compared to Blacktide’s salt-stained desperation, Harrivale is rigid and colorless. Locals keep their heads down, merchants mind the rules, and soldiers keep ledgers as carefully as they keep their blades. It’s the place Blacktiders deal with when they must—and avoid whenever possible.
+
+## Rumor Mill
+
+### **Blacktide**
+
+* “Fishing’s been poor all month. Same nets, same waters—just less coming up.”
+* “Someone’s been sleeping in the old ore warehouse again. Lantern light at night, gone by morning.”
+* “A crate washed up after the last storm. No marks on it. Nobody wanted to claim it.”
+* “The Scuttle’s been watering the rum again. Don’t argue—check the taste.”
+* “Veylan’s crew’s touchy lately. Snapping at each other over nothing.”
+
+### **Harrivale**
+
+* “Harrivale’s guards are bored stiff. Too many of them, not enough trouble.”
+* “A clerk got sent down from Karthold and hasn’t stopped complaining since.”
+* “Trade carts get inspected twice now. Same paperwork, just slower.”
+* “Someone tried selling prison scrap in the market. Didn’t go well.”
+
+### **Karthold**
+
+* “They’ve been repairing the road to the Oubliette again. Third time this year.”
+* “Dock fees went up, then back down. No one knows why.”
+* “Stone from the prison’s been carted out at night. Probably renovations.”
+* “There was some kind of accident down below. Guards won’t say much.”
+* “Heard a bang once, like a dropped gate. Nothing after.”
+
+### **General Dockside Talk**
+
+* “If you’re leaving Karthold, best do it soon. Weather’s turning.”
+* “Coin’s moving slower, but it’s still moving.”
+* “Blacktide’s quiet. Too quiet for some, not quiet enough for others.”
 
 ## Characterization:
 
@@ -246,7 +291,15 @@ Imperials begin tightening the noose:
 2. *"Miner’s tonic? Take one—on the house. Adventures are easier with a clear head, yes?"*
 3. *"Curious what you seek… a spell, a charm, a story? I can provide all three, for the right price or favor."*
 
+## Rumor: Ancient Empire
 
+Before Opening — The Crate
+
+A small, waterlogged crate half-buried in kelp. The wood is dark with rot, iron bands rusted through, and the lid swollen shut with salt and grit. Faded shipping marks are barely visible.
+
+After Opening — The Contents
+
+Inside are heavy, ancient coins from the old human empire, pre-Nimyria: thick bloodstone and jacinth pieces etched with worn imperial sigils. Salt-dulled but intact, they’re clearly valuable—about 50 gp in total.
 
 ## Side Quest: Shell Game
 
