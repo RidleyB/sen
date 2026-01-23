@@ -2,4 +2,4 @@
 title: Riot
 ---
 
-Met in Karthold prison. He was badly injured before the escape, and lost a leg during.
+Met in Karthold prison, sharing the party's cell. Escaped from prison alongside the party, and Kael'ith.

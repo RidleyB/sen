@@ -12,7 +12,9 @@ story:
     - title: "Session #2 - Riot II"
       url: /sessions/session2
     - title: "Session #3 - Blacktide"
-      url: /sessions/session2
+      url: /sessions/session3
+    - title: "Session #4 - Whispers on the Pier"
+      url: /sessions/session4
       disabled: true
   - title: "Players"
     children:
