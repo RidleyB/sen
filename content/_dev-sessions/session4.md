@@ -24,6 +24,7 @@ Smuggler-cutter, shallow draft, built for speed and discretion
 **14 total**, including the captain. Lean crew, experienced, reliant on trust and routine rather than numbers.
 All crew are **Tieflings**.
 
+
 ### Command & Officers
 
 **Captain — Veylan Corrix**
