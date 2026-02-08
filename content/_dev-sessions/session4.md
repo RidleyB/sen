@@ -41,7 +41,7 @@ Hull, rigging, deck discipline. Knows every sound the ship makes. Blunt, physica
 
 ### Navigation & Signals
 
-**Navigator — Ashren Vol**
+**Navigator — Bash Vol**
 Keeps charts, tides, and hidden routes. Quiet, observant, keeps coded notes.
 
 **Signal Lead / Lookout — Nyxen “Vigil” Rook**
