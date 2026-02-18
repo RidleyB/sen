@@ -1,5 +1,5 @@
 ---
-title: Session 2
+title: "Session 2: Riot Cont'd"
 snippet: "The party navigated the hazardous runoff chambers beneath the Oubliette, battling oozes and using quick thinking to manipulate the sluice systems to survive. After scavenging an abandoned supply post, they escaped through a coastal outflow and reached a safehouse where Kaelith prepared them for the next stage of their flight from Karthold."
 sidebar_ext:
   before_nav: true

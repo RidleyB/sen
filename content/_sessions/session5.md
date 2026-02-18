@@ -1,5 +1,5 @@
 ---
-title: Session 5
+title: "Session 5: Loose Ends"
 snippet: "The party interrogates Grit, faces off with the traitorous Redwake, and finds the location where the lockbox is being held. Grit is imprisoned by Captain Veylan, and the party is ready to retrieve their quarry."
 sidebar_ext:
   before_nav: true

@@ -1,5 +1,5 @@
 ---
-title: Session 3
+title: "Session 3: Blacktide"
 snippet: "In Blacktide, the party renegotiates their escape from Karthold by taking on a job for Captain Veylan to recover a stolen, magically sealed lockbox. After securing supplies through a dangerous errand involving Beastmen and Violet Fungi, they prepare to investigate the theft while Kaelith returns to ensure Riot's safety."
 sidebar_ext:
   before_nav: true
