@@ -1,6 +1,6 @@
 ---
 title: Session 4
-snippet: "The party investigates the missing lockbox; searching the warehouse, interviewing the crew, and interrogating Grit and forcing him to comply."
+snippet: "The party investigates the missing lockbox; searching the warehouse, interviewing the crew, interrogating Grit and forcing him to comply."
 sidebar_ext:
   before_nav: true
   image: /assets/images/blacktide.png

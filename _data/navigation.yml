@@ -17,6 +17,8 @@ story:
       url: /sessions/session4
     - title: "Session #5 - Loose Ends"
       url: /sessions/session5
+    - title: "Session #6 - Locked and Found"
+      url: /sessions/session6
       disabled: true
   - title: "Players"
     children:
