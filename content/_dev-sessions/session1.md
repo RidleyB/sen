@@ -1,5 +1,5 @@
 ---
-title: Session 1
+title: "Session #1 - Riot"
 sidebar_ext:
   sticky: true
 

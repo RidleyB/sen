@@ -1,5 +1,5 @@
 ---
-title: "Session 4"
+title: "Session #4 - Whispers on the Pier"
 sidebar_ext:
   sticky: false
 page_content_viewer:

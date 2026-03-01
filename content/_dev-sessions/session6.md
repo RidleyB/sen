@@ -1,5 +1,5 @@
 ---
-title: "Session 6"
+title: "Session #6 - Locked and Found"
 sidebar_ext:
   sticky: false
 page_content_viewer:

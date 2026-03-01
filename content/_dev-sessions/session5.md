@@ -1,5 +1,5 @@
 ---
-title: "Session 5"
+title: "Session #5 - Loose Ends"
 sidebar_ext:
   sticky: false
 page_content_viewer:

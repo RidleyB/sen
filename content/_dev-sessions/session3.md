@@ -1,5 +1,5 @@
 ---
-title: Session 3
+title: "Session #3 - Blacktide"
 sidebar_ext:
   sticky: false
 page_content_viewer:
