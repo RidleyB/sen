@@ -671,35 +671,3 @@ Now Blacktide is:
 * Suspicious of everyone
 
 That gives maximum pressure.
-
----
-
-# Final Recommendation
-
-For momentum and stakes:
-
-Have Redwake send warning.
-Have fire spread.
-
-When the party arrives:
-
-Imperials are mid-deployment.
-Smoke clouds the horizon.
-Blacktide is partially sealed.
-
-The party is exhausted.
-Carrying contraband.
-And walking into occupation.
-
-Clean transition into:
-**Session 8 — “Under Watchful Lanterns”**
-
----
-
-If you’d like next:
-
-* Design the Imperial command structure in Blacktide
-* Flesh out Captain Veylan’s secret alignment
-* Write the lockbox contents in detail
-* Build Session 8 as a stealth/escape module
-* Or escalate the Beastman curse as tied to imperial experimentation
