@@ -2,7 +2,7 @@
 title: "The Pale Wench"
 toc: true
 header:
-  excerpt: "*“”*"
+  excerpt: "*“No king nor beast can find us here,”*"
   overlay_image: /assets/images/the-pale-wench.png
 ---
 
