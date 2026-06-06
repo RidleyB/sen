@@ -1,5 +1,6 @@
 ---
 title: "Session #7 - Howl"
+session_number: 7
 sidebar_ext:
   sticky: false
 ---

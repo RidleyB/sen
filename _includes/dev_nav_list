@@ -1,7 +1,12 @@
+{% capture sessions %}
+{% endcapture %}
+
+{% assign sessions = site.dev-sessions | sort: "session_number" %}
+
 {% if navname == "dev" %}
 <ul>
 	<span class="nav__sub-title">Sessions</span>
-	{% for session in site.dev-sessions %}
+	{% for session in sessions %}
 	    <li><a href="{{ session.url | relative_url }}"{% if session.url == page.url %} class="active"{% endif %}>{{ session.title }}</a></li>
     {% endfor %}
 	<span class="nav__sub-title">Creatures</span>

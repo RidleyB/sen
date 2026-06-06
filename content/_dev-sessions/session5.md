@@ -1,5 +1,6 @@
 ---
 title: "Session #5 - Loose Ends"
+session_number: 5
 sidebar_ext:
   sticky: false
 page_content_viewer:

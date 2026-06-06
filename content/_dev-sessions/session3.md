@@ -1,5 +1,6 @@
 ---
 title: "Session #3 - Blacktide"
+session_number: 3
 sidebar_ext:
   sticky: false
 page_content_viewer:

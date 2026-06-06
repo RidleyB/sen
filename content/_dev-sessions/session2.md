@@ -1,5 +1,6 @@
 ---
 title: "Session #2 - Riot II"
+session_number: 2
 sidebar_ext:
   sticky: false
 

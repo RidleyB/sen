@@ -1,5 +1,6 @@
 ---
 title: "Session #4 - Whispers on the Pier"
+session_number: 4
 sidebar_ext:
   sticky: false
 page_content_viewer:

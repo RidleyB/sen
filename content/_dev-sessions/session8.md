@@ -1,5 +1,6 @@
 ---
 title: "Session #8 - Exodus"
+session_number: 8
 sidebar_ext:
   sticky: false
 ---

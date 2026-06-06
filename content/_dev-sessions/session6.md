@@ -1,5 +1,6 @@
 ---
 title: "Session #6 - Locked and Found"
+session_number: 6
 sidebar_ext:
   sticky: false
 page_content_viewer:

@@ -25,6 +25,9 @@ story:
     - title: "Session #8 - Exodus"
       url: /sessions/session8
       disabled: true
+    - title: "Session #9 - At Sea"
+      url: /sessions/session7
+      disabled: true
   - title: "Players"
     children:
     - title: "Creed"
