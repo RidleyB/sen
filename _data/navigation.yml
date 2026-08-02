@@ -127,6 +127,9 @@ sidebar:
             url: "/poi/oubliette"
       - title: Palor
         url: /locations/palor
+        subchildren: 
+          - title: "Grave's End"
+            url: "/poi/graves-end"
       - title: The Silver Marches
         url: /locations/silver-marches
       - title: Sunder
