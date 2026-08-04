@@ -210,13 +210,3 @@ A small stable near the upper roads.
 
 *A riding horse can carry a capacity of 480lbs.*<br>
 *A riding horse with a cart in tow can carry a capacity of 2400lbs.*
-
-## Atmosphere
-
-Despite its name, Grave's End is not a place of despair.
-
-It is a town built by people who have endured more than they should have.
-
-Children still play along the cliffside streets. Fishermen repair nets beside damaged piers. Lanterns continue glowing through smoke-filled nights. Neighbors rebuild homes that have fallen before and will likely fall again.
-
-Grave's End represents the Outer Provinces themselves: battered, stubborn, and alive.
