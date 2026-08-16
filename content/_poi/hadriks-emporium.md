@@ -1,12 +1,11 @@
 ---
-title: Hardrik's Caravan
+title: Hadrik's Caravan
 header:
   excerpt: "*“Quality goods. Fair prices. No questions asked.”*"
   overlay_image: "/assets/images/graves-end.png"
 toc: true
 toc_sticky: true
 ---
-# Hadrik's Traveling Goods
 
 ### Uncommon Goods
 
